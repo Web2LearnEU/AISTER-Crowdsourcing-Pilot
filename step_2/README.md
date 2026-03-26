@@ -112,14 +112,14 @@ Expected output:
 - `outputs/tags.csv`
 
 
-## Quality and Limitations
+## Limitations
 
 - Captions and tags are **AI-generated suggestions**, not final annotations.
-- Captions may occasionally include speculative interpretation despite prompt
-  constraints.
-- Tags are often general (`man`, `woman`) and may miss specific named entities
-  (for example, a depicted person such as Taras Shevchenko).
-- Some extracted "tags" are full phrases/sentences (for example, `older man in
-  light blue shirt` or `visible signs of age and wear`) rather than concise
+- Captions may occasionally include speculative or incorrect cultural labeling
+  (for example, "traditional Russian folk attire" or "Russian Orthodox
+  monastery complex"), even when the material is Ukrainian.
+- Tags are often general ("man", "woman") and may miss specific named entities
+  (for example, a depicted person such as "Taras Shevchenko").
+- Some extracted tags are full phrases/sentences (for example, "older man in
+  light blue shirt" or "visible signs of age and wear") rather than concise
   normalized terms.
-- Final validation and refinement happen in **Step 3 (human-in-the-loop)**.
