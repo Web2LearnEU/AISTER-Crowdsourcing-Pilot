@@ -83,13 +83,18 @@ Run:
 
 - `notebooks/02_tag_extraction_from_metadata.ipynb`
 
+This notebook:
+- loads metadata from previous step
+- builds text input from relevant fields
+- runs NER & heuristics
+- categorizes tags into **Figures**, **Objects** and **Scenes**
+
 Expected output:
 
 - `outputs/krovets_folk_tags.csv`
 
 ## Limitations
 
-- Tags are **AI-generated suggestions**, not final annotations.
-- Tags are often general ("man", "woman") and may miss specific named entities
-(for example, a depicted person such as "Taras Shevchenko").
-- Some extracted tags like scenes are full phrases/sentences (for example, "The Kazan icon of the Mother of God") rather than concise normalized terms.
+- The model only extracts what is available in the record's metadata and cannot extract content from non-text fields.
+- Records are not always similar in terms of style or presentation and may have field values in other languages (e.g. Ukrainian) or in many different languages.
+- Custom rules are necessary for object or scene extraction, as the model cannot generate cultural-specific labels.
