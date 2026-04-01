@@ -3,12 +3,12 @@ Small-scale study implementing and analysing an experimental digital humanities 
 
 ## Workflow Steps Overview
 
-### Step 1: Data Collection and Preparation
-- Gathered Ukrainian ethnographic materials from various digital archives.
-- Standardized and cleaned metadata to ensure consistency.
-- Prepared datasets for further processing by both AI and human annotators.
+### Step 1: Text-based metadata enrichment
+- Fetch structured metadata for the folk paintings dataset from the Europeana API
+- Prepare the dataset for tag extraction through feature engineering
+- Extract candidate tags from title and description using NLP (spaCy - NER)
 
-### Step 2: AI-Assisted Metadata Enhancement
-- Applied natural language processing and machine vision models to generate and enrich descriptive metadata.
-- Used human-in-the-loop validation to review and correct AI-generated outputs.
-- Improved metadata quality, accessibility, and discoverability for end users.
+### Step 2: Image enrichment
+- Download images of folk paintings using their ids (fetched via the API)
+- Generate captions for images using image recognition and machine vision
+- Extract candidate tags from the machine-generated caption
