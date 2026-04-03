@@ -49,7 +49,7 @@ The CSV file contains the following metadata:
 The Krovets ethnographic collection is published under a CC BY-NC-ND 4.0 licence. All accompanying metadata are released into the public domain using CC0, to be freely copied, modified, distributed and reused.
 
 ## Code of Conduct
-The GitHub repository of Web2Learn follows the Contributor Covenant as a way to be overt in its openness, welcoming all people to engage and contribute, pledging in return to value them. In order to make our open communities welcoming, diverse and inclusive, we are encouraging the adaptation of a mindful code of conduct as a means to express and share those values. Any unacceptable behavior as trolling, insulting/derogatory comments, personal or political attacks will not be tolerated. The Contributor Covenant is released under the Creative Commons Attribution 4.0 International Public License.
+The GitHub repository of Web2Learn follows the [Contributor Covenant](https://www.contributor-covenant.org/) as a way to be overt in its openness, welcoming all people to engage and contribute, pledging in return to value them. In order to make our open communities welcoming, diverse and inclusive, we are encouraging the adaptation of a mindful code of conduct as a means to express and share those values. Any unacceptable behavior as trolling, insulting/derogatory comments, personal or political attacks will not be tolerated. The Contributor Covenant is released under the Creative Commons Attribution 4.0 International Public License.
 
 ## Project attribution
 [Web2Learn](https://web2learn.eu/)  
