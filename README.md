@@ -1,5 +1,6 @@
 # AISTER Human-In-The-Loop Crowdsourcing Pilot
 
+
 *The repository contains the complete workflow and files for automatically generating description tags for artefacts on Europeana using AI tools (natural language processing, computer vision), and for running a human-in-the-loop crowdsourcing campaign to validate the tags.* 
 
 ##  Pilot description
@@ -17,16 +18,14 @@ The pilot consists of 3 technical steps, each documented in its respective folde
 2 text files detailing the full technical stack and a structured report
 The *notebooks* folder contains executable code in Jupyter Notebook (.ipynb) format, while the *outputs* folder includes the resulting files generated from running the notebooks (CSV and JSON).
 
-## Workflow overview
+# Workflow overview
 *Step 1*: Tag generation from text (NLP-based)
 Retrieve metadata (titles, descriptions) from the Europeana API
 Generate tags from the text using NLP (NER) with spaCy
-
 *Step 2*: Tag generation from images (computer vision-based)
 Download images from the dataset
 Generate image captions using computer vision
 Generate tags from the image captions
-
 *Step 3*: Preparation for crowdsourcing (JSON-LD formatting)
 Format all generated tags based on the W3C annotation model for direct ingestion in the crowdsourcing platform
 
@@ -39,18 +38,26 @@ The folk art paintings can be explored as a public gallery on Europeana: https:/
 The institution providing the collection and metadata is the **Online Museum of the traditional art of Ukraine - KROVETS**. The aggregator gathering the content is **MUSEU**. The platform for accessing the collection is **Europeana**. 
 
 ## Technical Aspects
+…
+
+The CSV file contains the following metadata:
 
 
+…
 
+## License    
+The Krovets ethnographic collection is published under a CC BY-NC-ND 4.0 licence. All accompanying metadata are released into the public domain using CC0, to be freely copied, modified, distributed and reused.
 
-## Workflow Steps Overview
+## Code of Conduct
+The GitHub repository of Web2Learn follows the Contributor Covenant as a way to be overt in its openness, welcoming all people to engage and contribute, pledging in return to value them. In order to make our open communities welcoming, diverse and inclusive, we are encouraging the adaptation of a mindful code of conduct as a means to express and share those values. Any unacceptable behavior as trolling, insulting/derogatory comments, personal or political attacks will not be tolerated. The Contributor Covenant is released under the Creative Commons Attribution 4.0 International Public License.
 
-### Step 1: Text-based metadata enrichment
-- Fetch structured metadata for the folk paintings dataset from the Europeana API
-- Prepare the dataset for tag extraction through feature engineering
-- Extract candidate tags from title and description using NLP (spaCy - NER)
+## Project attribution
+[Web2Learn](https://web2learn.eu/)
+[Mariana Ziku](https://web2learn.eu/mariana-ziku/): Researcher
+[[Andreas Kouzelis](https://web2learn.eu/andreas-kouzelis/): Information Systems Εngineer 
+[Andreas Darsaklis](https://web2learn.eu/andreas-darsaklis/): IT trainee
+[Dr Katerina Zourou](https://web2learn.eu/katerina-zourou/): Director
 
-### Step 2: Image enrichment
-- Download images of folk paintings using their ids (fetched via the API)
-- Generate captions for images using image recognition and machine vision
-- Extract candidate tags from the machine-generated caption
+# Cite this dataset
+When referring to or using the data repository in research publications and documentation, consider citing the dataset with its digital object identifier (DOI) minted on Zenodo. Citing the dataset of the Krovets folk art collection creates a mapping of attribution supporting efforts to release other datasets in the future. It also reduces the amount of "orphaned data," helping to retain source links. Cite the repository as: Ziku, M., Kouzelis, A., Darsaklis, A. & Zourou, K. (2026). The AISTER Human-In-The-Loop Crowdsourcing Pilot [Dataset]. Zenodo. 
+
