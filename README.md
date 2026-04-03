@@ -3,7 +3,6 @@
 
 # AISTER Human-In-The-Loop Crowdsourcing Pilot
 
-
 *The repository contains the complete workflow and files for automatically generating description tags for artefacts on Europeana using AI tools (natural language processing, computer vision), and for running a human-in-the-loop crowdsourcing campaign to validate the tags.* 
 
 ##  Pilot description
@@ -66,6 +65,10 @@ The GitHub repository of Web2Learn follows the [Contributor Covenant](https://ww
 ## Cite this dataset
 When referring to or using the data repository in research publications and documentation, consider citing the dataset with its digital object identifier (DOI) minted on Zenodo. Citing the dataset of the HITL crowdsourcing pilot creates a mapping of attribution supporting efforts to release other datasets in the future. It also reduces the amount of "orphaned data," helping to retain source links. Cite the repository as: Ziku, M., Kouzelis, A., Darsaklis, A. & Zourou, K. (2026). The AISTER Human-In-The-Loop Crowdsourcing Pilot [Dataset]. Zenodo. 
 
-# Disclaimer
+## Acknowledgements
+This README file follows the structure of the *KU Leuven Libraries* Git-based dataset documentation, i.e., https://github.com/KU-Leuven-Libraries/Portraits-Collection-Dataset.  
+The documentation of the Jupyter Notebooks follows the criteria of quality assessment for Jupyter projects by GLAM institutions, as published in Candela, G., Chambers, S., & Sherratt, T. (2023). An approach to assess the quality of Jupyter projects published by GLAM institutions. *Journal of the Association for Information Science and Technology*, 74(13), 1550–1564. https://doi.org/10.1002/asi.24835
+
+## Disclaimer
 Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them.
 
