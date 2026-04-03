@@ -57,6 +57,7 @@ The GitHub repository of Web2Learn follows the [Contributor Covenant](https://ww
 
 ## Project attribution
 [Web2Learn](https://web2learn.eu/)  
+
 [Mariana Ziku](https://web2learn.eu/mariana-ziku/): Researcher  
 [Andreas Kouzelis](https://web2learn.eu/andreas-kouzelis/): Information Systems Εngineer  
 [Andreas Darsaklis](https://web2learn.eu/andreas-darsaklis/): IT trainee  
