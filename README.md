@@ -14,20 +14,22 @@ The repository is designated as an open-source resource for digital humanities r
 
 ## Repository description
 The pilot consists of 3 technical steps, each documented in its respective folder within this repository *(step_1, step_2, step 3)*. Each step folder includes:
-2 subfolders: *notebooks* and *outputs*
-2 text files detailing the full technical stack and a structured report
+- 2 subfolders: *notebooks* and *outputs*
+- 2 text files detailing the full technical stack and a structured report
 The *notebooks* folder contains executable code in Jupyter Notebook (.ipynb) format, while the *outputs* folder includes the resulting files generated from running the notebooks (CSV and JSON).
 
 # Workflow overview  
 *Step 1*: Tag generation from text (NLP-based)  
-Retrieve metadata (titles, descriptions) from the Europeana API  
-Generate tags from the text using NLP (NER) with spaCy  
+- Retrieve metadata (titles, descriptions) from the Europeana API  
+- Generate tags from the text using NLP (NER) with spaCy
+  
 *Step 2*: Tag generation from images (computer vision-based)  
-Download images from the dataset  
-Generate image captions using computer vision  
-Generate tags from the image captions  
+- Download images from the dataset  
+- Generate image captions using computer vision  
+- Generate tags from the image captions
+  
 *Step 3*: Preparation for crowdsourcing (JSON-LD formatting)  
-Format all generated tags based on the W3C annotation model for direct ingestion in the crowdsourcing platform  
+- Format all generated tags based on the W3C annotation model for direct ingestion in the crowdsourcing platform  
 
 # Applied heritage collection: The Krovets ethnographic collection  
 The Krovets ethnographic collection contains 3840 artefacts of Ukrainian traditional art and life spanning the 19th and 20th centuries. It is part of the Krovets Online Museum of Traditional Art of Ukraine (https://krovets.ua/en). The collection includes a variety of different artefacts, from everyday objects like utensils and clothing to folk art.  
