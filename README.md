@@ -1,4 +1,4 @@
-![Alt text]([https://example.com/image.jpg](https://web2learn.eu/wp-content/uploads/2026/03/banner-site.png))
+![Alt text](https://web2learn.eu/wp-content/uploads/2026/03/banner-site.png)
 *Folk Painting "Portrait of a girl" by unknown - Online Museum of the traditional art of Ukraine - KROVETS, Ukraine - CC BY-NC-ND. https://www.europeana.eu/en/item/1413/KYD1791*
 
 # AISTER Human-In-The-Loop Crowdsourcing Pilot
