@@ -40,7 +40,7 @@ The pilot focuses on the folk paintings subset of the Krovets collection, which 
 The folk art paintings can be explored as a public gallery on Europeana: https://www.europeana.eu/en/galleries/26106-ukrainian-folk-art?page=4 
 
 ## Provenance
-The institution providing the collection and metadata is the [**Online Museum of the traditional art of Ukraine - KROVETS**](https://krovets.ua/en). The aggregator gathering the content is [**MUSEU**](https://www.museuhub.eu/en/1/home). The platform for accessing the collection is [**Europeana**](https://www.europeana.eu/en). 
+The institution providing the collection and metadata is the [Online Museum of the traditional art of Ukraine - KROVETS](https://krovets.ua/en). The aggregator gathering the content is [MUSEU](https://www.museuhub.eu/en/1/home). The platform for accessing the collection is [Europeana](https://www.europeana.eu/en). 
 
 ## Technical Aspects
 …
@@ -51,10 +51,10 @@ The CSV file contains the following metadata:
 …
 
 ## License    
-The Krovets ethnographic collection is published under a CC BY-NC-ND 4.0 licence. All accompanying metadata are released into the public domain using CC0, to be freely copied, modified, distributed and reused.
+The Krovets ethnographic collection is published under a [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) licence. All accompanying metadata are released into the public domain using [CC0](https://creativecommons.org/public-domain/cc0/), to be freely copied, modified, distributed and reused.
 
 ## Code of Conduct
-The GitHub repository of Web2Learn follows the [Contributor Covenant](https://www.contributor-covenant.org/) as a way to be overt in its openness, welcoming all people to engage and contribute, pledging in return to value them. In order to make our open communities welcoming, diverse and inclusive, we are encouraging the adaptation of a mindful code of conduct as a means to express and share those values. Any unacceptable behavior as trolling, insulting/derogatory comments, personal or political attacks will not be tolerated. The Contributor Covenant is released under the Creative Commons Attribution 4.0 International Public License.
+The GitHub repository of Web2Learn follows the [Contributor Covenant](https://www.contributor-covenant.org/) to be overt in its openness, welcoming all people to engage and contribute, pledging in return to value them. To make our open communities welcoming, diverse, and inclusive, we are encouraging the adoption of a mindful code of conduct to express and share those values. Any unacceptable behaviour, such as trolling, insulting/derogatory comments, or personal or political attacks, will not be tolerated. The Contributor Covenant is released under the Creative Commons Attribution 4.0 International Public License.
 
 ## Project attribution
 [Web2Learn](https://web2learn.eu/)  
@@ -64,7 +64,7 @@ The GitHub repository of Web2Learn follows the [Contributor Covenant](https://ww
 [Dr Katerina Zourou](https://web2learn.eu/katerina-zourou/): Director
 
 ## Cite this dataset
-When referring to or using the data repository in research publications and documentation, consider citing the dataset with its digital object identifier (DOI) minted on Zenodo. Citing the dataset of the Krovets folk art collection creates a mapping of attribution supporting efforts to release other datasets in the future. It also reduces the amount of "orphaned data," helping to retain source links. Cite the repository as: Ziku, M., Kouzelis, A., Darsaklis, A. & Zourou, K. (2026). The AISTER Human-In-The-Loop Crowdsourcing Pilot [Dataset]. Zenodo. 
+When referring to or using the data repository in research publications and documentation, consider citing the dataset with its digital object identifier (DOI) minted on Zenodo. Citing the dataset of the HITL crowdsourcing pilot creates a mapping of attribution supporting efforts to release other datasets in the future. It also reduces the amount of "orphaned data," helping to retain source links. Cite the repository as: Ziku, M., Kouzelis, A., Darsaklis, A. & Zourou, K. (2026). The AISTER Human-In-The-Loop Crowdsourcing Pilot [Dataset]. Zenodo. 
 
 # Disclaimer
 Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them.
