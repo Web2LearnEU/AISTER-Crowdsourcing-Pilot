@@ -50,7 +50,7 @@ The CSV file contains the following metadata:
 …
 
 ## License    
-The Krovets ethnographic collection is published under a [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) licence. All accompanying metadata are released into the public domain using [CC0](https://creativecommons.org/public-domain/cc0/), to be freely copied, modified, distributed and reused.
+This data repository is released under the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) licence. The Krovets ethnographic collection is published under a [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) licence. All accompanying metadata are released into the public domain using [CC0](https://creativecommons.org/public-domain/cc0/), to be freely copied, modified, distributed and reused. 
 
 ## Code of Conduct
 The GitHub repository of Web2Learn follows the [Contributor Covenant](https://www.contributor-covenant.org/) to be overt in its openness, welcoming all people to engage and contribute, pledging in return to value them. To make our open communities welcoming, diverse, and inclusive, we are encouraging the adoption of a mindful code of conduct to express and share those values. Any unacceptable behaviour, such as trolling, insulting/derogatory comments, or personal or political attacks, will not be tolerated. The Contributor Covenant is released under the Creative Commons Attribution 4.0 International Public License.
@@ -58,15 +58,17 @@ The GitHub repository of Web2Learn follows the [Contributor Covenant](https://ww
 ## Project attribution
 [Web2Learn](https://web2learn.eu/)  
 [Mariana Ziku](https://web2learn.eu/mariana-ziku/): Researcher  
-[[Andreas Kouzelis](https://web2learn.eu/andreas-kouzelis/): Information Systems Εngineer  
+[Andreas Kouzelis](https://web2learn.eu/andreas-kouzelis/): Information Systems Εngineer  
 [Andreas Darsaklis](https://web2learn.eu/andreas-darsaklis/): IT trainee  
 [Dr Katerina Zourou](https://web2learn.eu/katerina-zourou/): Director
 
 ## Cite this dataset
-When referring to or using the data repository in research publications and documentation, consider citing the dataset with its digital object identifier (DOI) minted on Zenodo. Citing the dataset of the HITL crowdsourcing pilot creates a mapping of attribution supporting efforts to release other datasets in the future. It also reduces the amount of "orphaned data," helping to retain source links. Cite the repository as: Ziku, M., Kouzelis, A., Darsaklis, A. & Zourou, K. (2026). The AISTER Human-In-The-Loop Crowdsourcing Pilot [Dataset]. Zenodo. 
+When referring to or using the data repository in research publications and documentation, consider citing the dataset with its digital object identifier (DOI) minted on Zenodo. Citing the dataset of the HITL crowdsourcing pilot creates a mapping of attribution supporting efforts to release other datasets in the future. It also reduces the amount of "orphaned data," helping to retain source links.  
+Cite the repository as: Ziku, M., Kouzelis, A., Darsaklis, A. & Zourou, K. (2026). The AISTER Human-In-The-Loop Crowdsourcing Pilot [Dataset]. Zenodo. 
 
 ## Acknowledgements
-This README file follows the structure of the *KU Leuven Libraries* Git-based dataset documentation, i.e., https://github.com/KU-Leuven-Libraries/Portraits-Collection-Dataset.  
+This README file follows the structure of the *KU Leuven Libraries* Git-based dataset documentation, i.e., https://github.com/KU-Leuven-Libraries/Portraits-Collection-Dataset. See: KU Leuven Libraries, Digitisation Department. (2019). The Portraits Collection Dataset of KU Leuven Libraries, Special Collections (Version 01-beta2) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3460785.  
+
 The documentation of the Jupyter Notebooks follows the criteria of quality assessment for Jupyter projects by GLAM institutions, as published in Candela, G., Chambers, S., & Sherratt, T. (2023). An approach to assess the quality of Jupyter projects published by GLAM institutions. *Journal of the Association for Information Science and Technology*, 74(13), 1550–1564. https://doi.org/10.1002/asi.24835
 
 ## Disclaimer
