@@ -1,0 +1,4019 @@
+created,value,europeana_id,upvotes,downvotes,recommendation
+13.02.2026,geometric patterns,HMT1,1,0,accept
+13.02.2026,icon,HMT1,1,0,accept
+13.02.2026,wedding couple,HMT1,1,0,accept
+13.02.2026,traditional iconographic style,HMT1,0,0,unknown
+13.02.2026,religious icon,HMT1,2,0,accept
+13.02.2026,mary,HMT1,1,0,accept
+13.02.2026,halos,HMT1,1,0,accept
+13.02.2026,jesus,HMT1,1,0,accept
+13.02.2026,heart,HMT1,1,0,accept
+13.02.2026,sunburst design,HMT1,0,1,reject
+13.02.2026,cross,HMT1,1,0,accept
+13.02.2026,floral background,HMT1,1,0,accept
+13.02.2026,decorative wooden border,HMT1,1,0,accept
+13.02.2026,couple,HMT1,1,0,accept
+13.02.2026,icon,HMT2,3,0,accept
+13.02.2026,book,HMT2,3,0,accept
+13.02.2026,smaller figure on left,HMT2,3,0,accept
+13.02.2026,smaller figure on right,HMT2,3,0,accept
+13.02.2026,red robes,HMT2,3,0,accept
+13.02.2026,bearded man,HMT2,3,0,accept
+13.02.2026,red crown,HMT2,3,0,accept
+13.02.2026,hole in background,HMT2,2,0,accept
+13.02.2026,st. michael,HMT2,2,1,accept
+13.02.2026,clock face,HMT2,0,2,reject
+13.02.2026,portrait,KSU1,2,0,accept
+13.02.2026,red ribbon,KSU1,2,0,accept
+13.02.2026,portrait of a man,KSU1,2,0,accept
+13.02.2026,visible signs of age,KSU1,0,0,unknown
+13.02.2026,damage on the right side,KSU1,0,2,reject
+13.02.2026,man,KSU1,2,0,accept
+13.02.2026,dark cloak,KSU1,0,1,reject
+13.02.2026,green trousers,KSU1,0,2,reject
+13.02.2026,a man,KSU1,2,0,accept
+13.02.2026,white fur hat,KSU1,2,0,accept
+13.02.2026,white embroidered shirt,KSU1,2,0,accept
+13.02.2026,taras shevchenko,KSU10,2,0,accept
+13.02.2026,blue coat,KSU10,3,0,accept
+13.02.2026,wear,KSU10,0,0,unknown
+13.02.2026,painted portrait,KSU10,2,0,accept
+13.02.2026,balding man,KSU10,2,0,accept
+13.02.2026,red vest,KSU10,0,2,reject
+13.02.2026,grey mustache,KSU10,2,0,accept
+13.02.2026,portrait of taras shevchenko,KSU10,2,0,accept
+13.02.2026,white shirt,KSU10,2,0,accept
+13.02.2026,signs of age,KSU10,2,0,accept
+13.02.2026,windows,KSU11,1,0,accept
+13.02.2026,cottage,KSU11,0,1,reject
+13.02.2026,trees,KSU11,1,0,accept
+13.02.2026,flowers,KSU11,1,0,accept
+13.02.2026,shore,KSU11,1,0,accept
+13.02.2026,boat,KSU11,1,0,accept
+13.02.2026,painting,KSU11,2,0,accept
+13.02.2026,stones,KSU11,1,0,accept
+13.02.2026,impressionistic style,KSU11,2,0,accept
+13.02.2026,thatched roof,KSU11,1,0,accept
+13.02.2026,a village,KSU11,0,0,unknown
+13.02.2026,moon,KSU11,1,0,accept
+13.02.2026,tall cypress trees,KSU12,0,0,unknown
+13.02.2026,painting,KSU12,0,2,reject
+13.02.2026,three houses,KSU12,2,0,accept
+13.02.2026,thatched roofs,KSU12,2,0,accept
+13.02.2026,rural village,KSU12,2,0,accept
+13.02.2026,trees,KSU12,2,0,accept
+13.02.2026,dirt path,KSU12,2,0,accept
+13.02.2026,blue trim,KSU12,0,2,reject
+13.02.2026,white walls,KSU12,2,0,accept
+13.02.2026,wooden fence,KSU12,2,0,accept
+13.02.2026,a village,KSU12,2,0,accept
+13.02.2026,canvas,KSU12,1,0,accept
+13.02.2026,bucket,KSU13,3,1,accept
+13.02.2026,wear,KSU13,1,3,reject
+13.02.2026,traditional folk attire,KSU13,4,0,accept
+13.02.2026,wooden well,KSU13,4,0,accept
+13.02.2026,painting,KSU13,4,0,accept
+13.02.2026,dark blue bodice,KSU13,3,1,accept
+13.02.2026,rural landscape,KSU13,4,0,accept
+13.02.2026,signs of age,KSU13,3,1,accept
+13.02.2026,woman,KSU13,4,0,accept
+13.02.2026,near the well,KSU13,0,0,unknown
+13.02.2026,white blouse with red embroidery,KSU13,4,0,accept
+13.02.2026,patterned skirt,KSU13,3,1,accept
+13.02.2026,horse,KSU14,3,0,accept
+13.02.2026,person,KSU14,3,0,accept
+13.02.2026,sled,KSU14,3,0,accept
+13.02.2026,weathered,KSU14,0,2,reject
+13.02.2026,frame,KSU14,3,0,accept
+13.02.2026,dog,KSU14,3,0,accept
+13.02.2026,a village,KSU14,3,0,accept
+13.02.2026,winter scene,KSU14,3,0,accept
+13.02.2026,village,KSU14,3,0,accept
+13.02.2026,red hat,KSU14,3,0,accept
+13.02.2026,snow-covered rural scene,KSU15,2,0,accept
+13.02.2026,dark roof,KSU15,1,2,reject
+13.02.2026,snow-covered path,KSU15,3,0,accept
+13.02.2026,small round thatched-roof house,KSU15,0,0,unknown
+13.02.2026,other houses,KSU15,2,0,accept
+13.02.2026,yellow wall,KSU15,2,0,accept
+13.02.2026,a village,KSU15,2,0,accept
+13.02.2026,wooden fence,KSU15,2,0,accept
+13.02.2026,painting,KSU15,0,0,unknown
+13.02.2026,chimney,KSU15,0,0,unknown
+13.02.2026,trees,KSU15,2,0,accept
+13.02.2026,russian orthodox church complex,KSU16,0,2,reject
+13.02.2026,painting,KSU16,2,0,accept
+13.02.2026,dirt field,KSU16,0,1,reject
+13.02.2026,white walls,KSU16,1,0,accept
+13.02.2026,wooden fence,KSU16,1,0,accept
+13.02.2026,two figures,KSU16,1,0,accept
+13.02.2026,grassy hill,KSU16,1,0,accept
+13.02.2026,small white building,KSU16,1,0,accept
+13.02.2026,golden crosses,KSU16,1,0,accept
+13.02.2026,a village,KSU16,0,1,reject
+13.02.2026,green domes,KSU16,1,0,accept
+13.02.2026,trees,KSU16,1,0,accept
+13.02.2026,bell tower,KSU16,1,0,accept
+13.02.2026,cluster of dark grapes,KSU17,3,0,accept
+13.02.2026,several green apples,KSU17,3,0,accept
+13.02.2026,vase with flowers,KSU17,3,0,accept
+13.02.2026,small orange pumpkin,KSU17,2,1,accept
+13.02.2026,sliced watermelon,KSU17,3,0,accept
+13.02.2026,blue label,KSU17,3,0,accept
+13.02.2026,plate,KSU17,3,0,accept
+13.02.2026,canvas,KSU17,0,0,unknown
+13.02.2026,still life,KSU17,1,2,reject
+13.02.2026,bowl of green cucumbers,KSU17,3,0,accept
+13.02.2026,bottle of wine,KSU17,3,0,accept
+13.02.2026,bunch of green grapes,KSU17,3,0,accept
+13.02.2026,still life painting,KSU17,0,2,reject
+13.02.2026,wear,KSU18,1,0,accept
+13.02.2026,painted scene,KSU18,3,0,accept
+13.02.2026,signs of age,KSU18,0,0,unknown
+13.02.2026,domes,KSU18,2,0,accept
+13.02.2026,white fence,KSU18,2,0,accept
+13.02.2026,wooden frame,KSU18,2,0,accept
+13.02.2026,path,KSU18,2,0,accept
+13.02.2026,houses,KSU18,2,1,accept
+13.02.2026,two groups of people,KSU18,3,0,accept
+13.02.2026,crosses,KSU18,2,0,accept
+13.02.2026,village,KSU18,0,0,unknown
+13.02.2026,a village,KSU18,1,2,reject
+13.02.2026,church,KSU18,2,0,accept
+13.02.2026,trees,KSU18,2,0,accept
+13.02.2026,roofs,KSU18,2,0,accept
+13.02.2026,visible signs of age and wear,KSU19,1,2,reject
+13.02.2026,rural landscape,KSU19,3,0,accept
+13.02.2026,red and blue embroidered dress,KSU19,3,0,accept
+13.02.2026,kozak,KSU19,3,0,accept
+13.02.2026,woman,KSU19,3,0,accept
+13.02.2026,man,KSU19,3,0,accept
+13.02.2026,small wooden bucket,KSU19,3,0,accept
+13.02.2026,red saddle,KSU19,3,0,accept
+13.02.2026,girl,KSU19,3,0,accept
+13.02.2026,dark blue military uniform,KSU19,3,0,accept
+13.02.2026,black hat,KSU19,3,0,accept
+13.02.2026,white horse,KSU19,3,0,accept
+13.02.2026,kozak with a girl,KSU19,3,0,accept
+13.02.2026,canvas,KSU2,2,1,accept
+13.02.2026,man,KSU2,3,0,accept
+13.02.2026,cart,KSU2,2,1,accept
+13.02.2026,chumak,KSU2,3,0,accept
+13.02.2026,signs of age and wear,KSU2,3,0,accept
+13.02.2026,cows,KSU2,2,1,accept
+13.02.2026,painting,KSU2,3,0,accept
+13.02.2026,bundle of hay or straw,KSU2,1,2,reject
+13.02.2026,traditional attire,KSU2,2,1,accept
+13.02.2026,leafy plant,KSU20,1,0,accept
+13.02.2026,visible cracks,KSU20,0,2,reject
+13.02.2026,bowl,KSU20,0,0,unknown
+13.02.2026,basket,KSU20,2,0,accept
+13.02.2026,damage,KSU20,2,0,accept
+13.02.2026,still life,KSU20,2,0,accept
+13.02.2026,grapes,KSU20,1,0,accept
+13.02.2026,pears,KSU20,2,0,accept
+13.02.2026,slice,KSU20,0,0,unknown
+13.02.2026,watermelon,KSU20,2,0,accept
+13.02.2026,man,KSU21,2,0,accept
+13.02.2026,bundle,KSU21,0,2,reject
+13.02.2026,rural landscape,KSU21,2,0,accept
+13.02.2026,two oxen,KSU21,2,0,accept
+13.02.2026,white shirt,KSU21,2,0,accept
+13.02.2026,oil painting,KSU21,0,2,reject
+13.02.2026,other figures,KSU21,0,2,reject
+13.02.2026,cart,KSU21,0,2,reject
+13.02.2026,wear,KSU21,2,0,accept
+13.02.2026,once upon a time on a field,KSU21,2,0,accept
+13.02.2026,cracks,KSU21,0,2,reject
+13.02.2026,trousers,KSU21,2,0,accept
+13.02.2026,plow,KSU21,2,0,accept
+13.02.2026,cracking,KSU22,0,2,reject
+13.02.2026,floral embroidery,KSU22,3,0,accept
+13.02.2026,a girl,KSU22,3,0,accept
+13.02.2026,white blouse,KSU22,3,0,accept
+13.02.2026,orange beads,KSU22,3,0,accept
+13.02.2026,peeling paint,KSU22,1,2,reject
+13.02.2026,white beads,KSU22,2,0,accept
+13.02.2026,girl,KSU22,3,0,accept
+13.02.2026,portrait of a girl,KSU22,3,0,accept
+13.02.2026,multi-layered necklace,KSU22,3,0,accept
+13.02.2026,portrait,KSU22,3,0,accept
+13.02.2026,woman,KSU22,3,0,accept
+13.02.2026,red beads,KSU22,3,0,accept
+13.02.2026,traditional attire,KSU22,3,0,accept
+13.02.2026,dark vest,KSU22,2,1,accept
+13.02.2026,taras shevchenko,KSU23,2,0,accept
+13.02.2026,mustache,KSU23,2,0,accept
+13.02.2026,portrait,KSU23,2,0,accept
+13.02.2026,signs of age and wear,KSU23,2,0,accept
+13.02.2026,dark coat,KSU23,2,0,accept
+13.02.2026,portrait of taras shevchenko,KSU23,2,0,accept
+13.02.2026,rough texture,KSU23,1,0,accept
+13.02.2026,brown shirt,KSU23,1,0,accept
+13.02.2026,dark fur-lined hat,KSU23,1,0,accept
+13.02.2026,cracks,KSU23,0,2,reject
+13.02.2026,man,KSU23,2,0,accept
+13.02.2026,dirt path,KSU24,2,0,accept
+13.02.2026,birch tree,KSU24,2,0,accept
+13.02.2026,other trees,KSU24,2,0,accept
+13.02.2026,paint wear,KSU24,0,2,reject
+13.02.2026,signature,KSU24,2,0,accept
+13.02.2026,painting,KSU24,2,0,accept
+13.02.2026,small figure,KSU24,2,0,accept
+13.02.2026,signs of age,KSU24,2,0,accept
+13.02.2026,cracks,KSU24,0,2,reject
+13.02.2026,watermark,KSU24,0,2,reject
+13.02.2026,a village,KSU24,2,0,accept
+13.02.2026,rural landscape,KSU24,2,0,accept
+13.02.2026,chickens,KSU25,4,0,accept
+13.02.2026,wooden fence,KSU25,4,0,accept
+13.02.2026,bucket,KSU25,4,0,accept
+13.02.2026,houses,KSU25,4,0,accept
+13.02.2026,young boy,KSU25,4,0,accept
+13.02.2026,red skirt,KSU25,4,0,accept
+13.02.2026,woman,KSU25,4,0,accept
+13.02.2026,white shirt,KSU25,4,0,accept
+19.03.2026,"Geese, child",KSU25,1,0,accept
+13.02.2026,oil painting,KSU25,1,3,reject
+13.02.2026,canvas,KSU25,1,3,reject
+13.02.2026,cracks,KSU25,1,3,reject
+13.02.2026,wear,KSU25,1,3,reject
+13.02.2026,trees,KSU25,4,0,accept
+13.02.2026,well,KSU25,1,3,reject
+13.02.2026,near the well,KSU25,4,0,accept
+13.02.2026,wooden trough,KSU25,4,0,accept
+13.02.2026,wooden pole,KSU25,4,0,accept
+13.02.2026,blue domes,KSU3,2,0,accept
+13.02.2026,houses,KSU3,1,0,accept
+13.02.2026,pushkarivka,KSU3,0,1,reject
+13.02.2026,rural landscape,KSU3,2,0,accept
+13.02.2026,river,KSU3,2,0,accept
+13.02.2026,woman,KSU3,2,0,accept
+13.02.2026,wooden bridge,KSU3,2,0,accept
+13.02.2026,frame,KSU3,0,0,unknown
+13.02.2026,horse-drawn cart,KSU3,2,0,accept
+13.02.2026,red skirt,KSU3,2,0,accept
+13.02.2026,swans,KSU3,2,0,accept
+13.02.2026,painting,KSU3,0,0,unknown
+13.02.2026,church,KSU3,2,0,accept
+22.03.2026,Taras Shevchenko,KSU4,0,0,unknown
+13.02.2026,white beard,KSU4,0,1,reject
+13.02.2026,dark fur hat,KSU4,1,0,accept
+13.02.2026,visible brushstrokes,KSU4,0,1,reject
+13.02.2026,elderly man,KSU4,1,0,accept
+13.02.2026,portrait of taras shevchenko,KSU4,2,0,accept
+13.02.2026,portrait,KSU4,1,0,accept
+13.02.2026,dark coat,KSU4,1,0,accept
+13.02.2026,taras shevchenko,KSU4,2,1,accept
+13.02.2026,damage,KSU4,1,0,accept
+13.02.2026,mustache,KSU4,1,0,accept
+13.02.2026,oil painting,KSU5,0,2,reject
+13.02.2026,stream,KSU5,0,3,reject
+13.02.2026,birch trees,KSU5,3,0,accept
+13.02.2026,landscape,KSU5,3,0,accept
+13.02.2026,leaves,KSU5,3,0,accept
+13.02.2026,forest scene,KSU5,3,0,accept
+13.02.2026,canvas,KSU5,0,3,reject
+13.02.2026,pond,KSU5,0,3,reject
+13.02.2026,book,KSU6,4,0,accept
+13.02.2026,table,KSU6,4,0,accept
+13.02.2026,portrait,KSU6,4,0,accept
+13.02.2026,oil on canvas,KSU6,1,3,reject
+13.02.2026,inkwell,KSU6,4,0,accept
+13.02.2026,taras shevchenko,KSU6,4,0,accept
+13.02.2026,light-colored shirt with dark embroidery,KSU6,3,0,accept
+13.02.2026,bald man with a mustache,KSU6,4,0,accept
+13.02.2026,quill pen,KSU6,3,1,accept
+13.02.2026,portrait of taras shevchenko,KSU6,4,0,accept
+13.02.2026,dark cloak draped over shoulder,KSU6,3,1,accept
+13.02.2026,brown shirt,KSU7,0,3,reject
+13.02.2026,portrait of taras shevchenko,KSU7,3,0,accept
+13.02.2026,balding man,KSU7,3,0,accept
+13.02.2026,signs of age and wear,KSU7,3,0,accept
+13.02.2026,taras shevchenko,KSU7,3,0,accept
+13.02.2026,portrait,KSU7,3,0,accept
+13.02.2026,dark coat,KSU7,3,0,accept
+13.02.2026,signs of age and wear,KSU8,2,0,accept
+13.02.2026,swans,KSU8,3,0,accept
+13.02.2026,hay bales,KSU8,3,0,accept
+13.02.2026,trees,KSU8,3,0,accept
+13.02.2026,painting,KSU8,3,0,accept
+13.02.2026,body of water,KSU8,3,0,accept
+13.02.2026,small house,KSU8,3,0,accept
+13.02.2026,thatched roof,KSU8,3,0,accept
+13.02.2026,dark red frame,KSU8,3,0,accept
+13.02.2026,wooden fence,KSU8,3,0,accept
+13.02.2026,a village,KSU8,3,0,accept
+13.02.2026,green fields,KSU8,3,0,accept
+22.03.2026,Farewell,KSU9,1,0,accept
+13.02.2026,rural scene,KSU9,0,1,reject
+13.02.2026,woman in blue and red dress,KSU9,1,0,accept
+13.02.2026,blue and red dress,KSU9,1,0,accept
+13.02.2026,red coat,KSU9,0,1,reject
+13.02.2026,man in red coat,KSU9,1,0,accept
+13.02.2026,painting,KSU9,1,0,accept
+13.02.2026,visible signs of age and wear,KSU9,1,0,accept
+13.02.2026,older man in light blue shirt,KSU9,1,0,accept
+13.02.2026,light blue shirt,KSU9,1,0,accept
+13.02.2026,yaryna,KSU9,2,0,accept
+13.02.2026,black horse,KSU9,1,0,accept
+13.02.2026,sword,KSU9,0,1,reject
+13.02.2026,black hat,KSU9,1,0,accept
+13.02.2026,dark trousers,KSU9,1,0,accept
+13.02.2026,visible signs of age and wear,KYD1241,2,0,accept
+13.02.2026,golden halo,KYD1241,2,0,accept
+13.02.2026,red mark,KYD1241,0,2,reject
+13.02.2026,white bandage,KYD1241,0,2,reject
+13.02.2026,dark robe,KYD1241,2,0,accept
+13.02.2026,golden heart,KYD1241,2,0,accept
+13.02.2026,paint damage,KYD1241,2,0,accept
+13.02.2026,icon,KYD1241,2,0,accept
+22.03.2026,Sacred Heart,KYD1241,1,0,accept
+13.02.2026,cracks,KYD1241,1,0,accept
+13.02.2026,red garment,KYD1241,2,1,accept
+13.02.2026,cross,KYD1241,2,0,accept
+13.02.2026,jesus christ,KYD1241,3,0,accept
+13.02.2026,religious portrait,KYD1241,3,0,accept
+13.02.2026,white veil,KYD1242,0,0,unknown
+13.02.2026,woman,KYD1242,2,0,accept
+13.02.2026,bouquet,KYD1242,0,1,reject
+13.02.2026,icon,KYD1242,2,0,accept
+13.02.2026,religious portrait,KYD1242,2,0,accept
+13.02.2026,signs of age,KYD1242,2,0,accept
+13.02.2026,the virgin mary,KYD1242,2,0,accept
+13.02.2026,wear,KYD1242,0,1,reject
+13.02.2026,flowers,KYD1242,3,0,accept
+13.02.2026,red garment,KYD1242,3,0,accept
+22.03.2026,Great Schema,KYD1243,1,0,accept
+13.02.2026,signs of age,KYD1243,1,0,accept
+13.02.2026,the christ,KYD1243,2,1,accept
+13.02.2026,red outline,KYD1243,0,0,unknown
+13.02.2026,dark wooden surface,KYD1243,2,0,accept
+13.02.2026,damage,KYD1243,2,0,accept
+22.03.2026,Monastic Habit,KYD1243,1,0,accept
+22.03.2026,Monastic Vows,KYD1243,1,0,accept
+13.02.2026,icon,KYD1243,3,0,accept
+22.03.2026,Monastic Habit (detail),KYD1243,1,0,accept
+13.02.2026,large faded green cross,KYD1243,2,0,accept
+22.03.2026,Angelic Habit,KYD1243,1,0,accept
+13.02.2026,the exaltation of the holly cross,KYD1244,4,1,accept
+13.02.2026,woman,KYD1244,2,0,accept
+13.02.2026,staff,KYD1244,0,2,reject
+13.02.2026,icon,KYD1244,3,0,accept
+13.02.2026,paint damage,KYD1244,2,0,accept
+13.02.2026,dark robe,KYD1244,2,0,accept
+13.02.2026,crown,KYD1244,2,0,accept
+19.03.2026,St Helen,KYD1244,1,0,accept
+19.03.2026,The Exaltation of the Holy Cross of our Lord,KYD1244,1,0,accept
+13.02.2026,cracks,KYD1244,2,0,accept
+13.02.2026,jesus christ,KYD1244,2,0,accept
+19.03.2026,Constantine the Great,KYD1244,1,0,accept
+13.02.2026,green and red robe,KYD1244,2,0,accept
+19.03.2026,The Exaltation of the Holy Cross,KYD1244,1,0,accept
+13.02.2026,man,KYD1244,4,0,accept
+13.02.2026,large wooden cross,KYD1244,2,0,accept
+13.02.2026,resurrection of christ,KYD1244,2,0,accept
+13.02.2026,man,KYD1245,3,0,accept
+13.02.2026,saint,KYD1245,3,0,accept
+13.02.2026,vertical format,KYD1245,2,0,accept
+13.02.2026,red hood,KYD1245,3,0,accept
+13.02.2026,saint michael,KYD1245,2,1,accept
+13.02.2026,book,KYD1245,0,0,unknown
+19.03.2026,Our Lady and Saint Nicholas,KYD1245,1,0,accept
+13.02.2026,woman,KYD1245,2,0,accept
+13.02.2026,dark robe,KYD1245,2,0,accept
+13.02.2026,red patterned hat,KYD1245,2,0,accept
+13.02.2026,icon,KYD1245,2,0,accept
+13.02.2026,our lady and saint michael,KYD1245,2,0,accept
+13.02.2026,paint damage,KYD1245,2,0,accept
+13.02.2026,cracks,KYD1245,2,0,accept
+13.02.2026,child,KYD1245,3,0,accept
+19.03.2026,Nice,KYD1245,2,0,accept
+13.02.2026,the blessed virgin with a baby,KYD1246,2,0,accept
+19.03.2026,wow,KYD1246,3,0,accept
+13.02.2026,damaged,KYD1246,3,0,accept
+13.02.2026,woman,KYD1246,3,0,accept
+13.02.2026,old,KYD1246,4,0,accept
+13.02.2026,hood,KYD1246,4,0,accept
+13.02.2026,plant,KYD1246,4,0,accept
+13.02.2026,icon,KYD1246,4,0,accept
+13.02.2026,baby,KYD1246,3,0,accept
+13.02.2026,red robe,KYD1246,4,0,accept
+13.02.2026,cross,KYD1246,4,0,accept
+13.02.2026,religious icon,KYD1246,4,0,accept
+13.02.2026,child,KYD1246,4,0,accept
+13.02.2026,flowers,KYD1246,4,0,accept
+13.02.2026,small golden cross,KYD1247,3,0,accept
+13.02.2026,damage,KYD1247,2,0,accept
+13.02.2026,visible cracks,KYD1247,2,0,accept
+13.02.2026,st. paraskeva,KYD1247,3,0,accept
+13.02.2026,pearl necklace,KYD1247,2,0,accept
+13.02.2026,green robe,KYD1247,2,0,accept
+13.02.2026,yellow halo,KYD1247,2,0,accept
+13.02.2026,bundle of grass,KYD1247,0,2,reject
+13.02.2026,woman,KYD1247,2,0,accept
+13.02.2026,icon,KYD1247,2,0,accept
+13.02.2026,cross earring,KYD1247,3,0,accept
+13.02.2026,dark hair,KYD1247,3,0,accept
+13.02.2026,island,KYD1248,0,4,reject
+13.02.2026,visible signs of age and wear,KYD1248,3,0,accept
+13.02.2026,figure,KYD1248,4,0,accept
+13.02.2026,forest,KYD1248,3,0,accept
+13.02.2026,landscape,KYD1248,4,0,accept
+13.02.2026,dark clothing,KYD1248,4,0,accept
+13.02.2026,birch trees,KYD1248,4,0,accept
+13.02.2026,river,KYD1248,4,0,accept
+13.02.2026,vertical oil painting,KYD1248,0,0,unknown
+13.02.2026,yaryna,KYD1249,0,3,reject
+13.02.2026,dark horse,KYD1249,0,3,reject
+13.02.2026,damage,KYD1249,3,0,accept
+13.02.2026,red coat,KYD1249,3,0,accept
+13.02.2026,blue and red embroidered dress,KYD1249,3,0,accept
+13.02.2026,white shirt,KYD1249,3,0,accept
+13.02.2026,blue pants,KYD1249,3,0,accept
+13.02.2026,houses,KYD1249,3,0,accept
+13.02.2026,rifle,KYD1249,3,0,accept
+13.02.2026,signs of age,KYD1249,3,0,accept
+13.02.2026,man in red coat,KYD1249,3,0,accept
+13.02.2026,woman in blue and red embroidered dress,KYD1249,3,0,accept
+13.02.2026,man in white shirt,KYD1249,3,0,accept
+13.02.2026,painted folk art scene,KYD1249,3,0,accept
+13.02.2026,church,KYD1249,3,0,accept
+13.02.2026,black hat,KYD1249,3,0,accept
+13.02.2026,pond,KYD1250,4,0,accept
+13.02.2026,near the well,KYD1250,5,0,accept
+13.02.2026,horse,KYD1250,4,0,accept
+13.02.2026,white horse,KYD1250,4,0,accept
+13.02.2026,red and white dress,KYD1250,4,0,accept
+13.02.2026,water pump,KYD1250,0,0,unknown
+13.02.2026,red and green decorations,KYD1250,4,0,accept
+13.02.2026,woman,KYD1250,4,0,accept
+13.02.2026,swans,KYD1250,4,0,accept
+13.02.2026,red coat,KYD1250,4,0,accept
+13.02.2026,painted mural,KYD1250,0,0,unknown
+22.03.2026,Courtship by the Well,KYD1250,1,0,accept
+22.03.2026,Flirting,KYD1250,1,0,accept
+13.02.2026,rural village scene,KYD1250,5,0,accept
+13.02.2026,black hat,KYD1250,4,0,accept
+13.02.2026,birds,KYD1250,4,0,accept
+13.02.2026,man,KYD1250,4,0,accept
+13.02.2026,child,KYD1251,3,0,accept
+13.02.2026,woman,KYD1251,3,0,accept
+13.02.2026,girls,KYD1251,3,0,accept
+13.02.2026,long pole,KYD1251,3,0,accept
+13.02.2026,some damage,KYD1251,3,0,accept
+13.02.2026,lute,KYD1251,0,2,reject
+13.02.2026,cooking,KYD1251,3,0,accept
+13.02.2026,man,KYD1251,3,0,accept
+13.02.2026,boys and girls,KYD1251,3,0,accept
+13.02.2026,painting,KYD1251,3,0,accept
+13.02.2026,boat,KYD1251,3,0,accept
+13.02.2026,boys,KYD1251,3,0,accept
+13.02.2026,traditional folk attire,KYD1251,3,0,accept
+13.02.2026,visible grain,KYD1251,0,3,reject
+13.02.2026,depiction,KYD1251,3,0,accept
+13.02.2026,traditional attire,KYD1252,4,0,accept
+13.02.2026,multiple necklaces,KYD1252,4,0,accept
+13.02.2026,roses,KYD1252,4,0,accept
+13.02.2026,floral headpiece,KYD1252,4,0,accept
+13.02.2026,girl,KYD1252,4,0,accept
+13.02.2026,signs of aging,KYD1252,3,1,accept
+13.02.2026,woman,KYD1252,4,0,accept
+13.02.2026,white sleeves,KYD1252,4,0,accept
+13.02.2026,wooden chair,KYD1252,4,0,accept
+13.02.2026,vase,KYD1252,3,1,accept
+13.02.2026,portrait of a girl,KYD1252,4,0,accept
+13.02.2026,damage,KYD1252,0,3,reject
+13.02.2026,painted portrait,KYD1252,4,0,accept
+13.02.2026,blue dress,KYD1252,3,1,accept
+13.02.2026,a girl,KYD1252,4,0,accept
+13.02.2026,red patterns,KYD1252,4,0,accept
+13.02.2026,dark blue vest,KYD1252,3,1,accept
+13.02.2026,signs of age,KYD1253,3,0,accept
+13.02.2026,houses,KYD1253,3,0,accept
+13.02.2026,wooden painting,KYD1253,0,3,reject
+13.02.2026,dock,KYD1253,0,3,reject
+13.02.2026,a girl,KYD1253,0,3,reject
+13.02.2026,painting,KYD1253,3,0,accept
+13.02.2026,portrait of a girl,KYD1253,0,3,reject
+13.02.2026,church,KYD1253,3,0,accept
+13.02.2026,sky,KYD1253,3,0,accept
+13.02.2026,trees,KYD1253,3,0,accept
+13.02.2026,wear,KYD1253,0,3,reject
+13.02.2026,hill,KYD1253,0,3,reject
+13.02.2026,girl,KYD1253,0,3,reject
+13.02.2026,swans,KYD1253,3,0,accept
+13.02.2026,water,KYD1253,3,0,accept
+13.02.2026,boy,KYD1254,4,0,accept
+13.02.2026,dark vest,KYD1254,3,1,accept
+13.02.2026,heavy necklace of silver coins,KYD1254,3,0,accept
+13.02.2026,black hat,KYD1254,4,0,accept
+13.02.2026,portrait of a boy and a girl,KYD1254,4,0,accept
+13.02.2026,girl,KYD1254,4,0,accept
+13.02.2026,floral headband,KYD1254,4,0,accept
+13.02.2026,red tie,KYD1254,4,0,accept
+13.02.2026,white shirt,KYD1254,4,0,accept
+13.02.2026,man,KYD1254,4,0,accept
+13.02.2026,white blouse,KYD1254,4,0,accept
+13.02.2026,painted portrait,KYD1254,4,0,accept
+13.02.2026,dark jacket,KYD1254,4,0,accept
+13.02.2026,flowers,KYD1254,4,0,accept
+13.02.2026,woman,KYD1254,4,0,accept
+13.02.2026,embroidery,KYD1254,4,0,accept
+13.02.2026,a boy and a girl,KYD1254,4,0,accept
+13.02.2026,white blouse,KYD1255,2,0,accept
+13.02.2026,wear,KYD1255,3,0,accept
+13.02.2026,blue skirt,KYD1255,3,0,accept
+13.02.2026,elderly woman,KYD1255,3,0,accept
+13.02.2026,small white house,KYD1255,3,0,accept
+13.02.2026,portrait,KYD1255,3,0,accept
+13.02.2026,an older woman,KYD1255,3,0,accept
+13.02.2026,cow,KYD1255,3,0,accept
+13.02.2026,brown vest,KYD1255,2,0,accept
+13.02.2026,dark boots,KYD1255,3,0,accept
+13.02.2026,portrait of an older woman,KYD1255,3,0,accept
+13.02.2026,wooden stool,KYD1255,3,0,accept
+13.02.2026,woman,KYD1255,3,0,accept
+13.02.2026,wooden trough,KYD1255,3,0,accept
+13.02.2026,signs of age,KYD1255,3,0,accept
+13.02.2026,red ribbon,KYD1255,3,0,accept
+13.02.2026,blue floral embroidery,KYD1255,3,0,accept
+13.02.2026,fading,KYD1256,0,0,unknown
+13.02.2026,bald man,KYD1256,4,0,accept
+13.02.2026,blue shirt,KYD1256,0,0,unknown
+19.03.2026,cool,KYD1256,4,0,accept
+13.02.2026,portrait of taras shevchenko,KYD1256,4,0,accept
+13.02.2026,brown sash,KYD1256,0,0,unknown
+13.02.2026,visible signs of age and wear,KYD1256,4,0,accept
+13.02.2026,cracks,KYD1256,3,1,accept
+13.02.2026,taras shevchenko,KYD1256,4,0,accept
+13.02.2026,dark coat,KYD1256,4,0,accept
+13.02.2026,portrait,KYD1256,4,0,accept
+13.02.2026,"textured, peeling surface",KYD1257,4,0,accept
+13.02.2026,dark hat,KYD1257,4,0,accept
+13.02.2026,fire,KYD1257,4,0,accept
+13.02.2026,man in dark hat and coat,KYD1257,3,0,accept
+13.02.2026,red skirt,KYD1257,4,0,accept
+13.02.2026,damaged,KYD1257,4,0,accept
+13.02.2026,scene with several figures,KYD1257,3,0,accept
+13.02.2026,coat,KYD1257,3,0,accept
+13.02.2026,stringed instrument,KYD1257,4,0,accept
+13.02.2026,aged,KYD1257,4,0,accept
+13.02.2026,man on white horse,KYD1257,4,0,accept
+13.02.2026,white shirt,KYD1257,4,0,accept
+13.02.2026,two figures seated by fire,KYD1257,4,0,accept
+13.02.2026,shevchenko`s lesson…,KYD1257,3,0,accept
+13.02.2026,woman in white shirt and red skirt,KYD1257,4,0,accept
+13.02.2026,white horse,KYD1257,3,0,accept
+13.02.2026,body of water,KYD1257,3,0,accept
+13.02.2026,"damaged, aged painting",KYD1257,4,0,accept
+13.02.2026,"dark, double-breasted military uniform",KYD1258,4,0,accept
+13.02.2026,a young man in a uniform,KYD1258,4,0,accept
+13.02.2026,painted portrait,KYD1258,4,0,accept
+13.02.2026,buttons,KYD1258,4,0,accept
+13.02.2026,gold trim,KYD1258,2,1,accept
+13.02.2026,portrait of a young man in a uniform,KYD1258,4,0,accept
+13.02.2026,signs of age and wear,KYD1258,4,0,accept
+13.02.2026,man,KYD1258,4,0,accept
+13.02.2026,multi-layered necklace with beads,KYD1259,4,0,accept
+13.02.2026,floral headband,KYD1259,4,0,accept
+13.02.2026,girl,KYD1259,4,0,accept
+13.02.2026,woman,KYD1259,4,0,accept
+13.02.2026,dark blue vest,KYD1259,4,0,accept
+13.02.2026,white embroidered blouse,KYD1259,4,0,accept
+13.02.2026,a girl,KYD1259,4,0,accept
+13.02.2026,dark hair,KYD1259,4,0,accept
+13.02.2026,painted portrait,KYD1259,4,0,accept
+13.02.2026,portrait of a girl,KYD1259,4,0,accept
+13.02.2026,golden chalice,KYD1260,3,0,accept
+13.02.2026,saint varvara,KYD1260,3,0,accept
+13.02.2026,crown,KYD1260,3,0,accept
+13.02.2026,signs of age,KYD1260,2,0,accept
+13.02.2026,saint,KYD1260,3,0,accept
+13.02.2026,dark green robe,KYD1260,3,0,accept
+13.02.2026,red cloak,KYD1260,3,0,accept
+13.02.2026,icon,KYD1260,2,0,accept
+13.02.2026,flower,KYD1260,3,0,accept
+13.02.2026,woman,KYD1260,3,0,accept
+13.02.2026,damage,KYD1260,2,0,accept
+13.02.2026,white collar,KYD1260,2,0,accept
+13.02.2026,religious icon,KYD1260,2,0,accept
+13.02.2026,staff,KYD1261,0,1,reject
+13.02.2026,dove,KYD1261,1,0,accept
+13.02.2026,visible wood grain,KYD1261,1,0,accept
+13.02.2026,cracks,KYD1261,1,0,accept
+13.02.2026,icon,KYD1261,1,0,accept
+13.02.2026,two small painted heads,KYD1261,1,0,accept
+13.02.2026,"damaged, circular wooden icon",KYD1261,1,0,accept
+13.02.2026,bearded man,KYD1261,2,0,accept
+13.02.2026,green and red robe,KYD1261,2,0,accept
+13.02.2026,lord savaof,KYD1261,2,0,accept
+13.02.2026,blue garment,KYD1264,3,0,accept
+13.02.2026,icon,KYD1264,3,0,accept
+13.02.2026,red veil,KYD1264,3,0,accept
+13.02.2026,virgin mary,KYD1264,3,0,accept
+13.02.2026,gold necklace,KYD1264,0,3,reject
+13.02.2026,split into two panels,KYD1264,1,2,reject
+13.02.2026,white and green dress,KYD1264,1,2,reject
+13.02.2026,visible cracks,KYD1264,3,0,accept
+13.02.2026,infant jesus,KYD1264,3,0,accept
+13.02.2026,wood,KYD1264,3,0,accept
+13.02.2026,right panel showing a visible crack,KYD1264,3,0,accept
+13.02.2026,damage,KYD1264,3,0,accept
+13.02.2026,bogorodica trojerucica,KYD1264,3,0,accept
+13.02.2026,visible wood grain and damage,KYD1264,3,0,accept
+13.02.2026,red shirt,KYD1265,5,0,accept
+13.02.2026,portrait of taras shevchenko,KYD1265,5,0,accept
+13.02.2026,taras shevchenko,KYD1265,5,0,accept
+13.02.2026,white collar,KYD1265,5,0,accept
+13.02.2026,visible cracks,KYD1265,5,0,accept
+13.02.2026,portrait,KYD1265,5,0,accept
+13.02.2026,dark coat,KYD1265,5,0,accept
+13.02.2026,balding man,KYD1265,5,0,accept
+13.02.2026,age-related damage,KYD1265,5,0,accept
+13.02.2026,canvas,KYD1265,5,0,accept
+13.02.2026,fight of ivan bohun with yarema vyshnevetskyi,KYD1266,2,0,accept
+13.02.2026,several figures on horseback,KYD1266,0,0,unknown
+13.02.2026,yarema vyshnevetskyi,KYD1266,0,0,unknown
+13.02.2026,battle scene,KYD1266,1,0,accept
+13.02.2026,areas of wear,KYD1266,1,0,accept
+13.02.2026,ivan bohun,KYD1266,0,1,reject
+13.02.2026,castle,KYD1266,2,0,accept
+13.02.2026,visible brushstrokes,KYD1266,0,1,reject
+13.02.2026,horses,KYD1266,2,0,accept
+13.02.2026,numerous figures on horseback,KYD1267,0,1,reject
+13.02.2026,rider,KYD1267,2,0,accept
+13.02.2026,black crack in the lower right corner,KYD1267,2,0,accept
+13.02.2026,bows,KYD1267,2,0,accept
+13.02.2026,"colorful, traditional attire",KYD1267,2,0,accept
+13.02.2026,tarasova,KYD1267,2,0,accept
+13.02.2026,horseback,KYD1267,2,0,accept
+13.02.2026,tarasova nich,KYD1267,2,0,accept
+13.02.2026,chaotic battle scene,KYD1267,2,0,accept
+13.02.2026,swords,KYD1267,2,0,accept
+13.02.2026,night,KYD1267,2,0,accept
+13.02.2026,signs of wear and tear,KYD1267,2,0,accept
+13.02.2026,mother,KYD1679,2,0,accept
+13.02.2026,virgin mary,KYD1679,2,0,accept
+13.02.2026,dark cloak,KYD1679,1,0,accept
+13.02.2026,golden halo,KYD1679,1,0,accept
+13.02.2026,icon,KYD1679,1,0,accept
+13.02.2026,white tunic,KYD1679,1,0,accept
+13.02.2026,the kazan icon of the mother of god,KYD1679,1,0,accept
+13.02.2026,wooden icon,KYD1679,1,0,accept
+13.02.2026,red robe,KYD1679,2,0,accept
+13.02.2026,visible wood grain,KYD1679,1,0,accept
+13.02.2026,paint damage,KYD1679,1,0,accept
+13.02.2026,infant jesus,KYD1679,2,0,accept
+13.02.2026,red veil,KYD1679,1,0,accept
+13.02.2026,golden arch,KYD1680,0,1,reject
+13.02.2026,the blessed virgin with a baby,KYD1680,1,0,accept
+13.02.2026,paint loss,KYD1680,1,0,accept
+13.02.2026,halos,KYD1680,1,0,accept
+13.02.2026,icon,KYD1680,1,0,accept
+13.02.2026,red robe,KYD1680,1,0,accept
+13.02.2026,"dark, hooded garment",KYD1680,1,0,accept
+13.02.2026,religious icon,KYD1680,1,0,accept
+13.02.2026,dark border,KYD1680,2,0,accept
+13.02.2026,cracks,KYD1680,1,0,accept
+13.02.2026,baby,KYD1680,2,0,accept
+13.02.2026,virgin mary,KYD1680,2,0,accept
+13.02.2026,infant jesus,KYD1680,2,0,accept
+13.02.2026,geometric symbol,KYD1680,0,1,reject
+13.02.2026,light-colored garment,KYD1680,1,0,accept
+13.02.2026,red drapery,KYD1680,1,0,accept
+13.02.2026,paint damage,KYD1681,1,0,accept
+13.02.2026,"jesus christ, the almighty",KYD1681,2,0,accept
+13.02.2026,jesus christ,KYD1681,1,0,accept
+13.02.2026,black robe,KYD1681,1,0,accept
+13.02.2026,visible cracks,KYD1681,1,0,accept
+13.02.2026,red garment,KYD1681,1,0,accept
+13.02.2026,painted icon,KYD1681,1,0,accept
+13.02.2026,large round wooden object,KYD1681,1,0,accept
+13.02.2026,icon,KYD1681,1,0,accept
+13.02.2026,long dark hair,KYD1681,1,0,accept
+13.02.2026,our lady of okhtyrka,KYD1682,2,0,accept
+13.02.2026,red robe with gold trim,KYD1682,2,0,accept
+13.02.2026,depiction of a woman with a halo,KYD1682,1,0,accept
+13.02.2026,crucifix,KYD1682,0,0,unknown
+13.02.2026,visible paint cracking,KYD1682,1,0,accept
+13.02.2026,peeling,KYD1682,1,0,accept
+13.02.2026,icon,KYD1682,1,0,accept
+13.02.2026,woman with a halo,KYD1682,1,0,accept
+13.02.2026,religious icon,KYD1682,1,0,accept
+13.02.2026,saint,KYD1682,1,0,accept
+13.02.2026,dark inner garment,KYD1682,1,0,accept
+13.02.2026,dark blue garment,KYD1683,0,1,reject
+13.02.2026,infant jesus,KYD1683,2,0,accept
+13.02.2026,baby,KYD1683,2,0,accept
+13.02.2026,red veil,KYD1683,2,0,accept
+13.02.2026,peeling paint,KYD1683,1,0,accept
+13.02.2026,star on head,KYD1683,1,0,accept
+13.02.2026,star,KYD1683,0,1,reject
+13.02.2026,gold crown,KYD1683,0,1,reject
+13.02.2026,white and gold dress,KYD1683,0,1,reject
+13.02.2026,aged,KYD1683,1,0,accept
+13.02.2026,significant age,KYD1683,1,0,accept
+13.02.2026,icon,KYD1683,1,0,accept
+13.02.2026,deterioration,KYD1683,1,0,accept
+13.02.2026,damaged,KYD1683,1,0,accept
+13.02.2026,religious icon,KYD1683,1,0,accept
+13.02.2026,visible cracks,KYD1683,1,0,accept
+13.02.2026,virgin mary,KYD1683,1,0,accept
+13.02.2026,the blessed virgin with a baby,KYD1683,2,0,accept
+13.02.2026,skull,KYD1684,0,0,unknown
+13.02.2026,jesus christ,KYD1684,2,0,accept
+13.02.2026,red cloth,KYD1684,0,0,unknown
+13.02.2026,flowers,KYD1684,2,0,accept
+13.02.2026,visible cracks,KYD1684,2,0,accept
+13.02.2026,dark spots,KYD1684,1,0,accept
+13.02.2026,reclining figure,KYD1684,0,1,reject
+13.02.2026,poor condition,KYD1684,1,0,accept
+13.02.2026,vase,KYD1684,1,0,accept
+13.02.2026,cross,KYD1684,2,0,accept
+13.02.2026,"jesus christ, the lidless eye",KYD1684,2,0,accept
+13.02.2026,icon,KYD1684,2,0,accept
+13.02.2026,"damaged, aged painting",KYD1684,2,0,accept
+13.02.2026,rooster,KYD1684,0,1,reject
+13.02.2026,red robe,KYD1685,3,0,accept
+13.02.2026,saint,KYD1685,4,0,accept
+19.03.2026,"Our Lady of the Kyivan Caves Lavra with its two founders, Antonius and Theodosius.",KYD1685,4,0,accept
+19.03.2026,"Our Lady of the Kyivan Caves Lavra with its two founders, Sts. Anthony and Theodosius",KYD1685,3,0,accept
+13.02.2026,icon,KYD1685,3,0,accept
+13.02.2026,white and blue garment,KYD1685,0,0,unknown
+13.02.2026,virgin mary,KYD1685,3,1,accept
+13.02.2026,infant jesus,KYD1685,3,1,accept
+13.02.2026,painted wooden icon,KYD1685,2,0,accept
+13.02.2026,two men,KYD1685,1,0,accept
+13.02.2026,cracks,KYD1685,1,0,accept
+13.02.2026,dark robes with red trim,KYD1685,1,0,accept
+13.02.2026,our lady of pechersk with the saint monks,KYD1685,1,0,accept
+13.02.2026,crown,KYD1685,1,0,accept
+13.02.2026,gold halo,KYD1685,3,0,accept
+13.02.2026,holes,KYD1685,2,0,accept
+13.02.2026,washboard,KYD1686,1,0,accept
+13.02.2026,christ carrying the cross and our lady of sorrows,KYD1686,1,0,accept
+13.02.2026,deep grooves,KYD1686,1,0,accept
+13.02.2026,wooden tool,KYD1686,1,0,accept
+13.02.2026,wooden object,KYD1686,1,0,accept
+13.02.2026,discoloration,KYD1686,1,0,accept
+13.02.2026,traditional tool,KYD1686,0,0,unknown
+13.02.2026,icon,KYD1686,1,0,accept
+13.02.2026,visible grain,KYD1686,1,0,accept
+13.02.2026,signs of wear,KYD1686,1,0,accept
+13.02.2026,weathered appearance,KYD1686,1,0,accept
+13.02.2026,age,KYD1686,1,0,accept
+13.02.2026,bearded man,KYD1687,1,0,accept
+13.02.2026,small cross,KYD1687,1,0,accept
+13.02.2026,paint cracking,KYD1687,1,0,accept
+13.02.2026,peeling,KYD1687,1,0,accept
+13.02.2026,"jesus christ, the almighty",KYD1687,1,0,accept
+13.02.2026,seated pose,KYD1687,1,0,accept
+13.02.2026,jesus christ,KYD1687,1,0,accept
+13.02.2026,red garment,KYD1687,1,0,accept
+13.02.2026,dark robe,KYD1687,1,0,accept
+13.02.2026,icon,KYD1687,1,0,accept
+13.02.2026,baby,KYD1688,2,0,accept
+13.02.2026,icon,KYD1688,2,0,accept
+13.02.2026,infant jesus,KYD1688,1,0,accept
+13.02.2026,dark veil,KYD1688,1,0,accept
+13.02.2026,worn,KYD1688,1,0,accept
+13.02.2026,the blessed virgin with a baby,KYD1688,1,0,accept
+13.02.2026,golden halos,KYD1688,0,0,unknown
+13.02.2026,religious painting,KYD1688,1,0,accept
+13.02.2026,visible damage to the surface,KYD1688,1,0,accept
+13.02.2026,white dress,KYD1688,1,0,accept
+13.02.2026,virgin mary,KYD1688,1,0,accept
+13.02.2026,red garment,KYD1688,1,0,accept
+13.02.2026,cracked,KYD1688,1,0,accept
+13.02.2026,cracks,KYD1689,2,0,accept
+13.02.2026,red veil,KYD1689,2,0,accept
+13.02.2026,infant jesus,KYD1689,2,0,accept
+13.02.2026,virgin mary,KYD1689,2,0,accept
+13.02.2026,holes,KYD1689,2,0,accept
+13.02.2026,red robe,KYD1689,2,0,accept
+13.02.2026,icon,KYD1689,2,0,accept
+13.02.2026,peeling paint,KYD1689,2,0,accept
+13.02.2026,the virgin mary of tenderness,KYD1689,0,0,unknown
+13.02.2026,green and yellow dress,KYD1689,2,0,accept
+13.02.2026,paint damage,KYD1690,2,0,accept
+13.02.2026,striped garment,KYD1690,0,0,unknown
+13.02.2026,virgin mary,KYD1690,0,0,unknown
+13.02.2026,infant jesus,KYD1690,0,0,unknown
+13.02.2026,depiction,KYD1690,2,0,accept
+13.02.2026,simple halo,KYD1690,0,1,reject
+13.02.2026,holes,KYD1690,2,0,accept
+13.02.2026,cracked,KYD1690,2,0,accept
+13.02.2026,golden halo,KYD1690,1,0,accept
+13.02.2026,red and green robe,KYD1690,2,0,accept
+13.02.2026,the blessed virgin with a baby,KYD1690,2,0,accept
+13.02.2026,icon,KYD1690,2,0,accept
+13.02.2026,baby,KYD1690,2,0,accept
+13.02.2026,icon,KYD1691,2,0,accept
+13.02.2026,peeling paint,KYD1691,2,0,accept
+13.02.2026,the blessed virgin with a baby,KYD1691,2,0,accept
+13.02.2026,red robe with gold trim,KYD1691,2,0,accept
+13.02.2026,infant jesus,KYD1691,2,0,accept
+13.02.2026,baby,KYD1691,2,0,accept
+13.02.2026,green garment,KYD1691,2,0,accept
+13.02.2026,golden halo,KYD1691,2,0,accept
+13.02.2026,visible cracks,KYD1691,2,0,accept
+13.02.2026,virgin mary,KYD1691,2,0,accept
+13.02.2026,painted wooden icon,KYD1692,2,0,accept
+13.02.2026,dragon,KYD1692,2,0,accept
+13.02.2026,cracks,KYD1692,2,0,accept
+13.02.2026,icon,KYD1692,2,0,accept
+13.02.2026,armor,KYD1692,1,0,accept
+13.02.2026,red cape,KYD1692,2,0,accept
+13.02.2026,horse,KYD1692,2,0,accept
+13.02.2026,st. yuri the,KYD1692,0,0,unknown
+13.02.2026,st. yuri the slayer of a dragon,KYD1692,2,0,accept
+13.02.2026,sword,KYD1692,0,1,reject
+13.02.2026,figure in armor,KYD1692,1,0,accept
+13.02.2026,visible grain,KYD1692,2,0,accept
+13.02.2026,the kazan icon of the mother of god,KYD1693,2,0,accept
+13.02.2026,white tunic,KYD1693,2,0,accept
+13.02.2026,visible signs of age,KYD1693,2,0,accept
+13.02.2026,painted wooden icon,KYD1693,2,0,accept
+13.02.2026,cracks,KYD1693,0,0,unknown
+13.02.2026,halo,KYD1693,2,0,accept
+13.02.2026,paint loss,KYD1693,2,0,accept
+13.02.2026,icon,KYD1693,2,0,accept
+13.02.2026,virgin mary,KYD1693,2,0,accept
+13.02.2026,gold halo,KYD1693,2,0,accept
+13.02.2026,mother,KYD1693,2,0,accept
+13.02.2026,infant jesus,KYD1693,2,0,accept
+13.02.2026,dark cloak,KYD1693,1,0,accept
+13.02.2026,red veil,KYD1693,0,1,reject
+13.02.2026,red robe,KYD1693,2,0,accept
+13.02.2026,peeling paint,KYD1694,0,2,reject
+19.03.2026,St Alexandra of Rome,KYD1694,1,0,accept
+13.02.2026,staff,KYD1694,0,2,reject
+13.02.2026,rocky outcrop,KYD1694,0,1,reject
+13.02.2026,st. yuri the,KYD1694,0,1,reject
+13.02.2026,small figure,KYD1694,2,0,accept
+13.02.2026,st. yuri the slayer of a dragon,KYD1694,2,0,accept
+13.02.2026,saint,KYD1694,3,0,accept
+13.02.2026,horse,KYD1694,3,0,accept
+19.03.2026,St George killing the dragon,KYD1694,1,0,accept
+13.02.2026,cracks,KYD1694,2,0,accept
+13.02.2026,saint on horseback,KYD1694,3,0,accept
+13.02.2026,icon,KYD1694,3,0,accept
+13.02.2026,red cloth,KYD1694,2,0,accept
+13.02.2026,dragon,KYD1694,2,0,accept
+13.02.2026,attacking a green dragon,KYD1694,2,0,accept
+13.02.2026,religious icon,KYD1694,3,0,accept
+13.02.2026,virgin mary,KYD1695,2,0,accept
+13.02.2026,infant jesus,KYD1695,2,0,accept
+13.02.2026,yellow garment,KYD1695,2,0,accept
+13.02.2026,baby,KYD1695,2,0,accept
+13.02.2026,wooden surface,KYD1695,2,0,accept
+13.02.2026,light-colored robe,KYD1695,2,0,accept
+13.02.2026,religious painting,KYD1695,2,0,accept
+13.02.2026,icon,KYD1695,2,0,accept
+13.02.2026,paint damage,KYD1695,2,0,accept
+13.02.2026,the blessed virgin with a baby,KYD1695,2,0,accept
+13.02.2026,cracks,KYD1695,2,0,accept
+13.02.2026,dark blue or black veil,KYD1695,2,0,accept
+13.02.2026,icon,KYD1696,1,0,accept
+13.02.2026,cracks,KYD1696,1,0,accept
+13.02.2026,green robe with gold trim,KYD1696,1,0,accept
+13.02.2026,painted icon,KYD1696,1,0,accept
+13.02.2026,crowned female figure,KYD1696,1,0,accept
+13.02.2026,martyr,KYD1696,1,0,accept
+13.02.2026,sword,KYD1696,1,0,accept
+13.02.2026,dark cloak,KYD1696,1,0,accept
+13.02.2026,chalice,KYD1696,1,0,accept
+13.02.2026,paint loss,KYD1696,1,0,accept
+13.02.2026,the great martyr varvara,KYD1696,1,0,accept
+13.02.2026,damaged icon,KYD1697,1,0,accept
+13.02.2026,halos,KYD1697,1,0,accept
+13.02.2026,icon,KYD1697,1,0,accept
+13.02.2026,red robe with gold trim,KYD1697,1,0,accept
+13.02.2026,visible holes,KYD1697,1,0,accept
+13.02.2026,white and green dress,KYD1697,1,0,accept
+13.02.2026,red veil,KYD1697,1,0,accept
+13.02.2026,cracks,KYD1697,1,0,accept
+13.02.2026,virgin mary,KYD1697,1,0,accept
+13.02.2026,infant jesus,KYD1697,1,0,accept
+13.02.2026,our lady of the way,KYD1697,1,0,accept
+13.02.2026,pinecones,KYD1697,1,0,accept
+13.02.2026,visible cracks,KYD1698,1,0,accept
+13.02.2026,female figure,KYD1698,1,0,accept
+13.02.2026,icon,KYD1698,1,0,accept
+13.02.2026,brown robe,KYD1698,1,0,accept
+13.02.2026,damaged wooden icon,KYD1698,1,0,accept
+13.02.2026,gold necklace,KYD1698,1,0,accept
+13.02.2026,peeling paint,KYD1698,1,0,accept
+13.02.2026,the great martyr varvara,KYD1698,1,0,accept
+13.02.2026,golden chalice,KYD1698,1,0,accept
+13.02.2026,golden halo,KYD1698,1,0,accept
+13.02.2026,crown,KYD1698,1,0,accept
+13.02.2026,martyr,KYD1698,1,0,accept
+13.02.2026,aged surface,KYD1700,1,0,accept
+13.02.2026,light-colored robe,KYD1700,1,0,accept
+13.02.2026,visible cracks,KYD1700,1,0,accept
+13.02.2026,weathered,KYD1700,0,0,unknown
+13.02.2026,eastern orthodox icons,KYD1700,2,0,accept
+19.03.2026,"This is St Nicholas, not St. Michael.",KYD1700,2,0,accept
+13.02.2026,religious figure,KYD1700,2,0,accept
+13.02.2026,icon,KYD1700,2,0,accept
+13.02.2026,crown,KYD1700,0,0,unknown
+13.02.2026,st. michael,KYD1700,0,2,reject
+13.02.2026,small object,KYD1700,0,2,reject
+13.02.2026,bearded man,KYD1700,0,0,unknown
+13.02.2026,rust spots,KYD1700,2,0,accept
+13.02.2026,st. michael and,KYD1701,0,2,reject
+13.02.2026,red and gold vestments,KYD1701,1,0,accept
+13.02.2026,paint cracking,KYD1701,0,0,unknown
+13.02.2026,woman,KYD1701,0,0,unknown
+13.02.2026,book,KYD1701,1,0,accept
+13.02.2026,peeling,KYD1701,1,0,accept
+13.02.2026,child,KYD1701,1,0,accept
+13.02.2026,red robes,KYD1701,1,0,accept
+13.02.2026,bearded man,KYD1701,1,0,accept
+19.03.2026,St Nicholas and,KYD1701,2,0,accept
+13.02.2026,golden halos,KYD1701,2,0,accept
+13.02.2026,mitre,KYD1701,2,0,accept
+13.02.2026,icon,KYD1701,2,0,accept
+13.02.2026,st. michael and our lady of pochaiv,KYD1701,0,2,reject
+13.02.2026,woman,KYD1702,1,0,accept
+13.02.2026,young child,KYD1702,1,0,accept
+13.02.2026,long white hair,KYD1702,1,0,accept
+13.02.2026,halo,KYD1702,1,0,accept
+13.02.2026,paint damage,KYD1702,1,0,accept
+13.02.2026,visible cracks,KYD1702,1,0,accept
+13.02.2026,icon,KYD1702,1,0,accept
+13.02.2026,long white beard,KYD1702,1,0,accept
+13.02.2026,godhead,KYD1702,1,0,accept
+13.02.2026,red head covering,KYD1702,1,0,accept
+13.02.2026,"damaged, painted wooden icon",KYD1702,1,0,accept
+13.02.2026,poor condition,KYD1702,1,0,accept
+13.02.2026,our lady of kazan and the godhead,KYD1702,1,0,accept
+13.02.2026,older man,KYD1702,1,0,accept
+13.02.2026,right hand,KYD1702,1,0,accept
+13.02.2026,vertical crack,KYD1703,0,0,unknown
+13.02.2026,bogorodica trojerucica,KYD1703,1,0,accept
+13.02.2026,split,KYD1703,0,0,unknown
+13.02.2026,white garment,KYD1703,0,0,unknown
+13.02.2026,yellow sash,KYD1703,0,0,unknown
+13.02.2026,damaged,KYD1703,0,0,unknown
+13.02.2026,red robe,KYD1703,0,0,unknown
+13.02.2026,virgin mary,KYD1703,1,0,accept
+13.02.2026,infant jesus,KYD1703,1,0,accept
+13.02.2026,green veil,KYD1703,1,0,accept
+13.02.2026,traditional orthodox style,KYD1703,0,0,unknown
+13.02.2026,icon,KYD1703,0,0,unknown
+13.02.2026,gold halo,KYD1703,0,0,unknown
+13.02.2026,white dress,KYD1704,0,0,unknown
+13.02.2026,bogorodica trojerucica,KYD1704,1,0,accept
+13.02.2026,vertical crack,KYD1704,0,0,unknown
+13.02.2026,red robe with gold trim,KYD1704,0,0,unknown
+13.02.2026,golden halo,KYD1704,0,0,unknown
+13.02.2026,virgin mary,KYD1704,1,0,accept
+13.02.2026,icon,KYD1704,0,0,unknown
+13.02.2026,green veil,KYD1704,1,0,accept
+13.02.2026,small object,KYD1704,0,0,unknown
+13.02.2026,infant jesus,KYD1704,1,0,accept
+13.02.2026,split down the middle,KYD1704,0,0,unknown
+22.03.2026,Holy Trinity,KYD1705,1,0,accept
+13.02.2026,yellow collar,KYD1705,0,0,unknown
+13.02.2026,icon,KYD1705,1,0,accept
+13.02.2026,paint damage,KYD1705,0,0,unknown
+13.02.2026,cross,KYD1705,1,0,accept
+13.02.2026,golden pyramid,KYD1705,0,0,unknown
+13.02.2026,staff,KYD1705,0,0,unknown
+13.02.2026,figure in green robe,KYD1705,0,0,unknown
+13.02.2026,red robe,KYD1705,0,0,unknown
+13.02.2026,young person in red robe,KYD1705,0,0,unknown
+13.02.2026,figure in red robe,KYD1705,0,0,unknown
+13.02.2026,older man with white beard,KYD1705,0,0,unknown
+13.02.2026,dove,KYD1705,0,0,unknown
+13.02.2026,green cloak,KYD1705,0,0,unknown
+13.02.2026,green robe,KYD1705,0,0,unknown
+13.02.2026,religious scene,KYD1705,0,0,unknown
+13.02.2026,cracks,KYD1705,0,0,unknown
+13.02.2026,coronation of the virgin,KYD1705,1,0,accept
+13.02.2026,spear,KYD1706,0,0,unknown
+13.02.2026,white horse,KYD1706,1,0,accept
+22.03.2026,St George Killing the Dragon,KYD1706,1,0,accept
+13.02.2026,st. yuri the,KYD1706,0,1,reject
+13.02.2026,red cloak,KYD1706,0,0,unknown
+13.02.2026,vertical red paint streaks,KYD1706,1,0,accept
+13.02.2026,icon,KYD1706,1,0,accept
+13.02.2026,helmet,KYD1706,0,0,unknown
+13.02.2026,decorative bridle,KYD1706,0,0,unknown
+13.02.2026,female figure,KYD1706,0,1,reject
+13.02.2026,st. yuri the slayer of a dragon,KYD1706,0,0,unknown
+22.03.2026,The Miracle of St. George Killing the Snake,KYD1706,1,0,accept
+13.02.2026,painting,KYD1706,0,0,unknown
+13.02.2026,cross with crucified figure,KYD1707,0,0,unknown
+13.02.2026,our lady of okhtyrka,KYD1707,0,0,unknown
+13.02.2026,vertical crack down the center,KYD1707,0,0,unknown
+13.02.2026,long dark hair,KYD1707,0,0,unknown
+13.02.2026,icon,KYD1707,0,0,unknown
+13.02.2026,cracks,KYD1707,0,0,unknown
+13.02.2026,blue garment,KYD1707,0,0,unknown
+13.02.2026,red robe with gold trim,KYD1707,0,0,unknown
+13.02.2026,"figure, likely jesus christ",KYD1707,0,0,unknown
+13.02.2026,peeling paint,KYD1707,0,0,unknown
+13.02.2026,wooden icon,KYD1707,0,0,unknown
+22.03.2026,The Three-Handed  Virgin Mary,KYD1708,1,0,accept
+22.03.2026,Hilandar Monastery in Mount Athos,KYD1708,1,0,accept
+13.02.2026,bogorodica trojerucica,KYD1708,0,0,unknown
+13.02.2026,golden halos,KYD1708,0,0,unknown
+13.02.2026,white dress,KYD1708,0,0,unknown
+13.02.2026,vertical cracks,KYD1708,0,0,unknown
+13.02.2026,red robe,KYD1708,0,0,unknown
+13.02.2026,icon,KYD1708,0,0,unknown
+13.02.2026,damaged wooden icon,KYD1708,0,0,unknown
+13.02.2026,virgin mary,KYD1708,0,0,unknown
+13.02.2026,dark stains,KYD1708,0,0,unknown
+13.02.2026,green veil,KYD1708,0,0,unknown
+13.02.2026,infant jesus,KYD1708,0,0,unknown
+13.02.2026,red head covering,KYD1708,0,0,unknown
+22.03.2026,The Miracle of St. George Killing the Snake,KYD1709,1,0,accept
+13.02.2026,saint on horseback,KYD1709,0,0,unknown
+13.02.2026,paint loss,KYD1709,0,0,unknown
+13.02.2026,killing a dragon,KYD1709,1,0,accept
+13.02.2026,decorative border,KYD1709,0,0,unknown
+13.02.2026,red cloak,KYD1709,0,0,unknown
+22.03.2026,St George Killing the Dragon,KYD1709,1,0,accept
+13.02.2026,cracks,KYD1709,0,0,unknown
+13.02.2026,icon,KYD1709,1,0,accept
+13.02.2026,horse,KYD1709,1,0,accept
+13.02.2026,st. yuri the,KYD1709,0,1,reject
+13.02.2026,st. yuri the slayer of a dragon,KYD1709,0,1,reject
+13.02.2026,crown,KYD1709,0,0,unknown
+13.02.2026,dragon,KYD1709,1,0,accept
+13.02.2026,saint,KYD1709,1,0,accept
+22.03.2026,Mother of God,KYD1710,1,0,accept
+13.02.2026,white dress,KYD1710,0,0,unknown
+13.02.2026,our lady of pochaiv,KYD1710,1,0,accept
+13.02.2026,paint damage,KYD1710,0,0,unknown
+13.02.2026,infant jesus,KYD1710,0,0,unknown
+13.02.2026,watermark,KYD1710,0,0,unknown
+13.02.2026,golden halo,KYD1710,0,0,unknown
+13.02.2026,icon,KYD1710,0,0,unknown
+13.02.2026,visible cracks,KYD1710,0,0,unknown
+13.02.2026,left side damage,KYD1710,0,0,unknown
+13.02.2026,red robe with gold trim,KYD1710,0,0,unknown
+13.02.2026,damaged wooden icon,KYD1710,0,0,unknown
+13.02.2026,virgin mary,KYD1710,1,0,accept
+22.03.2026,Madonna della Strada,KYD1711,0,0,unknown
+22.03.2026,St. Ignatius Loyola,KYD1711,1,0,accept
+22.03.2026,Madonna Della Strada,KYD1711,2,0,accept
+22.03.2026,The Most Holy Mother of God,KYD1711,1,0,accept
+22.03.2026,Virgin Mary the Guide,KYD1711,1,0,accept
+13.02.2026,blue undergarment,KYD1711,0,0,unknown
+13.02.2026,yellow garment,KYD1711,0,0,unknown
+13.02.2026,wear,KYD1711,0,0,unknown
+13.02.2026,signs of age,KYD1711,0,0,unknown
+13.02.2026,icon,KYD1711,1,0,accept
+13.02.2026,golden halo,KYD1711,0,0,unknown
+13.02.2026,our lady of the way,KYD1711,1,0,accept
+13.02.2026,infant jesus,KYD1711,0,0,unknown
+13.02.2026,vertical crack,KYD1711,0,0,unknown
+22.03.2026,Jesuits,KYD1711,1,0,accept
+13.02.2026,red veil,KYD1711,0,0,unknown
+13.02.2026,virgin mary,KYD1711,0,0,unknown
+13.02.2026,red robe,KYD1711,0,0,unknown
+13.02.2026,icon,KYD1712,0,0,unknown
+13.02.2026,simple white garment,KYD1712,0,0,unknown
+13.02.2026,cracks,KYD1712,0,0,unknown
+13.02.2026,our lady of pochaiv,KYD1712,0,0,unknown
+13.02.2026,virgin mary,KYD1712,0,0,unknown
+13.02.2026,paint wear,KYD1712,0,0,unknown
+13.02.2026,painted wooden icon,KYD1712,0,0,unknown
+13.02.2026,golden halo,KYD1712,0,0,unknown
+13.02.2026,infant jesus,KYD1712,0,0,unknown
+13.02.2026,red robe with gold trim,KYD1712,0,0,unknown
+13.02.2026,jeweled crown,KYD1712,0,0,unknown
+13.02.2026,golden halo,KYD1713,0,0,unknown
+13.02.2026,red cloak,KYD1713,0,0,unknown
+13.02.2026,icon,KYD1713,0,0,unknown
+13.02.2026,"damaged, wooden icon",KYD1713,0,0,unknown
+13.02.2026,paint damage,KYD1713,0,0,unknown
+13.02.2026,the great martyr varvara,KYD1713,0,0,unknown
+13.02.2026,dark robe with gold trim,KYD1713,0,0,unknown
+13.02.2026,visible vertical cracks,KYD1713,0,0,unknown
+13.02.2026,martyr,KYD1713,1,0,accept
+13.02.2026,chalice,KYD1713,0,0,unknown
+13.02.2026,crowned female figure,KYD1713,0,0,unknown
+13.02.2026,woman,KYD1714,0,0,unknown
+13.02.2026,green leaves,KYD1714,0,0,unknown
+13.02.2026,small object,KYD1714,0,0,unknown
+13.02.2026,pink roses,KYD1714,0,0,unknown
+13.02.2026,dark veil,KYD1714,0,0,unknown
+13.02.2026,peeling paint,KYD1714,0,0,unknown
+13.02.2026,the virgin mary,KYD1714,0,0,unknown
+13.02.2026,dark robe,KYD1714,0,0,unknown
+13.02.2026,red and gold details,KYD1714,0,0,unknown
+13.02.2026,icon,KYD1714,0,0,unknown
+13.02.2026,cracks,KYD1714,0,0,unknown
+13.02.2026,halo,KYD1714,0,0,unknown
+13.02.2026,virgin mary,KYD1715,0,0,unknown
+13.02.2026,paint loss,KYD1715,0,0,unknown
+13.02.2026,decorative octagonal frame,KYD1715,0,0,unknown
+13.02.2026,white tunic,KYD1715,0,0,unknown
+13.02.2026,the blessed virgin – the burning bush,KYD1715,0,0,unknown
+13.02.2026,golden halos,KYD1715,0,0,unknown
+13.02.2026,blue garment,KYD1715,0,0,unknown
+13.02.2026,red robe,KYD1715,0,0,unknown
+13.02.2026,icon,KYD1715,0,0,unknown
+13.02.2026,infant jesus,KYD1715,0,0,unknown
+13.02.2026,cracks,KYD1715,0,0,unknown
+22.03.2026,Holy Trinity,KYD1716,1,0,accept
+13.02.2026,jesus christ - vine,KYD1716,0,0,unknown
+13.02.2026,damage,KYD1716,0,0,unknown
+13.02.2026,staff,KYD1716,0,0,unknown
+13.02.2026,red cloth,KYD1716,0,0,unknown
+13.02.2026,central figure,KYD1716,0,0,unknown
+13.02.2026,religious icon,KYD1716,0,0,unknown
+13.02.2026,two angels,KYD1716,0,0,unknown
+13.02.2026,icon,KYD1716,0,0,unknown
+13.02.2026,bare-chested,KYD1716,0,0,unknown
+13.02.2026,cracking,KYD1716,0,0,unknown
+22.03.2026,I Am the True Vine,KYD1716,1,0,accept
+13.02.2026,chalice,KYD1716,0,0,unknown
+13.02.2026,religious attire,KYD1717,2,0,accept
+13.02.2026,golden halo,KYD1717,2,0,accept
+13.02.2026,red and gold mitre,KYD1717,2,0,accept
+19.03.2026,St Nicholas,KYD1717,0,0,unknown
+13.02.2026,icon,KYD1717,2,0,accept
+13.02.2026,paint loss,KYD1717,1,0,accept
+13.02.2026,red robe with gold trim,KYD1717,1,0,accept
+13.02.2026,book,KYD1717,1,0,accept
+13.02.2026,st. michael,KYD1717,0,0,unknown
+13.02.2026,cracks,KYD1717,1,0,accept
+13.02.2026,bearded man,KYD1717,1,0,accept
+13.02.2026,painted wooden icon,KYD1718,2,0,accept
+13.02.2026,st. michael,KYD1718,0,2,reject
+13.02.2026,saint nicholas,KYD1718,2,0,accept
+13.02.2026,eastern orthodox icon,KYD1718,2,0,accept
+13.02.2026,icon,KYD1718,2,0,accept
+13.02.2026,red vestments with gold trim,KYD1718,0,0,unknown
+13.02.2026,signs of age,KYD1718,1,0,accept
+13.02.2026,book,KYD1718,0,0,unknown
+13.02.2026,paint wear,KYD1718,1,0,accept
+13.02.2026,cracks,KYD1718,1,0,accept
+13.02.2026,white beard,KYD1718,0,1,reject
+13.02.2026,red mitre,KYD1718,1,0,accept
+13.02.2026,dark garment,KYD1719,0,0,unknown
+13.02.2026,saint,KYD1719,0,0,unknown
+13.02.2026,cracks,KYD1719,0,0,unknown
+13.02.2026,halo,KYD1719,0,0,unknown
+13.02.2026,wood grain,KYD1719,0,0,unknown
+13.02.2026,icon,KYD1719,0,0,unknown
+13.02.2026,red robe,KYD1719,0,0,unknown
+13.02.2026,st. pantaleimon,KYD1719,1,0,accept
+13.02.2026,staff,KYD1719,0,0,unknown
+13.02.2026,icon,KYD1720,0,0,unknown
+22.03.2026,Holy Trinity,KYD1720,1,0,accept
+13.02.2026,paint cracking,KYD1720,0,0,unknown
+13.02.2026,yellow triangular shape,KYD1720,0,0,unknown
+13.02.2026,central figure,KYD1720,0,0,unknown
+13.02.2026,green robe,KYD1720,0,0,unknown
+13.02.2026,figure in red drapery,KYD1720,0,0,unknown
+13.02.2026,coronation of the virgin,KYD1720,1,0,accept
+13.02.2026,golden halo,KYD1720,0,0,unknown
+13.02.2026,peeling,KYD1720,0,0,unknown
+13.02.2026,bearded man,KYD1720,0,0,unknown
+13.02.2026,red garment,KYD1720,0,0,unknown
+13.02.2026,golden crown,KYD1720,0,0,unknown
+13.02.2026,white dove,KYD1720,0,0,unknown
+13.02.2026,red drapery,KYD1720,0,0,unknown
+13.02.2026,religious scene,KYD1720,0,0,unknown
+13.02.2026,red veil,KYD1721,0,0,unknown
+13.02.2026,christ child,KYD1721,0,0,unknown
+13.02.2026,icon,KYD1721,0,0,unknown
+13.02.2026,damage,KYD1721,0,0,unknown
+13.02.2026,green robe,KYD1721,0,0,unknown
+13.02.2026,wooden icon,KYD1721,0,0,unknown
+13.02.2026,depiction of the virgin holding the christ child,KYD1721,0,0,unknown
+13.02.2026,virgin mary,KYD1721,0,0,unknown
+13.02.2026,our lady of the sign,KYD1721,0,0,unknown
+13.02.2026,golden halo,KYD1721,0,0,unknown
+13.02.2026,oval,KYD1721,0,0,unknown
+13.02.2026,visible vertical cracks,KYD1721,0,0,unknown
+13.02.2026,infant jesus,KYD1722,0,0,unknown
+13.02.2026,floral ornament,KYD1722,0,0,unknown
+13.02.2026,cracks,KYD1722,0,0,unknown
+13.02.2026,virgin mary,KYD1722,0,0,unknown
+13.02.2026,icon,KYD1722,0,0,unknown
+13.02.2026,red robe,KYD1722,0,0,unknown
+13.02.2026,golden halo,KYD1722,0,0,unknown
+13.02.2026,"dark, vertical streak",KYD1722,0,0,unknown
+13.02.2026,green robe,KYD1722,0,0,unknown
+13.02.2026,our lady of the sign,KYD1722,0,0,unknown
+13.02.2026,wooden surface,KYD1722,0,0,unknown
+13.02.2026,christ pantocrator,KYD1723,1,0,accept
+13.02.2026,two-part wooden icon,KYD1723,0,0,unknown
+13.02.2026,green leaves,KYD1723,0,0,unknown
+13.02.2026,red and gold robe,KYD1723,0,0,unknown
+13.02.2026,golden halo,KYD1723,0,0,unknown
+13.02.2026,red apples,KYD1723,0,0,unknown
+13.02.2026,icon,KYD1723,0,0,unknown
+13.02.2026,damaged,KYD1723,0,0,unknown
+13.02.2026,open book,KYD1723,0,0,unknown
+19.03.2026,St. Nicholas,KYD1724,2,0,accept
+13.02.2026,small decorated shield,KYD1724,0,0,unknown
+13.02.2026,traditional orthodox style,KYD1724,0,0,unknown
+13.02.2026,split down the middle,KYD1724,0,0,unknown
+13.02.2026,wooden icon,KYD1724,2,0,accept
+13.02.2026,cross,KYD1724,1,0,accept
+13.02.2026,floral patterns,KYD1724,0,0,unknown
+13.02.2026,visible cracks,KYD1724,0,0,unknown
+13.02.2026,st. michael,KYD1724,0,2,reject
+13.02.2026,dark robe with gold embroidery,KYD1724,0,0,unknown
+13.02.2026,dark ornate mitre,KYD1724,2,0,accept
+13.02.2026,book,KYD1724,0,0,unknown
+13.02.2026,vertical crack running through the center,KYD1724,0,0,unknown
+13.02.2026,saint,KYD1724,2,0,accept
+13.02.2026,icon,KYD1724,2,0,accept
+13.02.2026,wear,KYD1724,0,0,unknown
+13.02.2026,infant jesus,KYD1725,0,0,unknown
+13.02.2026,our lady of the way,KYD1725,0,0,unknown
+13.02.2026,pomegranates,KYD1725,0,0,unknown
+13.02.2026,red veil,KYD1725,0,0,unknown
+13.02.2026,golden halos,KYD1725,0,0,unknown
+13.02.2026,virgin mary,KYD1725,0,0,unknown
+13.02.2026,damage on virgin's hands,KYD1725,0,0,unknown
+13.02.2026,icon,KYD1725,0,0,unknown
+13.02.2026,damage on virgin's face,KYD1725,0,0,unknown
+13.02.2026,wooden icon,KYD1725,0,0,unknown
+13.02.2026,white dress,KYD1725,0,0,unknown
+13.02.2026,visible wood grain,KYD1725,0,0,unknown
+13.02.2026,red robe with gold trim,KYD1725,0,0,unknown
+13.02.2026,infant jesus,KYD1726,0,0,unknown
+13.02.2026,bogorodica trojerucica,KYD1726,0,0,unknown
+13.02.2026,golden halo,KYD1726,0,0,unknown
+13.02.2026,paint loss,KYD1726,0,0,unknown
+13.02.2026,red robe,KYD1726,0,0,unknown
+13.02.2026,icon,KYD1726,0,0,unknown
+13.02.2026,cracks,KYD1726,0,0,unknown
+13.02.2026,virgin mary,KYD1726,0,0,unknown
+13.02.2026,light-colored garment,KYD1726,0,0,unknown
+13.02.2026,red veil,KYD1726,0,0,unknown
+13.02.2026,scroll,KYD1727,0,0,unknown
+13.02.2026,book,KYD1727,0,0,unknown
+13.02.2026,visible damage,KYD1727,0,0,unknown
+13.02.2026,dark robes,KYD1727,0,0,unknown
+13.02.2026,black hat,KYD1727,0,0,unknown
+13.02.2026,icon,KYD1727,0,0,unknown
+13.02.2026,bearded man,KYD1727,0,0,unknown
+13.02.2026,table,KYD1727,0,0,unknown
+13.02.2026,st. justinian,KYD1727,0,0,unknown
+13.02.2026,wood,KYD1728,0,0,unknown
+13.02.2026,green robe,KYD1728,0,0,unknown
+13.02.2026,white cloth,KYD1728,0,0,unknown
+13.02.2026,baby,KYD1728,0,0,unknown
+13.02.2026,virgin mary,KYD1728,0,0,unknown
+13.02.2026,madonna,KYD1728,0,0,unknown
+13.02.2026,golden halos,KYD1728,0,0,unknown
+13.02.2026,religious icon,KYD1728,0,0,unknown
+13.02.2026,oval-shaped,KYD1728,0,0,unknown
+13.02.2026,angel gabriel,KYD1728,0,0,unknown
+13.02.2026,the blessed virgin with a baby in the image of madonna,KYD1728,0,0,unknown
+13.02.2026,wear,KYD1728,0,0,unknown
+13.02.2026,visible cracks,KYD1728,0,0,unknown
+13.02.2026,light-colored head covering,KYD1728,0,0,unknown
+13.02.2026,infant jesus,KYD1728,0,0,unknown
+13.02.2026,icon,KYD1728,0,0,unknown
+13.02.2026,significant deterioration,KYD1729,0,0,unknown
+13.02.2026,chalice,KYD1729,0,0,unknown
+13.02.2026,dark blue or green robe,KYD1729,0,0,unknown
+13.02.2026,saint varvara,KYD1729,0,0,unknown
+13.02.2026,female figure,KYD1729,0,0,unknown
+13.02.2026,icon,KYD1729,0,0,unknown
+13.02.2026,red cloak,KYD1729,0,0,unknown
+13.02.2026,religious icon,KYD1729,0,0,unknown
+13.02.2026,saint,KYD1729,0,0,unknown
+13.02.2026,paint drips,KYD1729,0,0,unknown
+13.02.2026,cracks,KYD1729,0,0,unknown
+13.02.2026,icon,KYD1730,0,0,unknown
+13.02.2026,signs of age,KYD1730,0,0,unknown
+13.02.2026,the blessed virgin – the burning bush,KYD1730,0,1,reject
+13.02.2026,book,KYD1730,0,0,unknown
+13.02.2026,painted wooden icon,KYD1730,0,0,unknown
+13.02.2026,virgin mary,KYD1730,0,0,unknown
+13.02.2026,infant jesus,KYD1730,0,0,unknown
+13.02.2026,damage,KYD1730,0,0,unknown
+13.02.2026,red veil,KYD1730,0,0,unknown
+13.02.2026,green garment,KYD1730,0,0,unknown
+13.02.2026,the archistratigus michael,KYD1731,0,0,unknown
+13.02.2026,vertical crack,KYD1731,0,0,unknown
+13.02.2026,painting,KYD1731,0,0,unknown
+13.02.2026,cracked,KYD1731,0,0,unknown
+13.02.2026,damaged,KYD1731,0,0,unknown
+13.02.2026,icon,KYD1731,0,0,unknown
+13.02.2026,red cloak,KYD1731,0,0,unknown
+13.02.2026,sword,KYD1731,0,0,unknown
+13.02.2026,crown,KYD1731,0,0,unknown
+13.02.2026,our lady of the way,KYD1732,0,0,unknown
+13.02.2026,infant jesus,KYD1732,0,0,unknown
+13.02.2026,red and blue robe with gold trim,KYD1732,0,0,unknown
+13.02.2026,icon,KYD1732,0,0,unknown
+13.02.2026,golden halo,KYD1732,0,0,unknown
+13.02.2026,visible cracks,KYD1732,0,0,unknown
+13.02.2026,yellow garment,KYD1732,0,0,unknown
+13.02.2026,paint damage,KYD1732,0,0,unknown
+13.02.2026,virgin mary,KYD1732,0,0,unknown
+13.02.2026,"damaged, painted icon",KYD1732,0,0,unknown
+13.02.2026,icon,KYD1733,0,0,unknown
+13.02.2026,red robe,KYD1733,0,0,unknown
+13.02.2026,damage,KYD1733,0,0,unknown
+13.02.2026,visible signs of age,KYD1733,0,0,unknown
+13.02.2026,staff,KYD1733,0,0,unknown
+13.02.2026,st. john the soldier,KYD1733,0,0,unknown
+13.02.2026,golden crown,KYD1733,0,0,unknown
+13.02.2026,bearded man,KYD1733,0,0,unknown
+13.02.2026,st. john the,KYD1733,0,0,unknown
+13.02.2026,religious icon,KYD1733,0,0,unknown
+13.02.2026,cross,KYD1733,0,0,unknown
+13.02.2026,signs of age,KYD1734,0,0,unknown
+13.02.2026,saint michael,KYD1734,0,1,reject
+13.02.2026,chalice,KYD1734,0,0,unknown
+13.02.2026,icon,KYD1734,0,0,unknown
+13.02.2026,two figures,KYD1734,0,0,unknown
+13.02.2026,damage,KYD1734,0,0,unknown
+13.02.2026,infant jesus,KYD1734,0,0,unknown
+13.02.2026,virgin mary,KYD1734,0,0,unknown
+13.02.2026,crucifixion,KYD1734,0,0,unknown
+13.02.2026,bearded man,KYD1734,0,0,unknown
+13.02.2026,"the crucifixion, mother and child, and saint michael",KYD1734,0,1,reject
+13.02.2026,mother,KYD1734,0,0,unknown
+13.02.2026,saint,KYD1734,0,0,unknown
+13.02.2026,child,KYD1734,0,0,unknown
+13.02.2026,red robe,KYD1734,0,0,unknown
+13.02.2026,crown,KYD1734,0,0,unknown
+13.02.2026,religious scene,KYD1734,0,0,unknown
+13.02.2026,jesus,KYD1734,0,0,unknown
+13.02.2026,pink and black robe,KYD1735,0,0,unknown
+13.02.2026,cross,KYD1735,0,0,unknown
+13.02.2026,religious icon,KYD1735,0,0,unknown
+13.02.2026,green robe,KYD1735,0,0,unknown
+13.02.2026,man,KYD1735,0,0,unknown
+13.02.2026,icon,KYD1735,0,0,unknown
+13.02.2026,coronation of the virgin,KYD1735,0,0,unknown
+13.02.2026,paint cracking,KYD1735,0,0,unknown
+13.02.2026,woman,KYD1735,0,0,unknown
+13.02.2026,peeling,KYD1735,0,0,unknown
+13.02.2026,red and gold robe,KYD1736,0,0,unknown
+13.02.2026,book,KYD1736,0,0,unknown
+13.02.2026,icon,KYD1736,0,0,unknown
+13.02.2026,saint michael,KYD1736,0,1,reject
+13.02.2026,paint damage,KYD1736,0,0,unknown
+13.02.2026,the protection veil of the holy mother of god with the great martyr varvara and saint michael,KYD1736,0,1,reject
+13.02.2026,woman,KYD1736,0,0,unknown
+13.02.2026,crowned woman,KYD1736,0,0,unknown
+13.02.2026,cloud,KYD1736,0,0,unknown
+13.02.2026,chalice,KYD1736,0,0,unknown
+13.02.2026,yellow and red robe,KYD1736,0,0,unknown
+13.02.2026,cracks,KYD1736,0,0,unknown
+13.02.2026,man,KYD1736,0,0,unknown
+13.02.2026,mother,KYD1736,0,0,unknown
+13.02.2026,saint,KYD1736,0,0,unknown
+13.02.2026,martyr,KYD1736,0,0,unknown
+13.02.2026,red and gold crown,KYD1737,0,0,unknown
+13.02.2026,staff,KYD1737,0,0,unknown
+13.02.2026,woman,KYD1737,0,0,unknown
+13.02.2026,mother,KYD1737,0,0,unknown
+13.02.2026,saint michael,KYD1737,0,1,reject
+13.02.2026,signs of age,KYD1737,0,0,unknown
+13.02.2026,green crown,KYD1737,0,0,unknown
+13.02.2026,book,KYD1737,0,0,unknown
+13.02.2026,red and gold robe,KYD1737,0,0,unknown
+13.02.2026,damage,KYD1737,0,0,unknown
+13.02.2026,green cross,KYD1737,0,0,unknown
+13.02.2026,icon,KYD1737,0,0,unknown
+13.02.2026,green and red robe,KYD1737,0,0,unknown
+13.02.2026,man,KYD1737,0,0,unknown
+13.02.2026,yellow and blue robe,KYD1737,0,0,unknown
+13.02.2026,saint,KYD1737,0,0,unknown
+13.02.2026,the protection veil of the holy mother of god with the theodosius and saint michael,KYD1737,0,1,reject
+13.02.2026,golden cross,KYD1737,0,0,unknown
+13.02.2026,signs of age,KYD1738,0,0,unknown
+13.02.2026,christ pantocrator,KYD1738,0,0,unknown
+13.02.2026,red robe,KYD1738,0,0,unknown
+13.02.2026,icon,KYD1738,0,0,unknown
+13.02.2026,paint damage,KYD1738,0,0,unknown
+13.02.2026,open book,KYD1738,0,0,unknown
+13.02.2026,jesus christ,KYD1738,0,0,unknown
+13.02.2026,crown,KYD1738,0,0,unknown
+13.02.2026,visible vertical cracks,KYD1738,0,0,unknown
+13.02.2026,damage,KYD1738,0,0,unknown
+13.02.2026,golden halo,KYD1738,0,0,unknown
+13.02.2026,blue cloak,KYD1738,0,0,unknown
+13.02.2026,chalice,KYD1739,0,0,unknown
+13.02.2026,jesus christ - vine,KYD1739,1,0,accept
+13.02.2026,"damaged, wooden icon",KYD1739,0,0,unknown
+13.02.2026,icon,KYD1739,1,0,accept
+13.02.2026,cracks,KYD1739,0,0,unknown
+13.02.2026,halo,KYD1739,0,0,unknown
+13.02.2026,peeling paint,KYD1739,0,0,unknown
+13.02.2026,jesus christ,KYD1739,1,0,accept
+13.02.2026,crown of thorns,KYD1739,0,0,unknown
+22.03.2026,I Am the True Vine,KYD1739,1,0,accept
+13.02.2026,two angels,KYD1739,0,0,unknown
+13.02.2026,damage,KYD1740,0,0,unknown
+13.02.2026,cross,KYD1740,0,0,unknown
+13.02.2026,icon,KYD1740,0,0,unknown
+13.02.2026,painting,KYD1740,0,0,unknown
+13.02.2026,poor condition,KYD1740,0,0,unknown
+13.02.2026,scroll,KYD1740,0,0,unknown
+13.02.2026,small object,KYD1740,0,0,unknown
+13.02.2026,visible cracks,KYD1740,0,0,unknown
+13.02.2026,pelican,KYD1740,1,0,accept
+13.02.2026,religious style,KYD1741,0,0,unknown
+22.03.2026,I Believe - the Symbol of Faith,KYD1741,1,0,accept
+22.03.2026,The Creed,KYD1741,1,0,accept
+13.02.2026,damage on hands,KYD1741,0,0,unknown
+13.02.2026,st. paraskeva,KYD1741,0,0,unknown
+13.02.2026,visible cracks,KYD1741,0,0,unknown
+13.02.2026,icon,KYD1741,0,0,unknown
+13.02.2026,cross,KYD1741,0,0,unknown
+13.02.2026,damage on face,KYD1741,0,0,unknown
+13.02.2026,green tunic,KYD1741,0,0,unknown
+13.02.2026,red cloak,KYD1741,0,0,unknown
+13.02.2026,woman,KYD1741,0,0,unknown
+13.02.2026,orthodox,KYD1741,0,0,unknown
+13.02.2026,long red hair,KYD1741,0,0,unknown
+13.02.2026,golden halo,KYD1741,0,0,unknown
+22.03.2026,St George,KYD1742,1,0,accept
+13.02.2026,visible signs of age and wear,KYD1742,0,0,unknown
+13.02.2026,lance,KYD1742,0,0,unknown
+13.02.2026,saint george,KYD1742,0,0,unknown
+13.02.2026,icon,KYD1742,0,0,unknown
+13.02.2026,st. yuri the,KYD1742,0,0,unknown
+13.02.2026,red saddle,KYD1742,0,0,unknown
+13.02.2026,white horse,KYD1742,0,0,unknown
+13.02.2026,helmet,KYD1742,0,0,unknown
+13.02.2026,st. yuri the slayer of a dragon,KYD1742,0,0,unknown
+13.02.2026,red and gold robe,KYD1742,0,0,unknown
+13.02.2026,painted icon,KYD1742,0,0,unknown
+13.02.2026,golden bridle,KYD1742,0,0,unknown
+13.02.2026,the protection veil of the holy mother of god with the theodosius and saint michael,KYD1743,0,1,reject
+13.02.2026,peeling paint,KYD1743,0,0,unknown
+19.03.2026,St Barbara,KYD1743,1,0,accept
+13.02.2026,brown robe,KYD1743,0,0,unknown
+19.03.2026,St Nicholas,KYD1743,1,0,accept
+13.02.2026,figure in brown robe,KYD1743,0,0,unknown
+13.02.2026,saint michael,KYD1743,0,1,reject
+13.02.2026,figure in dark robe,KYD1743,0,0,unknown
+13.02.2026,damaged wooden icon,KYD1743,0,0,unknown
+13.02.2026,saint,KYD1743,0,0,unknown
+13.02.2026,significant wear and tear,KYD1743,0,0,unknown
+13.02.2026,dark robe,KYD1743,0,0,unknown
+13.02.2026,visible wood grain,KYD1743,0,0,unknown
+13.02.2026,chalice,KYD1743,0,0,unknown
+13.02.2026,mother,KYD1743,0,0,unknown
+13.02.2026,crowned woman,KYD1743,0,0,unknown
+13.02.2026,dark robe with floral pattern,KYD1743,0,0,unknown
+13.02.2026,icon,KYD1743,0,0,unknown
+13.02.2026,book,KYD1743,0,0,unknown
+13.02.2026,saint varvara,KYD1744,0,0,unknown
+13.02.2026,peeling paint,KYD1744,0,0,unknown
+13.02.2026,missing paint,KYD1744,0,0,unknown
+13.02.2026,red and gold robe,KYD1744,0,0,unknown
+13.02.2026,staff,KYD1744,0,0,unknown
+13.02.2026,woman,KYD1744,0,0,unknown
+13.02.2026,cracks,KYD1744,0,0,unknown
+13.02.2026,icon,KYD1744,0,0,unknown
+13.02.2026,chalice,KYD1744,0,0,unknown
+13.02.2026,visible cracks,KYD1744,0,0,unknown
+13.02.2026,saint,KYD1744,0,0,unknown
+13.02.2026,wear,KYD1745,0,0,unknown
+13.02.2026,painted wooden panel,KYD1745,0,0,unknown
+13.02.2026,the archistratigus michael,KYD1745,0,0,unknown
+13.02.2026,shield,KYD1745,0,0,unknown
+13.02.2026,armor,KYD1745,0,0,unknown
+13.02.2026,figure in armor and a helmet,KYD1745,0,0,unknown
+19.03.2026,Archangel Michael,KYD1745,1,0,accept
+13.02.2026,staff,KYD1745,0,0,unknown
+13.02.2026,signs of age,KYD1745,0,0,unknown
+19.03.2026,Archcommander Michael,KYD1745,1,0,accept
+13.02.2026,helmet,KYD1745,0,0,unknown
+13.02.2026,icon,KYD1745,0,0,unknown
+13.02.2026,religious icon,KYD1746,0,0,unknown
+13.02.2026,small object,KYD1746,0,0,unknown
+13.02.2026,man,KYD1746,0,0,unknown
+13.02.2026,cracks,KYD1746,0,0,unknown
+13.02.2026,christ pantocrator and st. varvara,KYD1746,0,0,unknown
+13.02.2026,st. varvara,KYD1746,0,0,unknown
+13.02.2026,cross,KYD1746,0,0,unknown
+13.02.2026,icon,KYD1746,0,0,unknown
+13.02.2026,red robe,KYD1746,0,0,unknown
+13.02.2026,green dress,KYD1746,0,0,unknown
+13.02.2026,peeling paint,KYD1746,0,0,unknown
+13.02.2026,woman,KYD1746,0,0,unknown
+13.02.2026,book,KYD1746,0,0,unknown
+13.02.2026,green cloak,KYD1746,0,0,unknown
+13.02.2026,cracks,KYD1747,0,0,unknown
+13.02.2026,chipped paint,KYD1747,0,0,unknown
+13.02.2026,infant jesus,KYD1747,1,0,accept
+13.02.2026,traditional orthodox style,KYD1747,0,0,unknown
+13.02.2026,wedding couple,KYD1747,0,1,reject
+13.02.2026,wooden frame,KYD1747,0,0,unknown
+13.02.2026,holy family,KYD1747,0,1,reject
+13.02.2026,signs of age and wear,KYD1747,0,0,unknown
+13.02.2026,couple,KYD1747,0,1,reject
+13.02.2026,painted fruit motifs,KYD1747,0,0,unknown
+13.02.2026,saint joseph,KYD1747,0,1,reject
+13.02.2026,icon,KYD1747,1,0,accept
+13.02.2026,virgin mary,KYD1747,0,0,unknown
+13.02.2026,painted floral motifs,KYD1747,0,0,unknown
+19.03.2026,St Nicholas,KYD1748,1,0,accept
+13.02.2026,rust spots,KYD1748,0,0,unknown
+13.02.2026,white robe,KYD1748,0,0,unknown
+13.02.2026,man with a beard and blue eyes,KYD1748,0,0,unknown
+13.02.2026,black hood,KYD1748,0,0,unknown
+13.02.2026,visible cracks,KYD1748,0,0,unknown
+13.02.2026,st. michael,KYD1748,0,1,reject
+13.02.2026,dark object,KYD1748,0,0,unknown
+13.02.2026,painted wooden icon,KYD1748,0,0,unknown
+13.02.2026,peeling paint,KYD1748,0,0,unknown
+13.02.2026,staff,KYD1748,0,0,unknown
+13.02.2026,icon,KYD1748,0,0,unknown
+22.03.2026,St Nicholas,KYD1749,1,0,accept
+13.02.2026,virgin mary,KYD1749,0,0,unknown
+13.02.2026,infant jesus,KYD1749,0,0,unknown
+13.02.2026,bearded man,KYD1749,0,0,unknown
+13.02.2026,crown,KYD1749,0,0,unknown
+13.02.2026,saints,KYD1749,0,0,unknown
+13.02.2026,halos,KYD1749,0,0,unknown
+13.02.2026,damage,KYD1749,0,0,unknown
+13.02.2026,cross,KYD1749,0,0,unknown
+13.02.2026,red robes with gold trim,KYD1749,0,0,unknown
+13.02.2026,icon,KYD1749,0,0,unknown
+13.02.2026,mitre,KYD1749,0,0,unknown
+13.02.2026,red and gold robe,KYD1749,0,0,unknown
+13.02.2026,book,KYD1749,0,0,unknown
+13.02.2026,red and blue robe,KYD1749,0,0,unknown
+13.02.2026,visible cracks,KYD1749,0,0,unknown
+13.02.2026,woman,KYD1749,0,0,unknown
+13.02.2026,religious painting,KYD1749,0,0,unknown
+13.02.2026,jesus,KYD1750,0,0,unknown
+13.02.2026,man,KYD1750,0,0,unknown
+13.02.2026,several women,KYD1750,0,0,unknown
+13.02.2026,"jesus, the lidless eye and five saints",KYD1750,0,0,unknown
+13.02.2026,sleeping infant,KYD1750,0,0,unknown
+13.02.2026,crown,KYD1750,0,0,unknown
+13.02.2026,infant in a manger,KYD1750,0,0,unknown
+13.02.2026,chalices,KYD1750,0,0,unknown
+13.02.2026,heavily cracked,KYD1750,0,0,unknown
+13.02.2026,icon,KYD1750,0,0,unknown
+13.02.2026,religious fresco,KYD1750,0,0,unknown
+13.02.2026,worn,KYD1750,0,0,unknown
+13.02.2026,book,KYD1750,0,0,unknown
+13.02.2026,red and black robe,KYD1750,0,0,unknown
+22.03.2026,St Barbara,KYD1750,1,0,accept
+22.03.2026,Virgin Mary,KYD1750,1,0,accept
+22.03.2026,St Nicholas,KYD1750,1,0,accept
+13.02.2026,red and green head covering,KYD1751,0,0,unknown
+13.02.2026,mother,KYD1751,0,0,unknown
+13.02.2026,green cloak,KYD1751,0,0,unknown
+13.02.2026,cracks,KYD1751,0,0,unknown
+13.02.2026,infant jesus,KYD1751,0,0,unknown
+13.02.2026,virgin mary,KYD1751,0,0,unknown
+13.02.2026,the kazan icon of the mother of god,KYD1751,0,0,unknown
+13.02.2026,white tunic,KYD1751,0,0,unknown
+13.02.2026,icon,KYD1751,0,0,unknown
+13.02.2026,brown robe,KYD1751,0,0,unknown
+13.02.2026,painting,KYD1751,0,0,unknown
+13.02.2026,discoloration,KYD1751,0,0,unknown
+13.02.2026,crucifix,KYD1752,0,0,unknown
+13.02.2026,icon,KYD1752,0,0,unknown
+13.02.2026,halo,KYD1752,0,0,unknown
+13.02.2026,blue robe with gold trim,KYD1752,0,0,unknown
+13.02.2026,figure in blue robe,KYD1752,0,0,unknown
+13.02.2026,our lady of okhtyrka,KYD1752,0,0,unknown
+13.02.2026,paint loss,KYD1752,0,0,unknown
+13.02.2026,visible cracks,KYD1752,0,0,unknown
+13.02.2026,scales,KYD1753,0,0,unknown
+13.02.2026,religious painting,KYD1753,0,0,unknown
+13.02.2026,faded colors,KYD1753,0,0,unknown
+13.02.2026,another child,KYD1753,0,0,unknown
+13.02.2026,golden robes,KYD1753,0,0,unknown
+13.02.2026,staff,KYD1753,0,0,unknown
+13.02.2026,tree,KYD1753,0,0,unknown
+13.02.2026,sword,KYD1753,0,0,unknown
+13.02.2026,man,KYD1753,0,0,unknown
+13.02.2026,bishop,KYD1753,0,0,unknown
+13.02.2026,the virgin mary,KYD1753,0,0,unknown
+13.02.2026,figure with sword and scales,KYD1753,0,0,unknown
+13.02.2026,virgin mary,KYD1753,0,0,unknown
+13.02.2026,icon,KYD1753,0,0,unknown
+13.02.2026,crown,KYD1753,0,0,unknown
+13.02.2026,two cherubs,KYD1753,0,0,unknown
+13.02.2026,two children,KYD1753,0,0,unknown
+13.02.2026,visible damage,KYD1753,0,0,unknown
+13.02.2026,fire,KYD1753,0,0,unknown
+13.02.2026,dark leaves,KYD1754,1,0,accept
+13.02.2026,large red flowers with white centers,KYD1754,0,1,reject
+13.02.2026,icon,KYD1754,1,0,accept
+13.02.2026,damage on red flowers,KYD1754,1,0,accept
+13.02.2026,baby,KYD1754,1,0,accept
+13.02.2026,child,KYD1754,1,0,accept
+13.02.2026,red garment with dark patterned border,KYD1754,1,0,accept
+13.02.2026,white dress with red collar,KYD1754,1,0,accept
+13.02.2026,visible cracks,KYD1754,1,0,accept
+13.02.2026,the blessed virgin with a baby,KYD1754,1,0,accept
+13.02.2026,woman,KYD1754,1,0,accept
+13.02.2026,madonna and child,KYD1754,0,0,unknown
+13.02.2026,damage on woman's face,KYD1754,1,0,accept
+13.02.2026,dark bottle,KYD1755,2,0,accept
+13.02.2026,portrait of ihor oleksiiovych kolesnyk,KYD1755,2,0,accept
+13.02.2026,cigarette,KYD1755,2,0,accept
+13.02.2026,peeling paint,KYD1755,2,0,accept
+13.02.2026,ihor oleksiiovych kolesnyk,KYD1755,2,0,accept
+13.02.2026,book,KYD1755,2,0,accept
+13.02.2026,small cup,KYD1755,2,0,accept
+13.02.2026,young man,KYD1755,2,0,accept
+13.02.2026,white embroidered shirt,KYD1755,2,0,accept
+13.02.2026,portrait,KYD1755,2,0,accept
+13.02.2026,dark suit,KYD1755,2,0,accept
+13.02.2026,watch,KYD1755,2,0,accept
+13.02.2026,cracks,KYD1755,0,1,reject
+13.02.2026,blue dress,KYD1756,1,0,accept
+13.02.2026,table,KYD1756,2,0,accept
+13.02.2026,young woman,KYD1756,2,0,accept
+13.02.2026,portrait of mynka mykolaivna kolesnyk,KYD1756,2,0,accept
+13.02.2026,multi-strand necklace,KYD1756,2,0,accept
+13.02.2026,floral embroidery on the sleeves,KYD1756,2,0,accept
+13.02.2026,dark vest,KYD1756,2,0,accept
+13.02.2026,visible signs of age,KYD1756,0,2,reject
+13.02.2026,damage,KYD1756,0,2,reject
+13.02.2026,small bouquet of flowers,KYD1756,2,0,accept
+13.02.2026,vase of flowers,KYD1756,2,0,accept
+13.02.2026,garden,KYD1756,2,0,accept
+13.02.2026,mynka mykolaivna kolesnyk,KYD1756,2,0,accept
+13.02.2026,portrait,KYD1756,2,0,accept
+13.02.2026,near the well,KYD1757,0,0,unknown
+13.02.2026,light-colored pants,KYD1757,0,0,unknown
+13.02.2026,two women,KYD1757,0,0,unknown
+13.02.2026,painting,KYD1757,0,0,unknown
+13.02.2026,man on white horse,KYD1757,0,0,unknown
+13.02.2026,several white geese,KYD1757,0,0,unknown
+13.02.2026,house,KYD1757,0,0,unknown
+13.02.2026,man in brown vest,KYD1757,0,0,unknown
+13.02.2026,visible damage,KYD1757,0,0,unknown
+13.02.2026,white horse,KYD1757,0,0,unknown
+13.02.2026,trees,KYD1757,0,0,unknown
+13.02.2026,dog,KYD1757,0,0,unknown
+13.02.2026,rural scene,KYD1757,0,0,unknown
+13.02.2026,woman holding bucket,KYD1757,0,0,unknown
+13.02.2026,bucket,KYD1757,0,0,unknown
+13.02.2026,man in dark uniform,KYD1757,0,0,unknown
+13.02.2026,wooden well,KYD1757,0,0,unknown
+13.02.2026,dark uniform,KYD1757,0,0,unknown
+13.02.2026,two cows,KYD1757,0,0,unknown
+13.02.2026,cloudy sky,KYD1757,0,0,unknown
+13.02.2026,brown vest,KYD1757,0,0,unknown
+13.02.2026,woman,KYD1758,0,0,unknown
+13.02.2026,trees,KYD1758,0,0,unknown
+13.02.2026,necklace,KYD1758,0,0,unknown
+13.02.2026,visible cracks,KYD1758,0,0,unknown
+13.02.2026,gold cross,KYD1758,0,0,unknown
+13.02.2026,black vest,KYD1758,0,0,unknown
+13.02.2026,wear,KYD1758,0,0,unknown
+13.02.2026,portrait,KYD1758,0,0,unknown
+13.02.2026,well,KYD1758,0,0,unknown
+13.02.2026,signs of age,KYD1758,0,0,unknown
+13.02.2026,circular beads,KYD1758,0,0,unknown
+13.02.2026,portrait of a woman,KYD1758,0,0,unknown
+13.02.2026,white blouse,KYD1758,0,0,unknown
+13.02.2026,small house,KYD1758,0,0,unknown
+13.02.2026,red and black floral embroidery,KYD1758,0,0,unknown
+13.02.2026,a woman,KYD1758,0,0,unknown
+13.02.2026,traditional attire,KYD1758,0,0,unknown
+13.02.2026,painted portrait,KYD1759,0,0,unknown
+13.02.2026,a man,KYD1759,1,0,accept
+13.02.2026,trees,KYD1759,0,0,unknown
+13.02.2026,visible cracks,KYD1759,0,0,unknown
+13.02.2026,damage on the jacket,KYD1759,0,0,unknown
+13.02.2026,man with a mustache,KYD1759,0,0,unknown
+13.02.2026,white shirt with a red and black floral pattern,KYD1759,0,0,unknown
+13.02.2026,dark jacket,KYD1759,0,0,unknown
+13.02.2026,small house,KYD1759,0,0,unknown
+13.02.2026,man,KYD1759,0,0,unknown
+13.02.2026,portrait of a man,KYD1759,0,0,unknown
+13.02.2026,field,KYD1760,0,0,unknown
+13.02.2026,small house,KYD1760,0,0,unknown
+13.02.2026,portrait of a man,KYD1760,0,0,unknown
+13.02.2026,white shirt with floral pattern,KYD1760,0,0,unknown
+13.02.2026,portrait,KYD1760,0,0,unknown
+13.02.2026,trees,KYD1760,0,0,unknown
+13.02.2026,dark coat,KYD1760,0,0,unknown
+13.02.2026,damage,KYD1760,0,0,unknown
+13.02.2026,visible cracks,KYD1760,0,0,unknown
+13.02.2026,windmill,KYD1760,0,0,unknown
+13.02.2026,man,KYD1760,0,0,unknown
+13.02.2026,a man,KYD1760,0,0,unknown
+13.02.2026,black jacket,KYD1761,0,0,unknown
+13.02.2026,portrait,KYD1761,0,0,unknown
+13.02.2026,red necklace,KYD1761,0,0,unknown
+13.02.2026,woman,KYD1761,0,0,unknown
+13.02.2026,blue garment,KYD1761,0,0,unknown
+13.02.2026,gold earring,KYD1761,0,0,unknown
+13.02.2026,portrait of a woman,KYD1761,0,0,unknown
+13.02.2026,a woman,KYD1761,0,0,unknown
+13.02.2026,visible cracks,KYD1761,0,0,unknown
+13.02.2026,damage,KYD1761,0,0,unknown
+13.02.2026,man,KYD1762,0,0,unknown
+13.02.2026,dark suit,KYD1762,0,0,unknown
+13.02.2026,red bow tie,KYD1762,0,0,unknown
+13.02.2026,a man,KYD1762,0,0,unknown
+13.02.2026,canvas,KYD1762,0,0,unknown
+13.02.2026,portrait,KYD1762,0,0,unknown
+13.02.2026,visible signs of age and wear,KYD1762,0,0,unknown
+13.02.2026,portrait of a man,KYD1762,0,0,unknown
+13.02.2026,white shirt with floral pattern,KYD1762,0,0,unknown
+13.02.2026,a girl,KYD1763,0,0,unknown
+13.02.2026,girl,KYD1763,0,0,unknown
+13.02.2026,portrait,KYD1763,0,0,unknown
+13.02.2026,tree,KYD1763,0,0,unknown
+13.02.2026,traditional attire,KYD1763,0,0,unknown
+13.02.2026,blue dress,KYD1763,0,0,unknown
+13.02.2026,red embroidery,KYD1763,0,0,unknown
+13.02.2026,red headscarf,KYD1763,0,0,unknown
+13.02.2026,white sleeves,KYD1763,0,0,unknown
+13.02.2026,small house,KYD1763,0,0,unknown
+13.02.2026,silver cross necklace,KYD1763,0,0,unknown
+13.02.2026,woman,KYD1763,0,0,unknown
+13.02.2026,oil on canvas,KYD1763,0,0,unknown
+13.02.2026,portrait of a girl,KYD1763,0,0,unknown
+13.02.2026,portrait,KYD1764,0,0,unknown
+13.02.2026,dark dress,KYD1764,0,0,unknown
+13.02.2026,wooden fence,KYD1764,0,0,unknown
+13.02.2026,girl,KYD1764,0,0,unknown
+13.02.2026,a girl,KYD1764,0,0,unknown
+13.02.2026,red beaded necklace,KYD1764,0,0,unknown
+13.02.2026,woman,KYD1764,0,0,unknown
+13.02.2026,traditional folk attire,KYD1764,0,0,unknown
+13.02.2026,white embroidered sleeves,KYD1764,0,0,unknown
+13.02.2026,portrait of a girl,KYD1764,0,0,unknown
+13.02.2026,oil on canvas,KYD1764,0,0,unknown
+13.02.2026,floral wreath,KYD1764,0,0,unknown
+13.02.2026,portrait of a girl,KYD1765,0,0,unknown
+13.02.2026,house,KYD1765,0,0,unknown
+13.02.2026,portrait,KYD1765,0,0,unknown
+13.02.2026,trees,KYD1765,0,0,unknown
+13.02.2026,oil on canvas,KYD1765,0,0,unknown
+13.02.2026,a girl,KYD1765,0,0,unknown
+13.02.2026,river,KYD1765,0,0,unknown
+13.02.2026,traditional folk attire,KYD1765,0,0,unknown
+13.02.2026,white blouse with embroidery,KYD1765,0,0,unknown
+13.02.2026,girl,KYD1765,0,0,unknown
+13.02.2026,dark vest,KYD1765,0,0,unknown
+13.02.2026,floral wreath,KYD1765,0,0,unknown
+13.02.2026,young woman,KYD1765,0,0,unknown
+13.02.2026,multiple necklaces,KYD1765,0,0,unknown
+13.02.2026,hollyhock plant,KYD1766,0,0,unknown
+13.02.2026,small house,KYD1766,0,0,unknown
+13.02.2026,woman,KYD1766,0,0,unknown
+13.02.2026,portrait,KYD1766,0,0,unknown
+13.02.2026,outdoor setting,KYD1766,0,0,unknown
+13.02.2026,floral embroidery,KYD1766,0,0,unknown
+13.02.2026,white blouse,KYD1766,0,0,unknown
+13.02.2026,portrait of a girl,KYD1766,0,0,unknown
+13.02.2026,red headband,KYD1766,0,0,unknown
+13.02.2026,girl,KYD1766,0,0,unknown
+13.02.2026,multiple necklaces,KYD1766,0,0,unknown
+13.02.2026,traditional folk attire,KYD1766,0,0,unknown
+13.02.2026,red vest,KYD1766,0,0,unknown
+13.02.2026,a girl,KYD1766,0,0,unknown
+13.02.2026,portrait,KYD1767,0,0,unknown
+13.02.2026,floral wreath,KYD1767,0,0,unknown
+13.02.2026,woman,KYD1767,0,0,unknown
+13.02.2026,girl,KYD1767,0,0,unknown
+13.02.2026,a girl,KYD1767,0,0,unknown
+13.02.2026,oil on canvas,KYD1767,0,0,unknown
+13.02.2026,red scarf,KYD1767,0,0,unknown
+13.02.2026,white blouse,KYD1767,0,0,unknown
+13.02.2026,traditional folk attire,KYD1767,0,0,unknown
+13.02.2026,patterned vest,KYD1767,0,0,unknown
+13.02.2026,portrait of a girl,KYD1767,0,0,unknown
+13.02.2026,a fellow and a girl near the well,KYD1768,0,0,unknown
+13.02.2026,small blue and white house,KYD1768,0,0,unknown
+13.02.2026,white buckets,KYD1768,0,0,unknown
+13.02.2026,floral headband,KYD1768,0,0,unknown
+13.02.2026,church,KYD1768,0,0,unknown
+13.02.2026,painting,KYD1768,0,0,unknown
+13.02.2026,trees,KYD1768,0,0,unknown
+13.02.2026,blue dress,KYD1768,0,0,unknown
+13.02.2026,red and white embroidery,KYD1768,0,0,unknown
+13.02.2026,wooden fence,KYD1768,0,0,unknown
+13.02.2026,visible signs of age and wear,KYD1768,0,0,unknown
+13.02.2026,girl,KYD1768,0,0,unknown
+13.02.2026,red and gold sash,KYD1768,0,0,unknown
+13.02.2026,woman,KYD1768,0,0,unknown
+13.02.2026,blue trousers,KYD1768,0,0,unknown
+13.02.2026,man,KYD1768,0,0,unknown
+13.02.2026,straw hat,KYD1768,0,0,unknown
+13.02.2026,white shirt,KYD1768,0,0,unknown
+13.02.2026,brown skirt,KYD1768,0,0,unknown
+13.02.2026,white blouse with embroidery,KYD1769,0,0,unknown
+13.02.2026,rural landscape,KYD1769,0,0,unknown
+13.02.2026,wooden bucket,KYD1769,0,0,unknown
+13.02.2026,a girl,KYD1769,0,0,unknown
+13.02.2026,dark vest,KYD1769,0,0,unknown
+13.02.2026,girl,KYD1769,0,0,unknown
+13.02.2026,visible brushstrokes,KYD1769,0,0,unknown
+13.02.2026,painting,KYD1769,0,0,unknown
+13.02.2026,portrait of a girl,KYD1769,0,0,unknown
+13.02.2026,traditional folk attire,KYD1769,0,0,unknown
+13.02.2026,some damage,KYD1769,0,0,unknown
+13.02.2026,woman,KYD1769,0,0,unknown
+13.02.2026,fence,KYD1769,0,0,unknown
+13.02.2026,colorful striped shawl,KYD1769,0,0,unknown
+13.02.2026,small earring,KYD1770,0,0,unknown
+13.02.2026,girl,KYD1770,0,0,unknown
+13.02.2026,portrait,KYD1770,0,0,unknown
+13.02.2026,a girl in black,KYD1770,0,0,unknown
+13.02.2026,woman,KYD1770,0,0,unknown
+13.02.2026,pink scarf,KYD1770,0,0,unknown
+13.02.2026,cross necklace,KYD1770,0,0,unknown
+13.02.2026,portrait of a girl in black,KYD1770,0,0,unknown
+13.02.2026,dark dress,KYD1770,0,0,unknown
+13.02.2026,multiple necklaces,KYD1771,0,0,unknown
+13.02.2026,hands,KYD1771,0,0,unknown
+13.02.2026,cross,KYD1771,0,0,unknown
+13.02.2026,girl,KYD1771,0,0,unknown
+13.02.2026,patterned skirt,KYD1771,0,0,unknown
+13.02.2026,portrait of a girl,KYD1771,0,0,unknown
+13.02.2026,rural landscape,KYD1771,0,0,unknown
+13.02.2026,dark vest,KYD1771,0,0,unknown
+13.02.2026,traditional folk attire,KYD1771,0,0,unknown
+13.02.2026,paint loss,KYD1771,0,0,unknown
+13.02.2026,wooden bench,KYD1771,0,0,unknown
+13.02.2026,woman,KYD1771,0,0,unknown
+13.02.2026,face,KYD1771,0,0,unknown
+13.02.2026,painting,KYD1771,0,0,unknown
+13.02.2026,visible cracks,KYD1771,0,0,unknown
+13.02.2026,white embroidered blouse,KYD1771,0,0,unknown
+13.02.2026,a girl,KYD1771,0,0,unknown
+13.02.2026,floral headdress,KYD1771,0,0,unknown
+13.02.2026,dark red uniform,KYD1772,0,0,unknown
+13.02.2026,man,KYD1772,0,0,unknown
+13.02.2026,red headband,KYD1772,0,0,unknown
+13.02.2026,canvas,KYD1772,0,0,unknown
+13.02.2026,black hat,KYD1772,0,0,unknown
+13.02.2026,white house,KYD1772,0,0,unknown
+13.02.2026,traditional attire,KYD1772,0,0,unknown
+13.02.2026,church,KYD1772,0,0,unknown
+13.02.2026,woman,KYD1772,0,0,unknown
+13.02.2026,white horse,KYD1772,0,0,unknown
+13.02.2026,painting,KYD1772,0,0,unknown
+13.02.2026,yaryna,KYD1772,0,0,unknown
+13.02.2026,trees,KYD1772,0,0,unknown
+13.02.2026,blue and white embroidered dress,KYD1772,0,0,unknown
+13.02.2026,saddle,KYD1772,0,0,unknown
+13.02.2026,portrait of a girl,KYD1773,0,0,unknown
+13.02.2026,wooden bench,KYD1773,0,0,unknown
+13.02.2026,floral crown,KYD1773,0,0,unknown
+13.02.2026,white blouse with red embroidery,KYD1773,0,0,unknown
+13.02.2026,blue skirt,KYD1773,0,0,unknown
+13.02.2026,small house,KYD1773,0,0,unknown
+13.02.2026,some damage,KYD1773,0,0,unknown
+13.02.2026,visible texture,KYD1773,0,0,unknown
+13.02.2026,a girl,KYD1773,0,0,unknown
+13.02.2026,girl,KYD1773,0,0,unknown
+13.02.2026,painting,KYD1773,0,0,unknown
+13.02.2026,river,KYD1773,0,0,unknown
+13.02.2026,brown vest,KYD1773,0,0,unknown
+13.02.2026,woman,KYD1773,0,0,unknown
+13.02.2026,river,KYD1774,0,0,unknown
+13.02.2026,small house,KYD1774,0,0,unknown
+13.02.2026,white blouse with red embroidery,KYD1774,0,0,unknown
+13.02.2026,red roses,KYD1774,0,0,unknown
+13.02.2026,some wear,KYD1774,0,0,unknown
+13.02.2026,painted portrait,KYD1774,0,0,unknown
+13.02.2026,red necklace,KYD1774,0,0,unknown
+13.02.2026,portrait of a girl,KYD1774,0,0,unknown
+13.02.2026,girl,KYD1774,0,0,unknown
+13.02.2026,red headband,KYD1774,0,0,unknown
+13.02.2026,a girl,KYD1774,0,0,unknown
+13.02.2026,wooden fence,KYD1774,0,0,unknown
+13.02.2026,visible texture,KYD1774,0,0,unknown
+13.02.2026,greenery,KYD1774,0,0,unknown
+13.02.2026,woman,KYD1774,0,0,unknown
+13.02.2026,wooden bench,KYD1775,0,0,unknown
+13.02.2026,orange and white embroidered vest,KYD1775,0,0,unknown
+13.02.2026,visible brushstrokes,KYD1775,0,0,unknown
+13.02.2026,red skirt,KYD1775,0,0,unknown
+13.02.2026,signs of age and wear,KYD1775,0,0,unknown
+13.02.2026,a girl,KYD1775,0,0,unknown
+13.02.2026,girl,KYD1775,0,0,unknown
+13.02.2026,painting,KYD1775,0,0,unknown
+13.02.2026,red headscarf,KYD1775,0,0,unknown
+13.02.2026,woman,KYD1775,0,0,unknown
+13.02.2026,portrait of a girl,KYD1775,0,0,unknown
+13.02.2026,stalk of wheat,KYD1775,0,0,unknown
+13.02.2026,traditional folk attire,KYD1775,0,0,unknown
+13.02.2026,traditional folk attire,KYD1776,0,0,unknown
+13.02.2026,signs of age,KYD1776,0,0,unknown
+13.02.2026,a girl,KYD1776,0,0,unknown
+13.02.2026,woman,KYD1776,0,0,unknown
+13.02.2026,red boots,KYD1776,0,0,unknown
+13.02.2026,white blouse,KYD1776,0,0,unknown
+13.02.2026,portrait of a girl,KYD1776,0,0,unknown
+13.02.2026,painting,KYD1776,0,0,unknown
+13.02.2026,two buckets,KYD1776,0,0,unknown
+13.02.2026,red headpiece,KYD1776,0,0,unknown
+13.02.2026,girl,KYD1776,0,0,unknown
+13.02.2026,red and black embroidered vest,KYD1776,0,0,unknown
+13.02.2026,small object,KYD1776,0,0,unknown
+13.02.2026,wear,KYD1776,0,0,unknown
+13.02.2026,young woman,KYD1777,0,0,unknown
+13.02.2026,river,KYD1777,0,0,unknown
+13.02.2026,trees,KYD1777,0,0,unknown
+13.02.2026,painting,KYD1777,0,0,unknown
+13.02.2026,girl,KYD1777,0,0,unknown
+13.02.2026,long braid,KYD1777,0,0,unknown
+13.02.2026,house,KYD1777,0,0,unknown
+13.02.2026,portrait of a girl,KYD1777,0,0,unknown
+13.02.2026,red sash,KYD1777,0,0,unknown
+13.02.2026,crown of daisies,KYD1777,0,0,unknown
+13.02.2026,blue vest,KYD1777,0,0,unknown
+13.02.2026,white blouse with red embroidery,KYD1777,0,0,unknown
+13.02.2026,traditional folk attire,KYD1777,0,0,unknown
+13.02.2026,wooden surface,KYD1777,0,0,unknown
+13.02.2026,a girl,KYD1777,0,0,unknown
+13.02.2026,wooden bench,KYD1778,0,0,unknown
+13.02.2026,red skirt,KYD1778,0,0,unknown
+13.02.2026,a girl,KYD1778,0,0,unknown
+13.02.2026,wooden bucket,KYD1778,0,0,unknown
+13.02.2026,portrait of a girl,KYD1778,0,0,unknown
+13.02.2026,red cloth,KYD1778,0,0,unknown
+13.02.2026,black vest,KYD1778,0,0,unknown
+13.02.2026,rural setting,KYD1778,0,0,unknown
+13.02.2026,garden,KYD1778,0,0,unknown
+13.02.2026,white blouse with floral embroidery,KYD1778,0,0,unknown
+13.02.2026,flowering plant,KYD1778,0,0,unknown
+13.02.2026,girl,KYD1778,0,0,unknown
+13.02.2026,woman,KYD1778,0,0,unknown
+13.02.2026,wooden water wheel,KYD1779,0,0,unknown
+13.02.2026,a girl,KYD1779,0,0,unknown
+13.02.2026,dark vest,KYD1779,0,0,unknown
+13.02.2026,blue skirt,KYD1779,0,0,unknown
+13.02.2026,girl,KYD1779,0,0,unknown
+13.02.2026,white embroidered blouse,KYD1779,0,0,unknown
+13.02.2026,portrait of a girl,KYD1779,0,0,unknown
+13.02.2026,multi-strand beaded necklace,KYD1779,0,0,unknown
+13.02.2026,traditional folk attire,KYD1779,0,0,unknown
+13.02.2026,wooden water bucket,KYD1779,0,0,unknown
+13.02.2026,woman,KYD1779,0,0,unknown
+13.02.2026,portrait,KYD1779,0,0,unknown
+13.02.2026,patterned blouse,KYD1780,0,0,unknown
+13.02.2026,cloth,KYD1780,0,0,unknown
+13.02.2026,girl,KYD1780,0,0,unknown
+13.02.2026,cross pendant,KYD1780,0,0,unknown
+13.02.2026,portrait of a girl,KYD1780,0,0,unknown
+13.02.2026,red beaded necklaces,KYD1780,0,0,unknown
+13.02.2026,outdoor scene,KYD1780,0,0,unknown
+13.02.2026,traditional attire,KYD1780,0,0,unknown
+13.02.2026,woman,KYD1780,0,0,unknown
+13.02.2026,red headscarf,KYD1780,0,0,unknown
+13.02.2026,red ribbon,KYD1780,0,0,unknown
+13.02.2026,green vest,KYD1780,0,0,unknown
+13.02.2026,a girl,KYD1780,0,0,unknown
+13.02.2026,a girl,KYD1781,0,0,unknown
+13.02.2026,girl,KYD1781,0,0,unknown
+13.02.2026,cross,KYD1781,0,0,unknown
+13.02.2026,portrait of a girl,KYD1781,0,0,unknown
+13.02.2026,portrait,KYD1781,0,0,unknown
+13.02.2026,white embroidered blouse,KYD1781,0,0,unknown
+13.02.2026,floral crown,KYD1781,0,0,unknown
+13.02.2026,young woman,KYD1781,0,0,unknown
+13.02.2026,red beaded necklace,KYD1781,0,0,unknown
+13.02.2026,painting on canvas,KYD1781,0,0,unknown
+13.02.2026,visible signs of aging,KYD1782,0,0,unknown
+13.02.2026,a girl,KYD1782,0,0,unknown
+13.02.2026,red ribbon,KYD1782,0,0,unknown
+13.02.2026,red necklace with white circular pendants,KYD1782,0,0,unknown
+13.02.2026,cracks,KYD1782,0,0,unknown
+13.02.2026,girl,KYD1782,0,0,unknown
+13.02.2026,red and white embroidered blouse,KYD1782,0,0,unknown
+13.02.2026,portrait,KYD1782,0,0,unknown
+13.02.2026,floral wreath,KYD1782,0,0,unknown
+13.02.2026,brown vest,KYD1782,0,0,unknown
+13.02.2026,long braid,KYD1782,0,0,unknown
+13.02.2026,discoloration,KYD1782,0,0,unknown
+13.02.2026,portrait of a girl,KYD1782,0,0,unknown
+13.02.2026,woman,KYD1782,0,0,unknown
+13.02.2026,man,KYD1783,0,0,unknown
+13.02.2026,a man,KYD1783,0,0,unknown
+13.02.2026,dark coat,KYD1783,0,0,unknown
+13.02.2026,path,KYD1783,0,0,unknown
+13.02.2026,visible brushstrokes,KYD1783,0,0,unknown
+13.02.2026,portrait,KYD1783,0,0,unknown
+13.02.2026,portrait of a man,KYD1783,0,0,unknown
+13.02.2026,wear,KYD1783,0,0,unknown
+13.02.2026,house,KYD1783,0,0,unknown
+13.02.2026,cap,KYD1783,0,0,unknown
+13.02.2026,trees,KYD1783,0,0,unknown
+13.02.2026,young man,KYD1783,0,0,unknown
+13.02.2026,wooden log,KYD1783,0,0,unknown
+13.02.2026,portrait,KYD1784,0,0,unknown
+13.02.2026,dark blue and white blouse,KYD1784,0,0,unknown
+13.02.2026,red ribbon at the neck,KYD1784,0,0,unknown
+13.02.2026,small bouquet of red flowers,KYD1784,0,0,unknown
+13.02.2026,signs of age,KYD1784,0,0,unknown
+13.02.2026,girl,KYD1784,0,0,unknown
+13.02.2026,young woman,KYD1784,0,0,unknown
+13.02.2026,path,KYD1784,0,0,unknown
+13.02.2026,swans,KYD1784,0,0,unknown
+13.02.2026,portrait of a little girl,KYD1784,0,0,unknown
+13.02.2026,red floral embroidery,KYD1784,0,0,unknown
+13.02.2026,wear,KYD1784,0,0,unknown
+13.02.2026,red apron,KYD1784,0,0,unknown
+13.02.2026,pond,KYD1784,0,0,unknown
+13.02.2026,a little girl,KYD1784,0,0,unknown
+13.02.2026,trees,KYD1784,0,0,unknown
+13.02.2026,small house,KYD1784,0,0,unknown
+13.02.2026,white blouse with red floral embroidery,KYD1785,0,0,unknown
+13.02.2026,sliced watermelon,KYD1785,0,0,unknown
+13.02.2026,olha and mykola doroskop,KYD1785,0,0,unknown
+13.02.2026,seated at a table,KYD1785,0,0,unknown
+13.02.2026,bunch of grapes,KYD1785,0,0,unknown
+13.02.2026,bouquet of roses,KYD1785,0,0,unknown
+13.02.2026,painted portrait,KYD1785,0,0,unknown
+13.02.2026,portrait of olha and mykola doroskop,KYD1785,0,0,unknown
+13.02.2026,dark suit,KYD1785,0,0,unknown
+13.02.2026,man,KYD1785,0,0,unknown
+13.02.2026,bowl of apples,KYD1785,0,0,unknown
+13.02.2026,dark head covering,KYD1785,0,0,unknown
+13.02.2026,woman,KYD1785,0,0,unknown
+13.02.2026,tie,KYD1785,0,0,unknown
+13.02.2026,potted plant with white flowers,KYD1785,0,0,unknown
+13.02.2026,mykola doroskop,KYD1785,0,0,unknown
+13.02.2026,signs of age,KYD1786,0,0,unknown
+13.02.2026,painting,KYD1786,0,0,unknown
+13.02.2026,straw hat,KYD1786,0,0,unknown
+13.02.2026,woman,KYD1786,0,0,unknown
+13.02.2026,boy,KYD1786,0,0,unknown
+13.02.2026,flute,KYD1786,0,0,unknown
+13.02.2026,white swan,KYD1786,0,0,unknown
+13.02.2026,a boy with a pipe,KYD1786,0,0,unknown
+13.02.2026,damage,KYD1786,0,0,unknown
+13.02.2026,red dress,KYD1786,0,0,unknown
+13.02.2026,yaryna,KYD1787,0,0,unknown
+13.02.2026,horse,KYD1787,0,0,unknown
+13.02.2026,black hat,KYD1787,0,0,unknown
+13.02.2026,patterned dress,KYD1787,0,0,unknown
+13.02.2026,sword,KYD1787,0,0,unknown
+13.02.2026,man,KYD1787,0,0,unknown
+13.02.2026,tree,KYD1787,0,0,unknown
+13.02.2026,red uniform,KYD1787,0,0,unknown
+13.02.2026,black head covering,KYD1787,0,0,unknown
+13.02.2026,traditional folk attire,KYD1787,0,0,unknown
+13.02.2026,painted wooden panel,KYD1787,0,0,unknown
+13.02.2026,woman,KYD1787,0,0,unknown
+13.02.2026,visible wood grain,KYD1787,0,0,unknown
+13.02.2026,some damage,KYD1787,0,0,unknown
+13.02.2026,kozak,KYD1788,0,0,unknown
+13.02.2026,man,KYD1788,0,0,unknown
+13.02.2026,houses,KYD1788,0,0,unknown
+13.02.2026,several people,KYD1788,0,0,unknown
+13.02.2026,trees,KYD1788,0,0,unknown
+13.02.2026,church,KYD1788,0,0,unknown
+13.02.2026,horse,KYD1788,0,0,unknown
+13.02.2026,white dress,KYD1788,0,0,unknown
+13.02.2026,girl,KYD1788,0,0,unknown
+13.02.2026,dark coat,KYD1788,0,0,unknown
+13.02.2026,tall hat,KYD1788,0,0,unknown
+13.02.2026,visible damage,KYD1788,0,0,unknown
+13.02.2026,painting,KYD1788,0,0,unknown
+13.02.2026,birds,KYD1788,0,0,unknown
+13.02.2026,woman,KYD1788,0,0,unknown
+13.02.2026,rural village scene,KYD1788,0,0,unknown
+13.02.2026,river,KYD1788,0,0,unknown
+13.02.2026,kozak with a girl,KYD1788,0,0,unknown
+13.02.2026,red shawl,KYD1788,0,0,unknown
+13.02.2026,tree stump,KYD1789,0,0,unknown
+13.02.2026,light-colored shirt,KYD1789,1,3,reject
+13.02.2026,garden,KYD1789,4,0,accept
+13.02.2026,blue headscarf,KYD1789,2,1,accept
+13.02.2026,rural setting,KYD1789,4,0,accept
+13.02.2026,white blouse with red embroidery,KYD1789,3,1,accept
+13.02.2026,young boy,KYD1789,3,1,accept
+13.02.2026,young girl,KYD1789,4,0,accept
+13.02.2026,trousers,KYD1789,1,3,reject
+13.02.2026,dressing a circlet of flowers,KYD1789,2,1,accept
+13.02.2026,floral wreath,KYD1789,3,1,accept
+13.02.2026,red skirt,KYD1789,1,3,reject
+19.03.2026,Mother,KYD1789,4,0,accept
+13.02.2026,woman,KYD1789,3,0,accept
+13.02.2026,large pumpkin,KYD1789,1,3,reject
+13.02.2026,basket with flowers,KYD1790,2,1,accept
+13.02.2026,visible wear and tear,KYD1790,0,2,reject
+13.02.2026,embroidered floral arrangement,KYD1790,3,0,accept
+13.02.2026,vase,KYD1790,2,0,accept
+13.02.2026,red and blue striped veil,KYD1791,1,2,reject
+13.02.2026,portrait,KYD1791,4,0,accept
+13.02.2026,portrait of a girl,KYD1791,4,0,accept
+13.02.2026,floral crown,KYD1791,3,1,accept
+13.02.2026,painting on canvas,KYD1791,4,0,accept
+13.02.2026,girl,KYD1791,3,0,accept
+13.02.2026,signs of age,KYD1791,0,3,reject
+13.02.2026,wear,KYD1791,1,2,reject
+13.02.2026,red beaded necklaces,KYD1791,3,1,accept
+13.02.2026,a girl,KYD1791,3,0,accept
+13.02.2026,white embroidered blouse,KYD1791,3,1,accept
+13.02.2026,woman,KYD1791,3,0,accept
+13.02.2026,white blossoms,KYD1792,1,2,reject
+13.02.2026,decorative wreath,KYD1792,1,2,reject
+13.02.2026,flowers,KYD1792,3,0,accept
+13.02.2026,bald man,KYD1792,1,2,reject
+13.02.2026,red tie,KYD1792,1,2,reject
+13.02.2026,two women,KYD1792,0,1,reject
+13.02.2026,dark coat,KYD1792,0,2,reject
+13.02.2026,taras shevchenko,KYD1792,3,0,accept
+13.02.2026,oval frame,KYD1792,2,0,accept
+13.02.2026,red roses,KYD1792,0,0,unknown
+13.02.2026,green leaves,KYD1792,0,0,unknown
+13.02.2026,traditional clothing,KYD1792,3,0,accept
+13.02.2026,signs of age,KYD1792,0,0,unknown
+13.02.2026,wear,KYD1792,1,2,reject
+13.02.2026,painted portrait,KYD1792,3,0,accept
+13.02.2026,portrait of taras shevchenko,KYD1792,3,0,accept
+13.02.2026,child,KYD1792,1,2,reject
+13.02.2026,bundles of grain,KYD1792,1,2,reject
+13.02.2026,painted scene,KYD1793,4,0,accept
+13.02.2026,young girl,KYD1793,4,0,accept
+13.02.2026,rural landscape,KYD1793,4,0,accept
+13.02.2026,red boots,KYD1793,1,2,reject
+13.02.2026,man,KYD1793,4,0,accept
+13.02.2026,traditional folk attire,KYD1793,2,1,accept
+13.02.2026,white apron,KYD1793,1,2,reject
+13.02.2026,blue bodice,KYD1793,0,2,reject
+13.02.2026,small object,KYD1793,0,2,reject
+13.02.2026,white shirt,KYD1793,0,2,reject
+13.02.2026,red embroidery,KYD1793,0,2,reject
+13.02.2026,red neckerchief,KYD1793,0,2,reject
+13.02.2026,near the well,KYD1793,0,2,reject
+13.02.2026,bucket,KYD1793,0,2,reject
+13.02.2026,red skirt,KYD1793,0,3,reject
+13.02.2026,visible signs of age and wear,KYD1793,0,2,reject
+13.02.2026,traditional folk attire,KYD1794,4,0,accept
+13.02.2026,wear,KYD1794,2,1,accept
+13.02.2026,visible cracks,KYD1794,0,0,unknown
+13.02.2026,wooden well,KYD1794,3,1,accept
+13.02.2026,metal bucket,KYD1794,2,1,accept
+13.02.2026,wooden fence,KYD1794,2,1,accept
+13.02.2026,woman,KYD1794,3,0,accept
+13.02.2026,near the river,KYD1794,4,0,accept
+13.02.2026,painting,KYD1794,4,0,accept
+13.02.2026,traditional folk clothing,KYD1795,5,0,accept
+13.02.2026,near the river,KYD1795,2,0,accept
+13.02.2026,white horse,KYD1795,4,1,accept
+13.02.2026,painting,KYD1795,5,0,accept
+13.02.2026,cow,KYD1795,2,1,accept
+13.02.2026,rural scene,KYD1795,4,0,accept
+13.02.2026,calf,KYD1795,0,3,reject
+13.02.2026,wooden cart,KYD1795,0,2,reject
+13.02.2026,three people,KYD1795,0,0,unknown
+13.02.2026,man on a white horse,KYD1795,5,0,accept
+13.02.2026,traditional attire,KYD1796,5,0,accept
+13.02.2026,girl,KYD1796,4,1,accept
+13.02.2026,woman,KYD1796,1,3,reject
+13.02.2026,canvas,KYD1796,4,0,accept
+13.02.2026,blossoms,KYD1796,1,3,reject
+13.02.2026,village landscape with a girl,KYD1796,5,0,accept
+13.02.2026,wooden fence,KYD1796,3,1,accept
+13.02.2026,trees,KYD1796,0,0,unknown
+13.02.2026,houses,KYD1796,4,0,accept
+13.02.2026,dirt path,KYD1796,0,0,unknown
+13.02.2026,stream,KYD1796,1,2,reject
+13.02.2026,thatched roofs,KYD1796,1,2,reject
+13.02.2026,painting,KYD1796,4,0,accept
+13.02.2026,natural landscape,KYD1797,5,0,accept
+13.02.2026,reeds,KYD1797,0,0,unknown
+13.02.2026,water,KYD1797,5,0,accept
+13.02.2026,swans,KYD1797,3,1,accept
+13.02.2026,canvas,KYD1797,4,0,accept
+13.02.2026,birds,KYD1797,0,0,unknown
+13.02.2026,painting,KYD1797,4,0,accept
+13.02.2026,dusk,KYD1797,0,0,unknown
+13.02.2026,trees,KYD1797,0,0,unknown
+13.02.2026,lake with swans,KYD1797,4,0,accept
+13.02.2026,bushes,KYD1797,1,3,reject
+13.02.2026,bird,KYD1798,2,1,accept
+13.02.2026,rock,KYD1798,2,1,accept
+13.02.2026,painting,KYD1798,5,0,accept
+13.02.2026,horse,KYD1798,5,0,accept
+13.02.2026,black horse,KYD1798,2,1,accept
+13.02.2026,blue and red saddle blanket,KYD1798,2,1,accept
+13.02.2026,natural landscape,KYD1798,4,0,accept
+13.02.2026,man,KYD1798,5,0,accept
+13.02.2026,red coat,KYD1798,3,1,accept
+13.02.2026,oj na hori ohon horyt,KYD1798,2,1,accept
+13.02.2026,black bird,KYD1798,2,1,accept
+13.02.2026,visible signs of age and wear,KYD1798,0,0,unknown
+13.02.2026,saddled,KYD1798,0,0,unknown
+13.02.2026,blue pants,KYD1798,3,1,accept
+13.02.2026,man,KYD1799,0,0,unknown
+13.02.2026,black fur hat,KYD1799,1,2,reject
+13.02.2026,signs of age,KYD1799,0,3,reject
+13.02.2026,dark coat,KYD1799,0,3,reject
+13.02.2026,wear,KYD1799,0,3,reject
+13.02.2026,painted portrait,KYD1799,4,0,accept
+13.02.2026,taras shevchenko,KYD1799,4,0,accept
+13.02.2026,portrait of taras shevchenko,KYD1799,4,0,accept
+13.02.2026,green shirt,KYD1799,1,2,reject
+13.02.2026,signs of age and wear,KYD1800,3,1,accept
+13.02.2026,"tall, dark, fur-lined hat",KYD1800,2,1,accept
+13.02.2026,"dark, textured coat",KYD1800,3,1,accept
+13.02.2026,taras shevchenko,KYD1800,5,0,accept
+13.02.2026,portrait of taras shevchenko,KYD1800,5,0,accept
+13.02.2026,painted portrait,KYD1800,4,0,accept
+13.02.2026,"colorful, geometric embroidered tie",KYD1800,1,2,reject
+13.02.2026,logo,KYD1800,1,2,reject
+13.02.2026,man with a mustache,KYD1800,2,1,accept
+13.02.2026,damage,KYD1801,3,2,accept
+13.02.2026,red and blue patterned neckerchief,KYD1801,0,3,reject
+13.02.2026,"dark, fur-trimmed coat",KYD1801,3,2,accept
+13.02.2026,painted portrait,KYD1801,5,0,accept
+13.02.2026,taras shevchenko,KYD1801,5,0,accept
+13.02.2026,visible cracks,KYD1801,3,1,accept
+13.02.2026,portrait of taras shevchenko,KYD1801,5,0,accept
+13.02.2026,"high, dark, fur-lined hat",KYD1801,3,2,accept
+13.02.2026,man,KYD1801,3,2,accept
+13.02.2026,trees,KYD1802,0,0,unknown
+13.02.2026,man with a musical instrument,KYD1802,0,0,unknown
+13.02.2026,windmill,KYD1802,1,3,reject
+13.02.2026,figure lying on the ground,KYD1802,0,0,unknown
+13.02.2026,visible paint wear,KYD1802,1,3,reject
+13.02.2026,folk tale,KYD1802,4,0,accept
+13.02.2026,white dress,KYD1802,0,0,unknown
+13.02.2026,houses,KYD1802,0,0,unknown
+13.02.2026,musical instrument,KYD1802,2,1,accept
+13.02.2026,scenes from a folk tale,KYD1802,4,0,accept
+13.02.2026,couple,KYD1802,0,0,unknown
+13.02.2026,eight artworks for kobzar,KYD1802,4,0,accept
+13.02.2026,woman with a child,KYD1802,3,1,accept
+13.02.2026,woman in a white dress,KYD1802,5,0,accept
+13.02.2026,cracks,KYD1802,2,3,reject
+13.02.2026,brown jacket,KYD1803,3,1,accept
+13.02.2026,two swords,KYD1803,0,5,reject
+13.02.2026,pair of boots,KYD1803,0,0,unknown
+13.02.2026,kozak,KYD1803,5,0,accept
+13.02.2026,kozak mamaj,KYD1803,6,0,accept
+13.02.2026,man with a bald head and a long dark beard,KYD1803,0,4,reject
+13.02.2026,bottle with a glass,KYD1803,3,1,accept
+13.02.2026,horse with a red saddle,KYD1803,0,0,unknown
+13.02.2026,red hat,KYD1803,3,1,accept
+13.02.2026,painting,KYD1803,5,0,accept
+13.02.2026,pipe,KYD1803,4,1,accept
+13.02.2026,lute,KYD1803,0,0,unknown
+13.02.2026,blue robe,KYD1803,0,4,reject
+13.02.2026,tree,KYD1803,4,1,accept
+13.02.2026,bow,KYD1803,1,3,reject
+13.02.2026,kozak,KYD1804,5,0,accept
+13.02.2026,man with a mustache,KYD1804,2,3,reject
+13.02.2026,painting,KYD1804,4,0,accept
+13.02.2026,sword,KYD1804,0,0,unknown
+13.02.2026,bottle,KYD1804,3,2,accept
+13.02.2026,lute,KYD1804,3,2,accept
+13.02.2026,blue pants,KYD1804,2,3,reject
+13.02.2026,kozak mamaj,KYD1804,5,0,accept
+13.02.2026,red vest,KYD1804,2,3,reject
+13.02.2026,horse,KYD1804,3,2,accept
+13.02.2026,blue uniforms,KYD1805,1,3,reject
+13.02.2026,white plumes,KYD1805,1,3,reject
+13.02.2026,dark suit,KYD1805,1,3,reject
+13.02.2026,soldier in green and yellow uniform,KYD1805,0,4,reject
+13.02.2026,damage,KYD1805,0,4,reject
+13.02.2026,blue and white striped pole,KYD1805,1,3,reject
+13.02.2026,green and yellow uniform,KYD1805,0,3,reject
+13.02.2026,river,KYD1805,1,3,reject
+13.02.2026,sign,KYD1805,1,3,reject
+13.02.2026,signs of age,KYD1805,0,4,reject
+13.02.2026,man in dark suit,KYD1805,1,3,reject
+13.02.2026,swans,KYD1805,1,4,reject
+13.02.2026,painted historical scene,KYD1805,4,0,accept
+13.02.2026,detention of shevchenko,KYD1805,4,0,accept
+13.02.2026,boats,KYD1805,1,3,reject
+13.02.2026,soldiers in blue uniforms,KYD1805,4,0,accept
+13.02.2026,traditional clothing,KYD1805,3,1,accept
+13.02.2026,kozak,KYD1806,4,0,accept
+13.02.2026,portrait,KYD1806,5,0,accept
+13.02.2026,sword,KYD1806,2,3,reject
+13.02.2026,signs of age,KYD1806,1,4,reject
+13.02.2026,green tunic,KYD1806,2,3,reject
+13.02.2026,red and green hat,KYD1806,2,3,reject
+13.02.2026,traditional attire,KYD1806,5,0,accept
+13.02.2026,rifle,KYD1806,2,3,reject
+13.02.2026,wear,KYD1806,2,1,accept
+13.02.2026,harvesting,KYD1806,1,4,reject
+13.02.2026,brown boots,KYD1806,2,3,reject
+13.02.2026,red trim,KYD1806,1,4,reject
+13.02.2026,man,KYD1806,5,0,accept
+13.02.2026,rowing,KYD1807,0,0,unknown
+13.02.2026,flowers,KYD1807,0,0,unknown
+13.02.2026,two in the boat,KYD1807,3,0,accept
+13.02.2026,boat,KYD1807,3,0,accept
+13.02.2026,man,KYD1807,3,0,accept
+13.02.2026,visible damage,KYD1807,0,0,unknown
+13.02.2026,woman,KYD1807,3,0,accept
+13.02.2026,brown coat,KYD1807,0,0,unknown
+13.02.2026,painting,KYD1807,3,0,accept
+13.02.2026,green dress,KYD1807,0,0,unknown
+13.02.2026,red umbrella,KYD1807,0,0,unknown
+13.02.2026,visible cracks,KYD1808,0,0,unknown
+13.02.2026,trees,KYD1808,0,0,unknown
+13.02.2026,thatched roof,KYD1808,1,3,reject
+13.02.2026,house,KYD1808,0,0,unknown
+13.02.2026,dock,KYD1808,1,3,reject
+13.02.2026,kozak,KYD1808,4,1,accept
+13.02.2026,traditional attire,KYD1808,5,0,accept
+13.02.2026,painting,KYD1808,5,0,accept
+13.02.2026,woman,KYD1808,2,3,reject
+13.02.2026,kozak on the river,KYD1808,5,0,accept
+13.02.2026,flowering plants,KYD1808,5,0,accept
+13.02.2026,path,KYD1808,0,0,unknown
+13.02.2026,wear,KYD1808,1,4,reject
+13.02.2026,person lying down,KYD1809,2,1,accept
+13.02.2026,brown roof,KYD1809,2,1,accept
+13.02.2026,small boat,KYD1809,2,1,accept
+13.02.2026,red skirt,KYD1809,2,1,accept
+13.02.2026,painted wooden panel,KYD1809,1,2,reject
+13.02.2026,logo,KYD1809,0,0,unknown
+13.02.2026,person kneeling,KYD1809,2,1,accept
+13.02.2026,girls joking,KYD1809,3,1,accept
+13.02.2026,house,KYD1809,2,1,accept
+13.02.2026,girls,KYD1809,3,1,accept
+13.02.2026,wooden fence,KYD1809,2,1,accept
+13.02.2026,two figures,KYD1809,0,3,reject
+13.02.2026,nighttime scene by a river,KYD1809,4,0,accept
+13.02.2026,stick,KYD1809,2,1,accept
+13.02.2026,visible cracks,KYD1809,2,1,accept
+13.02.2026,trees,KYD1809,2,1,accept
+13.02.2026,wear on the wood,KYD1809,0,3,reject
+13.02.2026,woman,KYD1809,2,1,accept
+13.02.2026,white blouse,KYD1809,0,0,unknown
+13.02.2026,man,KYD1810,5,0,accept
+13.02.2026,long staff,KYD1810,1,4,reject
+13.02.2026,red hat,KYD1810,0,4,reject
+13.02.2026,pouch,KYD1810,1,3,reject
+13.02.2026,rifle,KYD1810,1,3,reject
+13.02.2026,painting,KYD1810,5,0,accept
+13.02.2026,blue trousers,KYD1810,0,0,unknown
+13.02.2026,white shirt,KYD1810,0,0,unknown
+13.02.2026,brown boots,KYD1810,0,0,unknown
+13.02.2026,traditional attire,KYD1810,5,0,accept
+13.02.2026,kozak,KYD1810,5,0,accept
+13.02.2026,red cloak,KYD1810,0,0,unknown
+13.02.2026,taras shevchenko,KYD1811,5,0,accept
+13.02.2026,wear,KYD1811,1,4,reject
+13.02.2026,white ribbon,KYD1811,0,4,reject
+13.02.2026,visible cracks,KYD1811,2,3,reject
+13.02.2026,white shirt,KYD1811,1,4,reject
+13.02.2026,dark coat,KYD1811,1,4,reject
+13.02.2026,painted portrait,KYD1811,5,0,accept
+13.02.2026,red vest,KYD1811,0,5,reject
+13.02.2026,balding man with a mustache,KYD1811,3,2,accept
+13.02.2026,green laurel wreath,KYD1811,2,3,reject
+13.02.2026,portrait of taras shevchenko,KYD1811,5,0,accept
+13.02.2026,man with a mustache,KYD1812,2,1,accept
+13.02.2026,blue tie,KYD1812,1,2,reject
+13.02.2026,painted portrait,KYD1812,3,0,accept
+13.02.2026,dark coat,KYD1812,1,2,reject
+13.02.2026,portrait of taras shevchenko,KYD1812,3,0,accept
+13.02.2026,visible signs of wear and tear,KYD1812,1,2,reject
+13.02.2026,taras shevchenko,KYD1812,3,0,accept
+13.02.2026,floral border,KYD1812,3,0,accept
+13.02.2026,i.franko,KYD1813,4,0,accept
+13.02.2026,patterned shirt,KYD1813,0,0,unknown
+13.02.2026,visible texture,KYD1813,0,0,unknown
+13.02.2026,man with a mustache and blue eyes,KYD1813,2,1,accept
+13.02.2026,floral border,KYD1813,3,1,accept
+13.02.2026,black jacket,KYD1813,1,2,reject
+13.02.2026,painted portrait,KYD1813,3,0,accept
+13.02.2026,portrait of i.franko,KYD1813,4,0,accept
+13.02.2026,some wear,KYD1813,1,2,reject
+13.02.2026,white shirt,KYD1814,0,4,reject
+13.02.2026,oval-shaped,KYD1814,3,0,accept
+13.02.2026,patterned vest,KYD1814,0,4,reject
+13.02.2026,visible cracks,KYD1814,1,3,reject
+13.02.2026,sich,KYD1814,1,3,reject
+13.02.2026,painted portrait,KYD1814,3,1,accept
+13.02.2026,signs of age and wear,KYD1814,1,3,reject
+13.02.2026,red sash,KYD1814,1,3,reject
+13.02.2026,damage on the surface,KYD1814,1,3,reject
+13.02.2026,traditional attire,KYD1814,4,0,accept
+13.02.2026,man,KYD1814,4,0,accept
+13.02.2026,white blouse,KYD1815,1,2,reject
+13.02.2026,intricate red and black embroidery,KYD1815,1,2,reject
+13.02.2026,cracks,KYD1815,1,2,reject
+13.02.2026,dark brown frame,KYD1815,1,2,reject
+13.02.2026,traditional attire,KYD1815,4,0,accept
+13.02.2026,beaded necklace,KYD1815,1,2,reject
+13.02.2026,floral patterns,KYD1815,1,2,reject
+13.02.2026,gold hoop earrings,KYD1815,1,2,reject
+13.02.2026,woman,KYD1815,4,0,accept
+13.02.2026,portrait,KYD1815,4,0,accept
+13.02.2026,portrait of a woman,KYD1815,4,0,accept
+13.02.2026,red headscarf,KYD1815,1,2,reject
+13.02.2026,oval-shaped portrait,KYD1815,3,0,accept
+13.02.2026,a woman,KYD1815,4,0,accept
+13.02.2026,visible signs of aging,KYD1815,1,2,reject
+13.02.2026,paint loss,KYD1815,1,2,reject
+13.02.2026,cockerel,KYD1816,3,0,accept
+13.02.2026,cockerel in flowers,KYD1816,5,0,accept
+13.02.2026,painted artwork,KYD1816,5,0,accept
+13.02.2026,rooster,KYD1816,3,0,accept
+13.02.2026,floral wreath,KYD1816,3,1,accept
+13.02.2026,woman,KYD1817,5,0,accept
+13.02.2026,church with green domes,KYD1817,0,0,unknown
+13.02.2026,trees,KYD1817,2,3,reject
+13.02.2026,floral headpiece,KYD1817,2,3,reject
+13.02.2026,black skirt,KYD1817,1,3,reject
+13.02.2026,courtship,KYD1817,0,0,unknown
+13.02.2026,white picket fence,KYD1817,3,2,accept
+13.02.2026,yellow boots,KYD1817,3,1,accept
+13.02.2026,white blouse with red trim,KYD1817,1,3,reject
+13.02.2026,visible cracks,KYD1817,1,3,reject
+13.02.2026,wooden stump,KYD1817,0,0,unknown
+13.02.2026,brown jacket,KYD1817,1,3,reject
+13.02.2026,paint wear,KYD1817,1,3,reject
+13.02.2026,man,KYD1817,5,0,accept
+13.02.2026,rural scene,KYD1817,3,1,accept
+13.02.2026,white shirt,KYD1817,1,3,reject
+13.02.2026,small house with brown roof,KYD1817,3,2,accept
+13.02.2026,blue trousers,KYD1817,1,3,reject
+13.02.2026,red vest,KYD1817,2,3,reject
+13.02.2026,straw hat,KYD1817,0,0,unknown
+13.02.2026,large stringed instrument,KYD1818,0,0,unknown
+13.02.2026,man with a beard,KYD1818,3,0,accept
+13.02.2026,white shirt,KYD1818,0,0,unknown
+13.02.2026,"taras shevchenko, the bandura player",KYD1818,4,0,accept
+13.02.2026,damage,KYD1818,0,0,unknown
+13.02.2026,red cloak,KYD1818,0,0,unknown
+13.02.2026,visible cracks,KYD1818,0,0,unknown
+13.02.2026,painting,KYD1818,4,0,accept
+13.02.2026,birds,KYD1818,0,0,unknown
+13.02.2026,river scene,KYD1818,4,0,accept
+13.02.2026,man with a dark hat,KYD1818,0,0,unknown
+13.02.2026,painted portrait,KYD1819,2,1,accept
+13.02.2026,blue and orange garment,KYD1819,1,2,reject
+13.02.2026,paint damage,KYD1819,1,2,reject
+13.02.2026,taras shevchenko,KYD1819,4,0,accept
+13.02.2026,portrait of taras shevchenko,KYD1819,3,0,accept
+13.02.2026,dark coat,KYD1819,1,2,reject
+13.02.2026,"man with a bald head, a mustache, and blue eyes",KYD1819,2,1,accept
+13.02.2026,cracks,KYD1819,1,2,reject
+13.02.2026,red and white striped tie,KYD1820,1,2,reject
+13.02.2026,painted portrait,KYD1820,4,0,accept
+13.02.2026,signs of age and wear,KYD1820,1,2,reject
+13.02.2026,bald man with a prominent mustache,KYD1820,3,0,accept
+13.02.2026,weathered brown wooden frame,KYD1820,1,2,reject
+13.02.2026,dark coat,KYD1820,1,2,reject
+13.02.2026,portrait of taras shevchenko,KYD1820,4,0,accept
+13.02.2026,taras shevchenko,KYD1820,4,0,accept
+13.02.2026,bust-length view,KYD1820,3,0,accept
+13.02.2026,visible cracks,KYD1820,0,2,reject
+13.02.2026,paint damage,KYD1820,0,2,reject
+13.02.2026,portrait of a man,KYD1822,3,0,accept
+13.02.2026,light-colored jacket,KYD1822,1,2,reject
+13.02.2026,man,KYD1822,3,0,accept
+13.02.2026,shirt with red and white patterned collar,KYD1822,1,2,reject
+13.02.2026,a man,KYD1822,3,0,accept
+13.02.2026,painted portrait,KYD1822,3,0,accept
+13.02.2026,woman,KYD1823,3,1,accept
+13.02.2026,painted portrait,KYD1823,4,0,accept
+13.02.2026,black vest,KYD1823,3,1,accept
+13.02.2026,canvas,KYD1823,4,0,accept
+13.02.2026,portrait of a woman,KYD1823,4,0,accept
+13.02.2026,signs of age and wear,KYD1823,1,2,reject
+13.02.2026,"high, multi-strand beaded necklace",KYD1823,3,1,accept
+13.02.2026,floral embroidery on the sleeves,KYD1823,2,1,accept
+13.02.2026,a woman,KYD1823,4,0,accept
+13.02.2026,earrings,KYD1823,2,1,accept
+13.02.2026,traditional colorful embroidered blouse,KYD1824,2,0,accept
+13.02.2026,portrait,KYD1824,3,0,accept
+13.02.2026,man,KYD1824,2,1,accept
+13.02.2026,peeling paint,KYD1824,3,0,accept
+13.02.2026,a couple,KYD1824,2,1,accept
+13.02.2026,dark vest,KYD1824,2,1,accept
+13.02.2026,woman,KYD1824,2,1,accept
+13.02.2026,cracks,KYD1824,2,1,accept
+13.02.2026,light-colored shirt,KYD1824,2,1,accept
+13.02.2026,portrait of a couple,KYD1824,3,0,accept
+13.02.2026,decorative tie,KYD1824,2,1,accept
+13.02.2026,dark jacket,KYD1824,1,2,reject
+13.02.2026,couple,KYD1824,3,0,accept
+13.02.2026,small boat,KYD1825,3,0,accept
+13.02.2026,painting,KYD1825,3,0,accept
+13.02.2026,two figures,KYD1825,3,0,accept
+13.02.2026,pond at yanovschyna,KYD1825,2,0,accept
+13.02.2026,river scene,KYD1825,2,1,accept
+13.02.2026,signs of age,KYD1825,0,0,unknown
+13.02.2026,wear,KYD1825,1,2,reject
+13.02.2026,buckets,KYD1826,1,3,reject
+13.02.2026,painting,KYD1826,4,0,accept
+13.02.2026,signs of age and wear,KYD1826,1,3,reject
+13.02.2026,figure on the right,KYD1826,1,3,reject
+13.02.2026,cracks,KYD1826,1,3,reject
+13.02.2026,peeling paint,KYD1826,0,0,unknown
+13.02.2026,a village,KYD1826,4,0,accept
+13.02.2026,rural village scene,KYD1826,4,0,accept
+13.02.2026,fraying,KYD1827,0,0,unknown
+13.02.2026,chipping,KYD1827,0,0,unknown
+13.02.2026,birds,KYD1827,2,0,accept
+13.02.2026,folk art,KYD1827,3,0,accept
+13.02.2026,flowers,KYD1827,2,0,accept
+13.02.2026,visible paint wear and tear,KYD1827,0,0,unknown
+13.02.2026,folk shadow painting,KYD1827,0,0,unknown
+13.02.2026,russian orthodox monastery complex,KYD1828,0,5,reject
+13.02.2026,signs of age and wear,KYD1828,1,2,reject
+13.02.2026,fence,KYD1828,0,4,reject
+13.02.2026,green domes,KYD1828,5,0,accept
+13.02.2026,trees,KYD1828,1,4,reject
+13.02.2026,a look on hustynska desert from the south-western side,KYD1828,4,0,accept
+13.02.2026,painted illustration,KYD1828,4,0,accept
+13.02.2026,golden halos,KYD1828,3,0,accept
+13.02.2026,figures of saints,KYD1828,4,0,accept
+13.02.2026,white walls,KYD1828,0,4,reject
+13.02.2026,wooden fence,KYD1829,2,1,accept
+13.02.2026,dark hat,KYD1829,0,0,unknown
+13.02.2026,painting,KYD1829,3,0,accept
+13.02.2026,blue trousers,KYD1829,0,0,unknown
+13.02.2026,cracking on the surface,KYD1829,0,0,unknown
+13.02.2026,red neckerchief,KYD1829,0,0,unknown
+13.02.2026,visible brushstrokes,KYD1829,0,0,unknown
+13.02.2026,large tree,KYD1829,0,0,unknown
+13.02.2026,man,KYD1829,3,0,accept
+13.02.2026,white shirt,KYD1829,0,0,unknown
+13.02.2026,kozak,KYD1829,3,0,accept
+13.02.2026,church,KYD1830,0,0,unknown
+13.02.2026,windmill,KYD1830,2,1,accept
+13.02.2026,trees,KYD1830,0,0,unknown
+13.02.2026,village,KYD1830,2,0,accept
+13.02.2026,wear,KYD1830,0,0,unknown
+13.02.2026,birch tree,KYD1830,0,0,unknown
+13.02.2026,bridge,KYD1830,2,1,accept
+13.02.2026,signs of age,KYD1830,0,0,unknown
+13.02.2026,houses,KYD1830,2,1,accept
+13.02.2026,painted landscape,KYD1830,3,0,accept
+13.02.2026,swans,KYD1830,0,0,unknown
+13.02.2026,village landscape,KYD1830,3,0,accept
+13.02.2026,reeds,KYD1831,1,2,reject
+13.02.2026,wooden surface,KYD1831,0,0,unknown
+13.02.2026,serene landscape,KYD1831,3,0,accept
+13.02.2026,trees,KYD1831,1,2,reject
+13.02.2026,hole in the upper center,KYD1831,1,2,reject
+13.02.2026,landscape over the river,KYD1831,3,0,accept
+13.02.2026,staff,KYD1832,1,0,accept
+13.02.2026,dark coat,KYD1832,1,0,accept
+13.02.2026,village landscape,KYD1832,3,0,accept
+13.02.2026,rural landscape,KYD1832,3,0,accept
+13.02.2026,painting,KYD1832,3,0,accept
+13.02.2026,dusk,KYD1832,0,0,unknown
+13.02.2026,thatched-roof houses,KYD1832,0,0,unknown
+13.02.2026,signs of age and wear,KYD1832,0,0,unknown
+13.02.2026,a person,KYD1832,0,0,unknown
+13.02.2026,dirt path,KYD1832,0,0,unknown
+13.02.2026,trees,KYD1832,0,0,unknown
+13.02.2026,ducks,KYD1832,0,0,unknown
+13.02.2026,pond,KYD1832,0,0,unknown
+13.02.2026,large birch,KYD1832,0,0,unknown
+13.02.2026,red hat,KYD1833,1,2,reject
+13.02.2026,woman,KYD1833,1,2,reject
+13.02.2026,lush green trees,KYD1833,1,2,reject
+13.02.2026,river,KYD1833,1,2,reject
+13.02.2026,folk art style,KYD1833,3,0,accept
+13.02.2026,painted landscape,KYD1833,3,0,accept
+13.02.2026,landscape over the river,KYD1833,3,0,accept
+13.02.2026,rural scene,KYD1833,3,0,accept
+13.02.2026,red dress,KYD1833,1,2,reject
+13.02.2026,red and white dress,KYD1833,0,0,unknown
+13.02.2026,small house,KYD1833,1,2,reject
+13.02.2026,small boat,KYD1833,1,2,reject
+13.02.2026,wooden fence,KYD1833,1,2,reject
+13.02.2026,red shutters,KYD1833,1,2,reject
+13.02.2026,yellow roof,KYD1833,2,1,accept
+13.02.2026,man,KYD1833,1,2,reject
+13.02.2026,birds,KYD1833,1,2,reject
+13.02.2026,person walks along the bank,KYD1834,1,2,reject
+13.02.2026,wood,KYD1834,1,2,reject
+13.02.2026,boat,KYD1834,2,1,accept
+13.02.2026,night at a village,KYD1834,3,0,accept
+13.02.2026,houses with thatched roofs,KYD1834,3,0,accept
+13.02.2026,person in a boat,KYD1834,3,0,accept
+13.02.2026,painting,KYD1834,3,0,accept
+13.02.2026,foliage,KYD1835,3,0,accept
+13.02.2026,path of light,KYD1835,0,0,unknown
+13.02.2026,trees,KYD1835,0,0,unknown
+13.02.2026,body of water,KYD1835,0,0,unknown
+13.02.2026,signs of age,KYD1835,0,0,unknown
+13.02.2026,damage,KYD1835,0,0,unknown
+13.02.2026,painting,KYD1835,3,0,accept
+13.02.2026,night at a village,KYD1835,3,0,accept
+13.02.2026,thatched roof,KYD1835,0,0,unknown
+13.02.2026,clouds,KYD1835,0,0,unknown
+13.02.2026,house,KYD1835,0,0,unknown
+13.02.2026,person,KYD1835,0,0,unknown
+13.02.2026,moon,KYD1835,0,0,unknown
+13.02.2026,grass,KYD1836,1,2,reject
+13.02.2026,trees,KYD1836,0,0,unknown
+13.02.2026,landscape style,KYD1836,4,0,accept
+13.02.2026,small house,KYD1836,1,2,reject
+13.02.2026,birch tree,KYD1836,3,1,accept
+13.02.2026,clouds,KYD1836,1,2,reject
+13.02.2026,night landscape by moonlight,KYD1836,4,0,accept
+13.02.2026,painted landscape,KYD1836,4,0,accept
+13.02.2026,distant mountains,KYD1836,1,2,reject
+13.02.2026,wooden boat,KYD1836,3,1,accept
+13.02.2026,dark cloak,KYD1837,1,3,reject
+13.02.2026,landscape setting,KYD1837,3,0,accept
+13.02.2026,"dark, fur-covered hat",KYD1837,0,0,unknown
+13.02.2026,shevchenko-bandura player,KYD1837,4,0,accept
+13.02.2026,"large, round, wooden stringed instrument",KYD1837,4,0,accept
+13.02.2026,white shirt,KYD1837,1,3,reject
+13.02.2026,blue trousers,KYD1837,1,2,reject
+13.02.2026,man with a mustache,KYD1837,3,1,accept
+13.02.2026,white blouse,KYD1838,0,0,unknown
+13.02.2026,brown coat,KYD1838,0,0,unknown
+13.02.2026,painting,KYD1838,2,0,accept
+13.02.2026,signs of age and wear,KYD1838,0,0,unknown
+13.02.2026,dark vest,KYD1838,0,0,unknown
+13.02.2026,wooden fence,KYD1838,0,0,unknown
+13.02.2026,at the watermelon plantation,KYD1838,2,0,accept
+13.02.2026,woman in dark vest and white blouse,KYD1838,2,0,accept
+13.02.2026,man in brown coat,KYD1838,2,0,accept
+13.02.2026,green dress,KYD1838,0,0,unknown
+13.02.2026,rural scene,KYD1838,2,0,accept
+13.02.2026,older man with white beard,KYD1838,2,0,accept
+13.02.2026,basket,KYD1838,0,0,unknown
+13.02.2026,sunflowers,KYD1838,0,0,unknown
+13.02.2026,hay bale,KYD1838,0,0,unknown
+13.02.2026,white shirt,KYD1838,0,0,unknown
+13.02.2026,red skirt,KYD1838,0,0,unknown
+13.02.2026,watermelons,KYD1838,0,0,unknown
+13.02.2026,houses,KYD1838,0,0,unknown
+13.02.2026,woman in green dress,KYD1838,2,0,accept
+13.02.2026,white beard,KYD1838,0,0,unknown
+13.02.2026,woman in white shirt and red skirt,KYD1838,1,0,accept
+13.02.2026,red lute,KYD1839,0,2,reject
+13.02.2026,dark tie,KYD1839,0,2,reject
+13.02.2026,white shirt,KYD1839,1,2,reject
+13.02.2026,wear,KYD1839,1,2,reject
+13.02.2026,man,KYD1839,3,0,accept
+13.02.2026,painting,KYD1839,3,0,accept
+13.02.2026,visible cracks,KYD1839,1,2,reject
+13.02.2026,bandura player,KYD1839,3,0,accept
+13.02.2026,dark hat,KYD1840,1,0,accept
+13.02.2026,shevchenko-bandura player,KYD1840,3,0,accept
+13.02.2026,painting,KYD1840,3,0,accept
+13.02.2026,man,KYD1840,3,0,accept
+13.02.2026,traditional attire,KYD1840,3,0,accept
+13.02.2026,cracks,KYD1840,0,0,unknown
+13.02.2026,white shirt,KYD1840,0,0,unknown
+13.02.2026,blue pants,KYD1840,0,0,unknown
+13.02.2026,log,KYD1840,0,0,unknown
+13.02.2026,visible texture,KYD1840,0,0,unknown
+13.02.2026,"large, round, red string instrument",KYD1840,3,0,accept
+13.02.2026,blue ribbon,KYD1841,1,2,reject
+13.02.2026,floral wreath,KYD1841,2,1,accept
+13.02.2026,damage,KYD1841,0,2,reject
+13.02.2026,red flowers,KYD1841,1,2,reject
+13.02.2026,deer,KYD1841,0,0,unknown
+13.02.2026,bouquet,KYD1841,1,2,reject
+13.02.2026,red dress,KYD1841,1,2,reject
+13.02.2026,brown deer,KYD1841,3,0,accept
+13.02.2026,flowers,KYD1841,2,1,accept
+13.02.2026,painted artwork,KYD1841,3,0,accept
+13.02.2026,yellow collar,KYD1841,0,3,reject
+13.02.2026,paint smudges,KYD1841,1,2,reject
+13.02.2026,alyonushka,KYD1841,2,0,accept
+13.02.2026,woman,KYD1841,2,1,accept
+13.02.2026,antlers,KYD1841,1,2,reject
+13.02.2026,yellow apron,KYD1841,2,1,accept
+13.02.2026,yellow hat,KYD1841,1,2,reject
+13.02.2026,flowers,KYD1842,1,2,reject
+13.02.2026,older man,KYD1842,1,2,reject
+13.02.2026,birds,KYD1842,1,2,reject
+13.02.2026,folk-art style painting,KYD1842,3,0,accept
+13.02.2026,yellow lute,KYD1842,1,2,reject
+13.02.2026,foliage,KYD1842,2,1,accept
+13.02.2026,trees,KYD1842,1,2,reject
+13.02.2026,blue pants,KYD1842,1,2,reject
+13.02.2026,blue hat,KYD1842,1,2,reject
+13.02.2026,visible signs of wear and tear,KYD1842,1,2,reject
+13.02.2026,yellow tunic,KYD1842,1,2,reject
+13.02.2026,sword,KYD1842,1,2,reject
+13.02.2026,red horse,KYD1842,0,3,reject
+13.02.2026,scene in a forest,KYD1842,3,0,accept
+13.02.2026,kobzar,KYD1842,3,0,accept
+13.02.2026,white shirt,KYD1842,1,2,reject
+13.02.2026,man on horse,KYD1842,2,0,accept
+13.02.2026,kobzar and a horseman,KYD1842,3,0,accept
+13.02.2026,leaves,KYD1843,1,2,reject
+13.02.2026,folk art painting,KYD1843,3,0,accept
+13.02.2026,the firebird,KYD1843,3,0,accept
+13.02.2026,firebird,KYD1843,3,0,accept
+13.02.2026,flowers,KYD1843,3,0,accept
+13.02.2026,stems,KYD1843,1,2,reject
+13.02.2026,minor damage,KYD1843,1,2,reject
+13.02.2026,bird,KYD1843,2,1,accept
+13.02.2026,painted folk art piece,KYD1844,3,0,accept
+13.02.2026,discoloration,KYD1844,2,0,accept
+13.02.2026,visible creases,KYD1844,0,3,reject
+13.02.2026,peacock,KYD1844,0,3,reject
+13.02.2026,flowers,KYD1844,3,0,accept
+13.02.2026,leaves,KYD1844,2,0,accept
+13.02.2026,firebird,KYD1844,3,0,accept
+13.02.2026,the firebird,KYD1844,3,0,accept
+13.02.2026,blue coat,KYD1845,0,0,unknown
+13.02.2026,man in grey shirt and trousers,KYD1845,0,1,reject
+13.02.2026,horse,KYD1845,0,0,unknown
+13.02.2026,grey shirt,KYD1845,0,1,reject
+13.02.2026,"damaged, aged painting on wood",KYD1845,0,1,reject
+13.02.2026,visible cracks,KYD1845,0,0,unknown
+13.02.2026,peeling paint,KYD1845,2,0,accept
+13.02.2026,man on horse,KYD1845,2,0,accept
+13.02.2026,rural scene,KYD1845,2,0,accept
+13.02.2026,rifle,KYD1845,0,0,unknown
+13.02.2026,blue dress,KYD1845,0,0,unknown
+13.02.2026,wooden fence,KYD1845,0,0,unknown
+13.02.2026,yaryna,KYD1845,2,0,accept
+13.02.2026,church,KYD1845,0,0,unknown
+13.02.2026,red hat,KYD1845,0,0,unknown
+13.02.2026,woman in blue dress and white blouse,KYD1845,0,0,unknown
+13.02.2026,rope,KYD1845,0,0,unknown
+13.02.2026,trousers,KYD1845,0,0,unknown
+13.02.2026,houses,KYD1845,0,0,unknown
+13.02.2026,white blouse,KYD1845,0,0,unknown
+13.02.2026,a man,KYD1846,3,0,accept
+13.02.2026,man with a mustache,KYD1846,3,0,accept
+13.02.2026,man,KYD1846,3,0,accept
+13.02.2026,portrait,KYD1846,3,0,accept
+13.02.2026,white speckles,KYD1846,0,2,reject
+13.02.2026,dark jacket,KYD1846,1,2,reject
+13.02.2026,patterned neckerchief,KYD1846,0,3,reject
+13.02.2026,canvas,KYD1846,0,0,unknown
+13.02.2026,portrait of a man,KYD1846,3,0,accept
+13.02.2026,portrait,KYD1847,4,0,accept
+13.02.2026,dark hair,KYD1847,1,2,reject
+13.02.2026,chipped paint,KYD1847,0,3,reject
+13.02.2026,signs of age and wear,KYD1847,1,2,reject
+13.02.2026,girl,KYD1847,3,0,accept
+13.02.2026,a girl from pokuttia region,KYD1847,4,0,accept
+13.02.2026,white blouse with red trim,KYD1847,1,2,reject
+13.02.2026,red headscarf,KYD1847,1,2,reject
+13.02.2026,young woman,KYD1847,4,0,accept
+13.02.2026,darkened background,KYD1847,1,2,reject
+13.02.2026,canvas,KYD1847,1,2,reject
+13.02.2026,traditional folk attire,KYD1848,3,0,accept
+13.02.2026,girl,KYD1848,0,0,unknown
+13.02.2026,stream,KYD1848,0,0,unknown
+13.02.2026,kozak,KYD1848,2,0,accept
+13.02.2026,painted scene,KYD1848,3,0,accept
+13.02.2026,kozak with a girl near the well,KYD1848,3,0,accept
+13.02.2026,horse,KYD1848,1,0,accept
+13.02.2026,man,KYD1848,1,0,accept
+13.02.2026,windmill,KYD1848,0,0,unknown
+13.02.2026,wooden bucket,KYD1848,0,0,unknown
+13.02.2026,trees,KYD1848,0,0,unknown
+13.02.2026,houses,KYD1848,0,0,unknown
+13.02.2026,woman,KYD1848,0,0,unknown
+13.02.2026,fur hat,KYD1848,0,0,unknown
+13.02.2026,visible damage,KYD1848,0,0,unknown
+13.02.2026,red berries,KYD1848,0,0,unknown
+13.02.2026,well,KYD1848,2,0,accept
+13.02.2026,flowers,KYD1849,2,1,accept
+13.02.2026,red skirt,KYD1849,0,0,unknown
+13.02.2026,a girl,KYD1849,2,0,accept
+13.02.2026,traditional folk attire,KYD1849,3,0,accept
+13.02.2026,woman,KYD1849,2,0,accept
+13.02.2026,girl,KYD1849,2,0,accept
+13.02.2026,table,KYD1849,0,0,unknown
+13.02.2026,vase,KYD1849,0,1,reject
+13.02.2026,portrait of a girl,KYD1849,3,0,accept
+13.02.2026,dark hair in a braid,KYD1849,0,0,unknown
+13.02.2026,white blouse with red embroidery,KYD1849,0,0,unknown
+13.02.2026,painting,KYD1849,3,0,accept
+13.02.2026,wear,KYD1849,0,0,unknown
+13.02.2026,visible cracks,KYD1849,0,0,unknown
+13.02.2026,chickens,KYD1849,0,0,unknown
+13.02.2026,a train / a string  of chumaks,KYD1850,2,0,accept
+13.02.2026,cracking,KYD1850,0,2,reject
+13.02.2026,several figures,KYD1850,2,0,accept
+13.02.2026,rural scene,KYD1850,3,0,accept
+13.02.2026,cart,KYD1850,0,2,reject
+13.02.2026,dark clothing,KYD1850,0,2,reject
+13.02.2026,visible brushstrokes,KYD1850,0,2,reject
+13.02.2026,one person,KYD1850,0,2,reject
+13.02.2026,aged,KYD1851,1,2,reject
+13.02.2026,dark dress,KYD1851,3,0,accept
+13.02.2026,light-colored shawl,KYD1851,1,2,reject
+13.02.2026,woman,KYD1851,0,0,unknown
+13.02.2026,small object,KYD1851,0,3,reject
+13.02.2026,figure of a woman,KYD1851,4,0,accept
+13.02.2026,painting,KYD1851,4,0,accept
+13.02.2026,man,KYD1852,3,0,accept
+13.02.2026,signs of age and wear,KYD1852,1,2,reject
+13.02.2026,a portrait of a man,KYD1852,3,0,accept
+13.02.2026,light-colored collared shirt,KYD1852,1,2,reject
+13.02.2026,portrait,KYD1852,3,0,accept
+13.02.2026,canvas,KYD1852,3,0,accept
+13.02.2026,dark jacket,KYD1852,1,2,reject
+13.02.2026,a man,KYD1852,0,0,unknown
+13.02.2026,reeds,KYD1853,1,2,reject
+13.02.2026,trees,KYD1853,3,0,accept
+13.02.2026,landscape,KYD1853,3,0,accept
+13.02.2026,grass,KYD1853,3,0,accept
+13.02.2026,forest scene,KYD1853,3,0,accept
+13.02.2026,foliage,KYD1853,0,3,reject
+13.02.2026,cracks,KYD1853,0,3,reject
+13.02.2026,stream,KYD1853,0,0,unknown
+13.02.2026,fading,KYD1853,0,3,reject
+13.02.2026,vertical painting,KYD1854,3,0,accept
+13.02.2026,landscape,KYD1854,3,0,accept
+13.02.2026,trees,KYD1854,2,1,accept
+13.02.2026,stream,KYD1854,0,0,unknown
+13.02.2026,grass,KYD1854,0,0,unknown
+13.02.2026,thatched roof,KYD1854,2,0,accept
+13.02.2026,small house,KYD1854,0,0,unknown
+13.02.2026,damage on surface,KYD1854,0,0,unknown
+13.02.2026,visible cracks,KYD1854,1,0,accept
+13.02.2026,wildflowers,KYD1854,2,1,accept
+13.02.2026,"large, round-necked string instrument",KYD1855,2,0,accept
+13.02.2026,slave,KYD1855,0,0,unknown
+13.02.2026,tears,KYD1855,0,0,unknown
+13.02.2026,woman,KYD1855,2,0,accept
+13.02.2026,red coat,KYD1855,0,0,unknown
+13.02.2026,trees,KYD1855,0,0,unknown
+13.02.2026,dark dress,KYD1855,0,0,unknown
+13.02.2026,traditional attire,KYD1855,2,0,accept
+13.02.2026,building,KYD1855,0,0,unknown
+13.02.2026,"weathered, painted artwork",KYD1855,2,0,accept
+13.02.2026,man,KYD1855,2,0,accept
+13.02.2026,dark trousers,KYD1855,0,0,unknown
+13.02.2026,white shirt,KYD1855,0,0,unknown
+13.02.2026,wooden fence,KYD1855,0,0,unknown
+13.02.2026,cracks,KYD1855,0,0,unknown
+13.02.2026,patterned head covering,KYD1855,0,0,unknown
+13.02.2026,older man,KYD1855,2,0,accept
+13.02.2026,two figures,KYD1856,0,2,reject
+13.02.2026,two oxen,KYD1856,0,0,unknown
+13.02.2026,cart,KYD1856,0,0,unknown
+13.02.2026,landscape over the river,KYD1856,3,0,accept
+13.02.2026,staff,KYD1856,0,0,unknown
+13.02.2026,oil painting,KYD1856,3,0,accept
+13.02.2026,white head covering,KYD1856,0,0,unknown
+13.02.2026,dark vest,KYD1856,0,2,reject
+13.02.2026,rural landscape,KYD1856,3,0,accept
+13.02.2026,a man,KYD1856,3,0,accept
+13.02.2026,one figure,KYD1856,0,2,reject
+13.02.2026,floral patterns,KYD1857,3,0,accept
+13.02.2026,red and white dress,KYD1857,1,2,reject
+13.02.2026,folk attire,KYD1857,3,0,accept
+13.02.2026,brown coat,KYD1857,1,2,reject
+13.02.2026,red sash,KYD1857,1,2,reject
+13.02.2026,red and blue dress,KYD1857,1,2,reject
+13.02.2026,yellow roof,KYD1857,0,0,unknown
+13.02.2026,painting,KYD1857,2,0,accept
+13.02.2026,"come to ask in marriage, we wouldn’t be hiding",KYD1857,2,0,accept
+13.02.2026,red object,KYD1857,1,2,reject
+13.02.2026,man,KYD1857,1,2,reject
+13.02.2026,woman,KYD1857,1,2,reject
+13.02.2026,traditional,KYD1857,2,0,accept
+13.02.2026,hut,KYD1857,0,0,unknown
+13.02.2026,tree stump,KYD1857,1,0,accept
+13.02.2026,pipe,KYD1857,1,2,reject
+13.02.2026,red dress,KYD1858,0,3,reject
+13.02.2026,visible brushstrokes,KYD1858,0,3,reject
+13.02.2026,small house,KYD1858,0,3,reject
+13.02.2026,areas of damage,KYD1858,0,3,reject
+13.02.2026,horse,KYD1858,1,2,reject
+13.02.2026,church,KYD1858,1,2,reject
+13.02.2026,large red flowers,KYD1858,0,3,reject
+13.02.2026,stylized painting,KYD1858,4,0,accept
+13.02.2026,girl,KYD1858,3,0,accept
+13.02.2026,black fez,KYD1858,1,2,reject
+13.02.2026,kozak,KYD1858,4,0,accept
+13.02.2026,light-colored jacket,KYD1858,0,3,reject
+13.02.2026,patterned shawl,KYD1858,2,1,accept
+13.02.2026,kozak with a girl near the well,KYD1858,4,0,accept
+13.02.2026,couple,KYD1858,4,0,accept
+13.02.2026,girl,KYD1859,2,0,accept
+13.02.2026,visible cracks,KYD1859,0,2,reject
+13.02.2026,red and yellow harness,KYD1859,2,0,accept
+13.02.2026,man,KYD1859,2,0,accept
+13.02.2026,"my girl, drink my horse",KYD1859,2,0,accept
+13.02.2026,horse,KYD1859,2,0,accept
+13.02.2026,painted artwork,KYD1859,2,0,accept
+13.02.2026,woman,KYD1859,2,0,accept
+13.02.2026,red scarf,KYD1859,0,2,reject
+13.02.2026,white shirt,KYD1859,0,2,reject
+13.02.2026,long dark hair,KYD1859,0,2,reject
+13.02.2026,straw hat,KYD1859,0,2,reject
+13.02.2026,red and white dress with floral patterns,KYD1859,0,2,reject
+13.02.2026,wear,KYD1859,0,2,reject
+13.02.2026,striped basket,KYD1859,0,2,reject
+13.02.2026,small object,KYD1860,0,2,reject
+13.02.2026,man with dark hair and a mustache,KYD1860,2,0,accept
+13.02.2026,dark robe,KYD1860,0,2,reject
+13.02.2026,weathered,KYD1860,0,2,reject
+13.02.2026,kozak-gentleman,KYD1860,2,0,accept
+13.02.2026,red-orange sash,KYD1860,0,2,reject
+13.02.2026,kozak,KYD1860,2,0,accept
+13.02.2026,painted portrait,KYD1860,2,0,accept
+13.02.2026,damaged,KYD1860,2,0,accept
+13.02.2026,mother,KYD1861,2,0,accept
+13.02.2026,painted portrait,KYD1861,2,0,accept
+13.02.2026,portrait of a mother,KYD1861,2,0,accept
+13.02.2026,cracks,KYD1861,0,2,reject
+13.02.2026,dark green garment,KYD1861,0,2,reject
+13.02.2026,white headscarf,KYD1861,0,2,reject
+13.02.2026,woman,KYD1861,2,0,accept
+13.02.2026,a mother,KYD1861,2,0,accept
+13.02.2026,paint peeling,KYD1861,2,0,accept
+13.02.2026,visible cracks,KYD1862,1,0,accept
+13.02.2026,woman in traditional attire,KYD1862,2,0,accept
+13.02.2026,woman,KYD1862,2,0,accept
+13.02.2026,white shirt,KYD1862,2,0,accept
+13.02.2026,blue top,KYD1862,0,0,unknown
+13.02.2026,white dress,KYD1862,2,0,accept
+13.02.2026,dirt path,KYD1862,1,0,accept
+19.03.2026,an example of a Ukrainian house,KYD1862,1,0,accept
+13.02.2026,peeling paint,KYD1862,1,0,accept
+13.02.2026,go away petro with natalka,KYD1862,1,0,accept
+13.02.2026,painting,KYD1862,1,0,accept
+13.02.2026,couple,KYD1862,2,0,accept
+13.02.2026,wooden fence,KYD1862,2,0,accept
+13.02.2026,traditional attire,KYD1862,2,0,accept
+13.02.2026,thatched-roof house,KYD1862,2,0,accept
+13.02.2026,rural scene,KYD1862,2,0,accept
+13.02.2026,grey hat,KYD1862,2,0,accept
+13.02.2026,colorful checkered skirt,KYD1862,2,0,accept
+13.02.2026,man,KYD1862,2,0,accept
+13.02.2026,man,KYD1863,2,0,accept
+13.02.2026,man with a mustache,KYD1863,1,0,accept
+13.02.2026,portrait,KYD1863,3,0,accept
+13.02.2026,wear,KYD1863,2,0,accept
+13.02.2026,dark jacket,KYD1863,2,0,accept
+13.02.2026,red and gold embroidery,KYD1863,2,0,accept
+13.02.2026,man with a receding hairline,KYD1863,2,0,accept
+13.02.2026,a man,KYD1863,2,0,accept
+13.02.2026,signs of age,KYD1863,0,0,unknown
+13.02.2026,portrait of a man,KYD1863,3,0,accept
+13.02.2026,white shirt,KYD1863,1,0,accept
+19.03.2026,The Cossack,KYD1863,1,0,accept
+13.02.2026,woman,KYD1864,0,1,reject
+13.02.2026,girl,KYD1864,3,0,accept
+13.02.2026,dark vest,KYD1864,2,0,accept
+13.02.2026,canvas,KYD1864,2,0,accept
+13.02.2026,floral-patterned blouse,KYD1864,2,0,accept
+13.02.2026,multiple beaded necklaces,KYD1864,2,0,accept
+13.02.2026,a girl,KYD1864,3,0,accept
+13.02.2026,signs of age and wear,KYD1864,0,1,reject
+13.02.2026,portrait,KYD1864,3,0,accept
+13.02.2026,portrait of a girl,KYD1864,3,0,accept
+13.02.2026,mustache,KYD1865,4,0,accept
+13.02.2026,a man,KYD1865,2,0,accept
+19.03.2026,traditional Ukrainian clothes,KYD1865,1,0,accept
+13.02.2026,dark coat,KYD1865,5,0,accept
+13.02.2026,portrait,KYD1865,4,0,accept
+19.03.2026,Dark background,KYD1865,1,0,accept
+19.03.2026,Strict face expression,KYD1865,1,0,accept
+13.02.2026,man,KYD1865,5,0,accept
+13.02.2026,dark hair,KYD1865,5,0,accept
+19.03.2026,Strict face,KYD1865,1,0,accept
+19.03.2026,Traditional Ukrainian cloth style,KYD1865,1,0,accept
+13.02.2026,portrait of a man,KYD1865,4,0,accept
+13.02.2026,floral pattern,KYD1865,5,0,accept
+13.02.2026,white shirt,KYD1865,4,0,accept
+13.02.2026,red collar,KYD1865,5,0,accept
+13.02.2026,flowers,KYD1866,5,0,accept
+13.02.2026,still life,KYD1866,3,0,accept
+13.02.2026,basket with flowers,KYD1866,3,0,accept
+19.03.2026,Red poppies,KYD1866,3,0,accept
+19.03.2026,Bright colours,KYD1866,3,0,accept
+19.03.2026,floral composition,KYD1866,3,0,accept
+13.02.2026,basket,KYD1866,4,0,accept
+13.02.2026,some damage,KYD1867,2,0,accept
+13.02.2026,rural scene,KYD1867,3,0,accept
+13.02.2026,white blouse,KYD1867,2,0,accept
+13.02.2026,long wooden pole,KYD1867,2,0,accept
+13.02.2026,necklace,KYD1867,3,0,accept
+13.02.2026,wooden barrel,KYD1867,0,0,unknown
+13.02.2026,visible texture,KYD1867,3,0,accept
+13.02.2026,large haystack,KYD1867,3,0,accept
+13.02.2026,girl,KYD1867,0,0,unknown
+13.02.2026,floral headpiece,KYD1867,4,0,accept
+13.02.2026,dark hat,KYD1867,3,0,accept
+13.02.2026,oil painting,KYD1867,3,0,accept
+13.02.2026,long wooden stick,KYD1867,4,0,accept
+13.02.2026,man,KYD1867,4,0,accept
+13.02.2026,white shirt,KYD1867,4,0,accept
+13.02.2026,a girl with a boy by the shock of hay,KYD1867,4,0,accept
+13.02.2026,boy,KYD1867,0,0,unknown
+13.02.2026,woman,KYD1867,3,0,accept
+13.02.2026,red plaid skirt,KYD1867,2,0,accept
+19.03.2026,Bright day,KYD1867,1,0,accept
+19.03.2026,Rural life,KYD1867,1,0,accept
+13.02.2026,traditional clothing,KYD1868,2,0,accept
+13.02.2026,traditional folk attire,KYD1868,1,0,accept
+13.02.2026,blue apron,KYD1868,0,1,reject
+13.02.2026,folk art,KYD1868,1,0,accept
+13.02.2026,go away petro with natalka from the mother approaching with a rolling pin,KYD1868,1,0,accept
+13.02.2026,light-colored hat,KYD1868,0,0,unknown
+13.02.2026,path,KYD1868,1,0,accept
+19.03.2026,Folk costumes,KYD1868,1,0,accept
+13.02.2026,floral wreath,KYD1868,2,0,accept
+13.02.2026,mother,KYD1868,0,0,unknown
+13.02.2026,woman,KYD1868,1,0,accept
+13.02.2026,white shirt,KYD1868,3,0,accept
+13.02.2026,red sash,KYD1868,2,0,accept
+13.02.2026,well,KYD1868,2,0,accept
+19.03.2026,Ukrainian houses,KYD1868,1,0,accept
+13.02.2026,red dress with floral patterns,KYD1868,3,0,accept
+13.02.2026,man,KYD1868,2,0,accept
+13.02.2026,couple,KYD1868,2,0,accept
+13.02.2026,wooden bucket,KYD1868,1,0,accept
+19.03.2026,Cherry orchrad,KYD1868,1,0,accept
+13.02.2026,another woman,KYD1868,1,0,accept
+13.02.2026,necklace,KYD1868,3,0,accept
+19.03.2026,Cossacks style,KYD1868,1,0,accept
+19.03.2026,Angry mother,KYD1868,1,0,accept
+13.02.2026,kozak,KYD1869,4,0,accept
+13.02.2026,some damage,KYD1869,3,0,accept
+13.02.2026,girl,KYD1869,3,1,accept
+13.02.2026,trees,KYD1869,3,0,accept
+13.02.2026,painting,KYD1869,4,0,accept
+13.02.2026,houses,KYD1869,4,0,accept
+13.02.2026,dirt path,KYD1869,3,0,accept
+13.02.2026,wicker fence,KYD1869,3,0,accept
+13.02.2026,another figure,KYD1869,3,0,accept
+13.02.2026,visible texture,KYD1869,3,0,accept
+13.02.2026,canvas,KYD1869,3,0,accept
+13.02.2026,rural landscape,KYD1869,4,0,accept
+13.02.2026,red coat,KYD1869,3,0,accept
+13.02.2026,white horse,KYD1869,5,0,accept
+13.02.2026,one figure in a red coat,KYD1869,4,0,accept
+19.03.2026,Steppe landscape,KYD1869,3,0,accept
+13.02.2026,kozak with a girl,KYD1869,5,0,accept
+13.02.2026,two houses,KYD1870,2,0,accept
+13.02.2026,river,KYD1870,3,0,accept
+19.03.2026,sunset,KYD1870,1,0,accept
+13.02.2026,white walls,KYD1870,2,0,accept
+13.02.2026,woman,KYD1870,3,0,accept
+13.02.2026,painted landscape,KYD1870,3,0,accept
+13.02.2026,swans,KYD1870,2,0,accept
+13.02.2026,wooden boat,KYD1870,2,0,accept
+13.02.2026,some damage,KYD1870,1,0,accept
+19.03.2026,green forest,KYD1870,1,0,accept
+13.02.2026,white blouse,KYD1870,1,0,accept
+19.03.2026,riverbank,KYD1870,1,0,accept
+13.02.2026,red roofs,KYD1870,1,0,accept
+13.02.2026,a village,KYD1870,2,0,accept
+13.02.2026,green trees,KYD1870,1,0,accept
+13.02.2026,path,KYD1870,1,0,accept
+13.02.2026,red skirt,KYD1870,1,0,accept
+13.02.2026,tall cypress trees,KYD1870,1,0,accept
+13.02.2026,mother,KYD1871,3,0,accept
+13.02.2026,white shirt,KYD1871,4,0,accept
+13.02.2026,woman in traditional folk clothing,KYD1871,3,0,accept
+13.02.2026,rural scene,KYD1871,3,0,accept
+13.02.2026,dark skirt,KYD1871,4,0,accept
+13.02.2026,man in traditional folk clothing,KYD1871,2,0,accept
+13.02.2026,woman in white shirt and dark skirt,KYD1871,2,0,accept
+13.02.2026,go away petro with natalka from the mother approaching with a rolling pin,KYD1871,2,0,accept
+13.02.2026,wooden barrel,KYD1871,2,0,accept
+13.02.2026,traditional folk clothing,KYD1871,3,0,accept
+13.02.2026,two buckets,KYD1871,3,0,accept
+13.02.2026,signs of age and wear,KYD1871,2,0,accept
+13.02.2026,black horse,KYD1872,3,0,accept
+13.02.2026,large tree,KYD1872,1,0,accept
+13.02.2026,pink skirt,KYD1872,0,1,reject
+13.02.2026,visible signs of age and wear,KYD1872,2,1,accept
+13.02.2026,kozak,KYD1872,4,0,accept
+13.02.2026,black hat,KYD1872,3,0,accept
+13.02.2026,red coat,KYD1872,3,0,accept
+13.02.2026,white blouse,KYD1872,2,0,accept
+13.02.2026,ikhav kozak za dunaj,KYD1872,2,0,accept
+13.02.2026,rural scene,KYD1872,2,0,accept
+13.02.2026,woman,KYD1872,2,0,accept
+19.03.2026,green field,KYD1872,2,0,accept
+13.02.2026,man,KYD1872,3,0,accept
+13.02.2026,bouquet,KYD1872,3,0,accept
+13.02.2026,floral headpiece,KYD1873,1,0,accept
+13.02.2026,girls is peering out,KYD1873,1,0,accept
+13.02.2026,woman,KYD1873,2,0,accept
+13.02.2026,visible cracks,KYD1873,2,0,accept
+13.02.2026,small window,KYD1873,2,0,accept
+13.02.2026,rural scene,KYD1873,1,0,accept
+13.02.2026,girls,KYD1873,2,0,accept
+13.02.2026,wildflowers,KYD1873,2,0,accept
+13.02.2026,painting,KYD1873,3,0,accept
+13.02.2026,red dress,KYD1873,2,0,accept
+13.02.2026,thatched roof,KYD1873,2,0,accept
+13.02.2026,trees,KYD1873,2,0,accept
+13.02.2026,white blouse,KYD1873,1,0,accept
+13.02.2026,house,KYD1873,1,0,accept
+13.02.2026,traditional attire,KYD1873,3,0,accept
+13.02.2026,damage,KYD1873,2,0,accept
+13.02.2026,fence,KYD1873,1,0,accept
+19.03.2026,mother and child,KYD1874,1,0,accept
+13.02.2026,traditional clothing,KYD1874,2,0,accept
+13.02.2026,trees,KYD1874,2,0,accept
+13.02.2026,onion domes,KYD1874,0,1,reject
+13.02.2026,church,KYD1874,3,0,accept
+13.02.2026,visible signs of age and wear,KYD1874,2,1,accept
+19.03.2026,Sunday morning,KYD1874,1,0,accept
+13.02.2026,wooden fence,KYD1874,2,0,accept
+13.02.2026,village landscape with a church,KYD1874,2,0,accept
+13.02.2026,red roof,KYD1874,1,0,accept
+13.02.2026,flowering bushes,KYD1874,2,0,accept
+13.02.2026,village scene,KYD1874,1,0,accept
+13.02.2026,two figures,KYD1874,0,0,unknown
+13.02.2026,blue roof,KYD1874,2,0,accept
+13.02.2026,dirt path,KYD1874,1,0,accept
+13.02.2026,colorful painting,KYD1874,1,0,accept
+13.02.2026,small house,KYD1874,1,0,accept
+13.02.2026,golden crosses,KYD1874,1,0,accept
+13.02.2026,a few other figures,KYD1874,2,0,accept
+13.02.2026,boy,KYD1875,3,0,accept
+13.02.2026,blue and brown embroidered collar,KYD1875,3,0,accept
+13.02.2026,wear,KYD1875,2,1,accept
+13.02.2026,cracks on skin,KYD1875,0,1,reject
+13.02.2026,wear on fabric,KYD1875,0,1,reject
+13.02.2026,a little boy,KYD1875,3,0,accept
+13.02.2026,white shirt,KYD1875,2,0,accept
+13.02.2026,young boy,KYD1875,3,0,accept
+13.02.2026,portrait,KYD1875,3,0,accept
+13.02.2026,portrait of a little boy,KYD1875,3,0,accept
+13.02.2026,visible cracks,KYD1875,0,0,unknown
+13.02.2026,dark jacket,KYD1876,2,0,accept
+13.02.2026,colorful embroidered tie,KYD1876,0,2,reject
+13.02.2026,peeling paint,KYD1876,2,0,accept
+13.02.2026,white shirt,KYD1876,0,0,unknown
+13.02.2026,man,KYD1876,3,0,accept
+13.02.2026,portrait,KYD1876,3,0,accept
+19.03.2026,formal portrait,KYD1876,1,0,accept
+13.02.2026,portrait of a man,KYD1876,2,0,accept
+13.02.2026,visible cracks,KYD1876,2,0,accept
+13.02.2026,a man,KYD1876,3,0,accept
+19.03.2026,white shirt with colours,KYD1876,1,0,accept
+19.03.2026,Protector,KYD1877,1,0,accept
+19.03.2026,Blue pantalons,KYD1877,1,0,accept
+13.02.2026,man in blue skirt and orange shirt,KYD1877,0,0,unknown
+13.02.2026,green skirt,KYD1877,0,0,unknown
+13.02.2026,painted folk scene,KYD1877,0,0,unknown
+13.02.2026,white shirt,KYD1877,0,0,unknown
+13.02.2026,house,KYD1877,0,0,unknown
+13.02.2026,trees,KYD1877,0,0,unknown
+13.02.2026,horse's reins,KYD1877,2,0,accept
+13.02.2026,kozak parting for a military campaign,KYD1877,2,0,accept
+13.02.2026,white blouse,KYD1877,2,0,accept
+13.02.2026,signs of age and wear,KYD1877,2,0,accept
+13.02.2026,blue skirt,KYD1877,1,2,reject
+13.02.2026,wooden fence,KYD1877,2,0,accept
+13.02.2026,red hat,KYD1877,1,2,reject
+13.02.2026,man in white shirt and red hat,KYD1877,2,0,accept
+13.02.2026,kozak,KYD1877,3,0,accept
+13.02.2026,horse,KYD1877,3,0,accept
+19.03.2026,Red hair,KYD1877,1,0,accept
+13.02.2026,orange shirt,KYD1877,3,0,accept
+13.02.2026,woman in white blouse and green skirt,KYD1877,3,0,accept
+13.02.2026,lush greenery,KYD1878,2,0,accept
+13.02.2026,orange shutters,KYD1878,2,0,accept
+19.03.2026,White duck,KYD1878,1,0,accept
+13.02.2026,red boat,KYD1878,2,0,accept
+13.02.2026,grey roof,KYD1878,2,0,accept
+13.02.2026,trees,KYD1878,2,0,accept
+13.02.2026,rural landscape,KYD1878,3,0,accept
+13.02.2026,white picket fence,KYD1878,2,0,accept
+13.02.2026,white house,KYD1878,1,0,accept
+13.02.2026,small pond,KYD1878,2,1,accept
+13.02.2026,a village,KYD1878,2,0,accept
+13.02.2026,"large patches of dark, possibly burnt, material",KYD1878,2,0,accept
+13.02.2026,white swan,KYD1878,0,0,unknown
+13.02.2026,lily pads,KYD1878,3,0,accept
+13.02.2026,brown-trunked trees,KYD1879,2,0,accept
+13.02.2026,grassy banks,KYD1879,1,0,accept
+13.02.2026,flowering bushes,KYD1879,1,0,accept
+13.02.2026,impressionistic style,KYD1879,1,0,accept
+13.02.2026,birch trees,KYD1879,2,0,accept
+13.02.2026,reeds,KYD1879,2,0,accept
+13.02.2026,winding path,KYD1879,2,0,accept
+13.02.2026,"serene, natural landscape",KYD1879,2,0,accept
+13.02.2026,white swans,KYD1879,3,0,accept
+13.02.2026,small wooden stump,KYD1879,3,0,accept
+13.02.2026,landscape over the river,KYD1879,3,0,accept
+13.02.2026,signs of age,KYD1880,1,0,accept
+13.02.2026,the gentleman`s daughter (panna) near rose bushes,KYD1880,2,0,accept
+13.02.2026,red roses,KYD1880,3,0,accept
+13.02.2026,trees,KYD1880,3,0,accept
+13.02.2026,painting,KYD1880,3,0,accept
+13.02.2026,daughter,KYD1880,3,0,accept
+13.02.2026,river,KYD1880,2,0,accept
+13.02.2026,woman,KYD1880,3,0,accept
+13.02.2026,blue dress,KYD1880,4,0,accept
+13.02.2026,wear,KYD1880,3,0,accept
+13.02.2026,houses,KYD1880,3,0,accept
+13.02.2026,panna,KYD1880,2,0,accept
+13.02.2026,damage,KYD1881,1,0,accept
+13.02.2026,windmill,KYD1881,0,1,reject
+13.02.2026,trees,KYD1881,2,0,accept
+13.02.2026,wooden well,KYD1881,3,0,accept
+13.02.2026,painting,KYD1881,2,0,accept
+13.02.2026,houses,KYD1881,2,0,accept
+13.02.2026,visible signs of age,KYD1881,2,0,accept
+13.02.2026,ducks,KYD1881,3,0,accept
+13.02.2026,a man,KYD1881,3,0,accept
+13.02.2026,rural landscape,KYD1881,3,0,accept
+13.02.2026,flock of birds,KYD1881,3,0,accept
+13.02.2026,two women,KYD1881,2,0,accept
+13.02.2026,a village,KYD1881,2,0,accept
+13.02.2026,pond,KYD1881,2,0,accept
+13.02.2026,girl,KYD1882,0,1,reject
+13.02.2026,girl with a carrying pole,KYD1882,0,1,reject
+13.02.2026,blue headband,KYD1882,2,0,accept
+13.02.2026,oil on canvas,KYD1882,2,0,accept
+13.02.2026,woman,KYD1882,3,0,accept
+13.02.2026,long skirt,KYD1882,3,0,accept
+13.02.2026,traditional folk attire,KYD1882,3,0,accept
+13.02.2026,white blouse,KYD1882,2,0,accept
+13.02.2026,barefoot,KYD1882,2,0,accept
+13.02.2026,red vest,KYD1882,3,0,accept
+13.02.2026,basket,KYD1882,3,0,accept
+13.02.2026,wooden bucket,KYD1882,3,0,accept
+13.02.2026,dirt path,KYD1883,2,0,accept
+13.02.2026,white blouse,KYD1883,2,0,accept
+13.02.2026,horse,KYD1883,1,0,accept
+19.03.2026,a traditional house with a thatched roof,KYD1883,1,0,accept
+13.02.2026,large green tree,KYD1883,0,0,unknown
+13.02.2026,oil painting,KYD1883,2,0,accept
+13.02.2026,thatched roof,KYD1883,1,0,accept
+13.02.2026,on the yard,KYD1883,1,0,accept
+13.02.2026,small figures,KYD1883,2,0,accept
+13.02.2026,white house,KYD1883,3,0,accept
+13.02.2026,woman,KYD1883,2,0,accept
+13.02.2026,red skirt,KYD1883,2,0,accept
+13.02.2026,smaller building,KYD1883,2,0,accept
+13.02.2026,near the house,KYD1884,2,0,accept
+13.02.2026,a rural scene,KYD1884,3,0,accept
+13.02.2026,a person,KYD1884,1,0,accept
+13.02.2026,an oil painting,KYD1884,1,0,accept
+13.02.2026,a vertical crack in the center,KYD1884,3,0,accept
+13.02.2026,a child,KYD1884,3,0,accept
+13.02.2026,a thatched-roof house,KYD1884,3,0,accept
+13.02.2026,a dirt path,KYD1884,2,0,accept
+13.02.2026,trees,KYD1884,2,0,accept
+13.02.2026,two adults,KYD1884,3,0,accept
+13.02.2026,painting,KYD1885,2,0,accept
+13.02.2026,man in red shawl,KYD1885,2,1,accept
+13.02.2026,drink,KYD1885,2,0,accept
+19.03.2026,a white cloth on ground,KYD1885,1,0,accept
+13.02.2026,red headscarf,KYD1885,0,0,unknown
+13.02.2026,young boy in white shirt,KYD1885,3,0,accept
+13.02.2026,guest from zaporizhya,KYD1885,2,0,accept
+13.02.2026,man in white shirt,KYD1885,1,0,accept
+13.02.2026,table,KYD1885,0,1,reject
+13.02.2026,dark dress,KYD1885,0,1,reject
+13.02.2026,rural setting,KYD1885,3,0,accept
+13.02.2026,older man in white robe,KYD1885,0,1,reject
+13.02.2026,blue pants,KYD1885,1,0,accept
+13.02.2026,white robe,KYD1885,0,1,reject
+13.02.2026,red shawl,KYD1885,0,1,reject
+13.02.2026,small object,KYD1885,0,1,reject
+13.02.2026,woman in dark dress,KYD1885,3,0,accept
+13.02.2026,red object,KYD1885,0,0,unknown
+13.02.2026,food,KYD1885,3,0,accept
+13.02.2026,white shirt,KYD1885,2,0,accept
+13.02.2026,two horses,KYD1886,1,0,accept
+13.02.2026,wedding hazards,KYD1886,2,0,accept
+19.03.2026,a road in the village,KYD1886,1,0,accept
+13.02.2026,oil painting,KYD1886,1,0,accept
+13.02.2026,white horse,KYD1886,1,0,accept
+13.02.2026,woman,KYD1886,2,0,accept
+13.02.2026,dark skirt,KYD1886,1,0,accept
+13.02.2026,small child,KYD1886,1,0,accept
+13.02.2026,horses,KYD1886,2,0,accept
+13.02.2026,several people,KYD1886,1,0,accept
+13.02.2026,long stick,KYD1886,1,0,accept
+13.02.2026,rural scene,KYD1886,1,0,accept
+13.02.2026,white blouse,KYD1886,1,0,accept
+13.02.2026,cart,KYD1886,1,0,accept
+19.03.2026,traditional ukranian wear,KYD1887,1,0,accept
+13.02.2026,horse,KYD1887,2,0,accept
+13.02.2026,traditional attire,KYD1887,2,0,accept
+13.02.2026,oil painting,KYD1887,1,0,accept
+13.02.2026,man,KYD1887,2,0,accept
+13.02.2026,woman,KYD1887,2,0,accept
+13.02.2026,visible brushstrokes,KYD1887,1,0,accept
+19.03.2026,smal river,KYD1887,1,0,accept
+13.02.2026,wear,KYD1887,1,0,accept
+13.02.2026,rural scene,KYD1887,1,0,accept
+13.02.2026,near the footbridge,KYD1887,0,0,unknown
+13.02.2026,metal bucket,KYD1887,1,0,accept
+13.02.2026,painting,KYD1888,2,0,accept
+13.02.2026,houses,KYD1888,2,0,accept
+13.02.2026,visible signs of wear and tear,KYD1888,1,0,accept
+19.03.2026,small lake,KYD1888,1,0,accept
+13.02.2026,landscape of a village,KYD1888,2,0,accept
+13.02.2026,red roofs,KYD1888,2,0,accept
+13.02.2026,swans,KYD1888,2,0,accept
+13.02.2026,body of water,KYD1888,1,0,accept
+13.02.2026,trees,KYD1888,2,0,accept
+13.02.2026,white walls,KYD1888,1,0,accept
+13.02.2026,red shutters,KYD1888,1,0,accept
+13.02.2026,person,KYD1888,2,0,accept
+13.02.2026,blue dress,KYD1888,1,0,accept
+13.02.2026,rural landscape,KYD1888,2,0,accept
+13.02.2026,path,KYD1888,1,0,accept
+13.02.2026,visible texture,KYD1889,1,0,accept
+13.02.2026,pond,KYD1889,1,0,accept
+13.02.2026,signs of age,KYD1889,1,0,accept
+13.02.2026,thatched roof,KYD1889,1,0,accept
+13.02.2026,small white house,KYD1889,1,0,accept
+13.02.2026,oil painting,KYD1889,0,1,reject
+13.02.2026,green hills,KYD1889,0,0,unknown
+13.02.2026,rural landscape,KYD1889,2,0,accept
+13.02.2026,white swans,KYD1889,2,0,accept
+19.03.2026,small heels,KYD1889,1,0,accept
+13.02.2026,dirt path,KYD1889,1,0,accept
+13.02.2026,a village,KYD1889,2,0,accept
+13.02.2026,foliage,KYD1889,1,0,accept
+13.02.2026,trees,KYD1889,2,0,accept
+13.02.2026,scratches,KYD1890,1,0,accept
+13.02.2026,green field,KYD1890,2,0,accept
+13.02.2026,painting,KYD1890,1,0,accept
+13.02.2026,evening landscape,KYD1890,2,0,accept
+13.02.2026,visible cracks,KYD1890,1,0,accept
+19.03.2026,sunsat,KYD1890,1,0,accept
+13.02.2026,cypress-like trees,KYD1890,0,0,unknown
+13.02.2026,"large, dense tree",KYD1890,2,0,accept
+13.02.2026,dirt path,KYD1890,1,0,accept
+13.02.2026,red roof,KYD1890,0,0,unknown
+13.02.2026,sun,KYD1890,0,1,reject
+13.02.2026,small house,KYD1890,2,0,accept
+13.02.2026,trees,KYD1890,2,0,accept
+13.02.2026,rural landscape,KYD1890,1,0,accept
+13.02.2026,green stems,KYD1891,2,0,accept
+13.02.2026,pink roses,KYD1891,2,0,accept
+13.02.2026,painting,KYD1891,1,0,accept
+13.02.2026,canvas,KYD1891,2,0,accept
+13.02.2026,wear,KYD1891,0,1,reject
+13.02.2026,visible texture,KYD1891,1,0,accept
+13.02.2026,white daisies,KYD1891,1,0,accept
+13.02.2026,leaves,KYD1891,1,0,accept
+13.02.2026,flowers,KYD1891,2,0,accept
+13.02.2026,yellow daffodils,KYD1891,1,0,accept
+13.02.2026,wear,KYD1892,2,1,accept
+13.02.2026,white embroidery,KYD1892,2,0,accept
+13.02.2026,blue and red beaded necklace,KYD1892,3,0,accept
+13.02.2026,portrait of a father with his daughter,KYD1892,2,0,accept
+13.02.2026,man,KYD1892,3,0,accept
+13.02.2026,young girl,KYD1892,3,0,accept
+13.02.2026,red dress,KYD1892,3,0,accept
+13.02.2026,a father with his daughter,KYD1892,3,0,accept
+13.02.2026,canvas,KYD1892,3,0,accept
+13.02.2026,dark jacket,KYD1892,3,0,accept
+13.02.2026,black cap,KYD1892,3,0,accept
+13.02.2026,visible texture,KYD1892,2,0,accept
+13.02.2026,painted portrait,KYD1892,2,0,accept
+13.02.2026,daughter,KYD1892,2,0,accept
+13.02.2026,floral wreath,KYD1892,2,0,accept
+13.02.2026,father,KYD1892,3,0,accept
+13.02.2026,white shirt,KYD1892,2,0,accept
+13.02.2026,visible brushstrokes,KYD1893,1,0,accept
+13.02.2026,wear,KYD1893,0,1,reject
+13.02.2026,"dark, textured garment",KYD1893,1,0,accept
+13.02.2026,painting,KYD1893,1,0,accept
+13.02.2026,man with a long beard,KYD1893,0,1,reject
+13.02.2026,portrait of kozarlyuha,KYD1893,2,0,accept
+13.02.2026,kozarlyuha,KYD1893,2,0,accept
+13.02.2026,"man with a dark, pointed hat",KYD1893,0,0,unknown
+13.02.2026,pipe,KYD1893,1,0,accept
+19.03.2026,a smoking pipe,KYD1893,1,0,accept
+13.02.2026,red dress,KYD1894,1,0,accept
+13.02.2026,"my girl, drink my horse",KYD1894,1,0,accept
+13.02.2026,painting,KYD1894,1,0,accept
+13.02.2026,black mane,KYD1894,1,0,accept
+13.02.2026,white hat,KYD1894,1,0,accept
+19.03.2026,ukrainian couple,KYD1894,1,0,accept
+13.02.2026,wear,KYD1894,1,0,accept
+13.02.2026,red headpiece,KYD1894,2,0,accept
+13.02.2026,girl,KYD1894,2,0,accept
+13.02.2026,small wooden barrel,KYD1894,1,0,accept
+13.02.2026,red jacket,KYD1894,2,0,accept
+13.02.2026,white horse,KYD1894,2,0,accept
+13.02.2026,white embroidery,KYD1894,2,0,accept
+13.02.2026,basket,KYD1894,0,0,unknown
+13.02.2026,red saddle,KYD1894,1,0,accept
+13.02.2026,visible brushstrokes,KYD1894,1,0,accept
+13.02.2026,couple,KYD1894,2,0,accept
+13.02.2026,blue pants,KYD1894,2,0,accept
+13.02.2026,white shirt,KYD1895,2,0,accept
+13.02.2026,some damage,KYD1895,2,0,accept
+13.02.2026,bandura player on the cliff / steep,KYD1895,2,0,accept
+13.02.2026,man with a beard and dark hair,KYD1895,2,0,accept
+13.02.2026,blue pants,KYD1895,1,0,accept
+13.02.2026,visible vertical lines,KYD1895,1,0,accept
+13.02.2026,small tree,KYD1895,2,0,accept
+13.02.2026,painted wooden panel,KYD1895,1,0,accept
+13.02.2026,"large, round-bodied string instrument with a curved neck",KYD1895,2,0,accept
+13.02.2026,visible signs of age,KYD1896,1,0,accept
+13.02.2026,body of water,KYD1896,1,0,accept
+13.02.2026,damage,KYD1896,1,0,accept
+13.02.2026,thatched roof,KYD1896,1,0,accept
+13.02.2026,large tree,KYD1896,2,0,accept
+13.02.2026,house,KYD1896,2,0,accept
+13.02.2026,small boat,KYD1896,2,0,accept
+13.02.2026,swans,KYD1896,2,0,accept
+13.02.2026,a village,KYD1896,2,0,accept
+13.02.2026,forest,KYD1896,2,0,accept
+13.02.2026,person,KYD1896,1,0,accept
+13.02.2026,painting,KYD1896,2,0,accept
+13.02.2026,painting,KYD1897,1,0,accept
+13.02.2026,black hat,KYD1897,1,0,accept
+13.02.2026,kozak,KYD1897,1,0,accept
+13.02.2026,girl,KYD1897,1,0,accept
+13.02.2026,water well,KYD1897,1,0,accept
+13.02.2026,woman,KYD1897,1,0,accept
+13.02.2026,white dress,KYD1897,2,0,accept
+13.02.2026,man,KYD1897,2,0,accept
+13.02.2026,folk-art style,KYD1897,2,0,accept
+13.02.2026,horse,KYD1897,2,0,accept
+13.02.2026,kozak with a girl near the well,KYD1897,1,0,accept
+13.02.2026,dark jug,KYD1897,1,0,accept
+13.02.2026,stone platform,KYD1897,0,1,reject
+13.02.2026,dark blue coat,KYD1897,1,0,accept
+13.02.2026,pond,KYD1898,1,0,accept
+13.02.2026,windmill,KYD1898,0,1,reject
+13.02.2026,straw hat,KYD1898,1,0,accept
+13.02.2026,red headscarf,KYD1898,0,1,reject
+13.02.2026,white blouse,KYD1898,1,0,accept
+13.02.2026,bucket,KYD1898,1,0,accept
+13.02.2026,dirt path,KYD1898,1,0,accept
+13.02.2026,apple,KYD1898,0,1,reject
+13.02.2026,a woman,KYD1898,1,0,accept
+13.02.2026,a man,KYD1898,1,0,accept
+13.02.2026,traditional folk attire,KYD1898,2,0,accept
+13.02.2026,white shirt,KYD1898,1,0,accept
+13.02.2026,rural village scene,KYD1898,2,0,accept
+13.02.2026,near the well,KYD1898,2,0,accept
+13.02.2026,dark skirt,KYD1898,2,0,accept
+13.02.2026,two people,KYD1898,2,0,accept
+13.02.2026,swans,KYD1898,2,0,accept
+13.02.2026,wooden well,KYD1898,2,0,accept
+13.02.2026,thatched-roof houses,KYD1898,2,0,accept
+13.02.2026,painting,KYD1898,2,0,accept
+13.02.2026,a village,KYD1899,1,0,accept
+13.02.2026,black dog,KYD1899,2,0,accept
+13.02.2026,pond,KYD1899,1,0,accept
+13.02.2026,visible signs of wear,KYD1899,2,0,accept
+13.02.2026,rural village,KYD1899,2,0,accept
+13.02.2026,houses,KYD1899,1,0,accept
+13.02.2026,wooden surface,KYD1899,2,0,accept
+13.02.2026,two buckets,KYD1899,1,0,accept
+13.02.2026,steeple,KYD1899,0,1,reject
+13.02.2026,trees,KYD1899,1,0,accept
+13.02.2026,dirt road,KYD1899,1,0,accept
+13.02.2026,painted landscape,KYD1899,1,0,accept
+13.02.2026,fields,KYD1899,2,0,accept
+13.02.2026,ducks,KYD1899,1,0,accept
+13.02.2026,damage,KYD1899,1,0,accept
+13.02.2026,church,KYD1899,1,0,accept
+13.02.2026,woman,KYD1899,1,0,accept
+13.02.2026,visible signs of age and wear,KYD1900,2,0,accept
+13.02.2026,wooden fence,KYD1900,2,0,accept
+13.02.2026,black horse,KYD1900,2,0,accept
+13.02.2026,red and white embroidered shirt,KYD1900,2,0,accept
+13.02.2026,blue trousers,KYD1900,1,0,accept
+13.02.2026,cane,KYD1900,1,0,accept
+13.02.2026,tall green trees,KYD1900,1,0,accept
+13.02.2026,rural scene,KYD1900,2,0,accept
+13.02.2026,small dog,KYD1900,2,0,accept
+13.02.2026,man in red and white embroidered shirt and blue trousers,KYD1900,2,0,accept
+13.02.2026,woman in blue and red dress,KYD1900,1,0,accept
+13.02.2026,white house,KYD1900,1,0,accept
+13.02.2026,older man in similar attire,KYD1900,1,0,accept
+13.02.2026,thatched roof,KYD1900,1,0,accept
+13.02.2026,chickens,KYD1900,1,0,accept
+13.02.2026,yaryna,KYD1900,1,0,accept
+13.02.2026,blue and red dress,KYD1900,1,0,accept
+13.02.2026,trees,KYD1901,1,0,accept
+13.02.2026,woman,KYD1901,1,0,accept
+13.02.2026,saddle,KYD1901,1,0,accept
+13.02.2026,wooden fence,KYD1901,2,0,accept
+13.02.2026,horse,KYD1901,2,0,accept
+13.02.2026,thatched roof,KYD1901,2,0,accept
+13.02.2026,parting for a military campaign,KYD1901,2,0,accept
+13.02.2026,house,KYD1901,2,0,accept
+13.02.2026,visible brushstrokes,KYD1901,1,0,accept
+13.02.2026,birch tree,KYD1901,2,0,accept
+13.02.2026,white blouse with red embroidery,KYD1901,1,0,accept
+13.02.2026,red skirt,KYD1901,1,0,accept
+13.02.2026,couple,KYD1901,2,0,accept
+13.02.2026,oil on canvas,KYD1901,1,0,accept
+13.02.2026,cracking,KYD1901,0,1,reject
+13.02.2026,path,KYD1901,1,0,accept
+13.02.2026,sword,KYD1901,1,0,accept
+13.02.2026,man,KYD1901,1,0,accept
+13.02.2026,painting,KYD1901,1,0,accept
+13.02.2026,floral headpiece,KYD1901,1,0,accept
+13.02.2026,hat,KYD1901,1,0,accept
+13.02.2026,dark jacket,KYD1901,1,0,accept
+13.02.2026,others,KYD1902,1,0,accept
+13.02.2026,boys and girls near the river,KYD1902,1,0,accept
+13.02.2026,blue skirt,KYD1902,1,0,accept
+13.02.2026,several men,KYD1902,1,0,accept
+13.02.2026,large wooden object,KYD1902,1,0,accept
+13.02.2026,red vest,KYD1902,1,0,accept
+13.02.2026,long wooden instrument,KYD1902,1,0,accept
+13.02.2026,lute,KYD1902,0,1,reject
+13.02.2026,painting,KYD1902,2,0,accept
+13.02.2026,woman,KYD1902,1,0,accept
+13.02.2026,boys,KYD1902,1,0,accept
+13.02.2026,girls,KYD1902,1,0,accept
+13.02.2026,group of people,KYD1902,2,0,accept
+13.02.2026,traditional folk attire,KYD1902,2,0,accept
+13.02.2026,signs of age,KYD1902,2,0,accept
+13.02.2026,boat,KYD1902,2,0,accept
+13.02.2026,depicting a group of people,KYD1902,2,0,accept
+13.02.2026,wear,KYD1902,1,0,accept
+13.02.2026,basket,KYD1902,0,1,reject
+13.02.2026,thatched roof,KYD1903,2,0,accept
+13.02.2026,body of water,KYD1903,1,0,accept
+13.02.2026,tall trees,KYD1903,1,0,accept
+13.02.2026,cracks,KYD1903,1,0,accept
+13.02.2026,paint wear,KYD1903,2,0,accept
+13.02.2026,small white house,KYD1903,2,0,accept
+13.02.2026,wooden windmill,KYD1903,2,0,accept
+19.03.2026,a windmill,KYD1903,1,0,accept
+13.02.2026,landscape,KYD1903,2,0,accept
+13.02.2026,rural landscape,KYD1903,1,0,accept
+13.02.2026,red and white head covering,KYD1904,1,0,accept
+13.02.2026,wooden fence,KYD1904,1,0,accept
+13.02.2026,red sash,KYD1904,1,0,accept
+13.02.2026,white house,KYD1904,1,0,accept
+13.02.2026,painting,KYD1904,1,0,accept
+13.02.2026,floral headpiece,KYD1904,1,0,accept
+13.02.2026,red skirt,KYD1904,1,0,accept
+13.02.2026,trees,KYD1904,1,0,accept
+13.02.2026,saddle,KYD1904,1,0,accept
+13.02.2026,wear,KYD1904,1,0,accept
+13.02.2026,blue tunic,KYD1904,1,0,accept
+13.02.2026,horse,KYD1904,1,0,accept
+13.02.2026,white blouse,KYD1904,1,0,accept
+13.02.2026,visible cracks,KYD1904,1,0,accept
+13.02.2026,thatched roof,KYD1904,1,0,accept
+13.02.2026,parting for a military campaign,KYD1904,1,0,accept
+13.02.2026,couple,KYD1904,1,0,accept
+13.02.2026,white house,KYD1905,1,0,accept
+13.02.2026,green trees,KYD1905,2,0,accept
+13.02.2026,path,KYD1905,2,0,accept
+13.02.2026,dark birds,KYD1905,2,0,accept
+13.02.2026,white swans,KYD1905,2,0,accept
+13.02.2026,painting,KYD1905,2,0,accept
+13.02.2026,brown roof,KYD1905,2,0,accept
+13.02.2026,weathered wooden surface,KYD1905,0,0,unknown
+13.02.2026,paint damage,KYD1905,1,0,accept
+13.02.2026,landscape over the river,KYD1905,1,0,accept
+13.02.2026,visible cracks,KYD1905,1,0,accept
+13.02.2026,pond,KYD1905,1,0,accept
+13.02.2026,rural landscape,KYD1905,2,0,accept
+13.02.2026,wooden pole,KYD1906,0,0,unknown
+13.02.2026,woman,KYD1906,1,0,accept
+13.02.2026,man,KYD1906,1,0,accept
+13.02.2026,black horse,KYD1906,1,0,accept
+13.02.2026,rural scene,KYD1906,2,0,accept
+13.02.2026,girl,KYD1906,1,0,accept
+13.02.2026,red skirt,KYD1906,2,0,accept
+13.02.2026,white blouse,KYD1906,2,0,accept
+13.02.2026,white shirt,KYD1906,2,0,accept
+13.02.2026,dark hat,KYD1906,2,0,accept
+13.02.2026,bucket,KYD1906,1,0,accept
+13.02.2026,horseman and a girl,KYD1906,2,0,accept
+13.02.2026,red sash,KYD1907,0,0,unknown
+13.02.2026,traditional attire,KYD1907,2,0,accept
+13.02.2026,visible vertical cracks,KYD1907,1,0,accept
+13.02.2026,a woman,KYD1907,1,0,accept
+13.02.2026,wooden surface,KYD1907,2,0,accept
+13.02.2026,paint wear,KYD1907,1,0,accept
+13.02.2026,dark vest,KYD1907,1,0,accept
+13.02.2026,white dress,KYD1907,2,0,accept
+13.02.2026,woman,KYD1907,1,0,accept
+13.02.2026,red headscarf,KYD1907,1,0,accept
+13.02.2026,painted portrait,KYD1907,1,0,accept
+13.02.2026,portrait of a woman,KYD1907,0,0,unknown
+13.02.2026,floral crown,KYD1908,1,0,accept
+13.02.2026,red veil,KYD1908,1,0,accept
+13.02.2026,visible wear,KYD1908,1,0,accept
+13.02.2026,girl,KYD1908,0,1,reject
+13.02.2026,red floral embroidery,KYD1908,2,0,accept
+13.02.2026,wooden surface,KYD1908,1,0,accept
+13.02.2026,white blouse,KYD1908,1,0,accept
+13.02.2026,traditional attire,KYD1908,2,0,accept
+13.02.2026,painted portrait,KYD1908,2,0,accept
+13.02.2026,woman,KYD1908,2,0,accept
+13.02.2026,portrait of a girl,KYD1908,0,1,reject
+13.02.2026,red and white flowers,KYD1908,2,0,accept
+13.02.2026,a girl,KYD1908,0,1,reject
+13.02.2026,multi-layered beaded necklace,KYD1908,1,0,accept
+13.02.2026,visible signs of age and wear,KYD1909,2,0,accept
+13.02.2026,damaged,KYD1909,2,0,accept
+13.02.2026,depiction of a dark horse standing over a person,KYD1909,1,0,accept
+13.02.2026,person lying on the ground,KYD1909,1,0,accept
+13.02.2026,oj na hori ohon horyt …,KYD1909,1,0,accept
+13.02.2026,red and blue garment,KYD1909,1,0,accept
+13.02.2026,aged,KYD1909,1,0,accept
+13.02.2026,dark horse,KYD1909,2,0,accept
+13.02.2026,red floral embroidery,KYD1910,1,0,accept
+13.02.2026,visible cracks,KYD1910,2,0,accept
+13.02.2026,floral wreath,KYD1910,2,0,accept
+13.02.2026,girl,KYD1910,1,0,accept
+13.02.2026,woman,KYD1910,2,0,accept
+13.02.2026,weathered wooden surface,KYD1910,1,0,accept
+13.02.2026,a girl,KYD1910,1,0,accept
+13.02.2026,painted wooden panel,KYD1910,1,0,accept
+13.02.2026,white skirt,KYD1910,1,0,accept
+13.02.2026,portrait of a girl,KYD1910,1,0,accept
+13.02.2026,white blouse,KYD1910,1,0,accept
+13.02.2026,bucket,KYD1910,1,0,accept
+13.02.2026,traditional russian folk attire,KYD1910,1,0,accept
+13.02.2026,wooden table,KYD1910,2,0,accept
+13.02.2026,red vest,KYD1910,1,0,accept
+13.02.2026,peeling paint,KYD1910,2,0,accept
+13.02.2026,red patterns,KYD1910,2,0,accept
+13.02.2026,green trees,KYD1911,3,0,accept
+13.02.2026,a village,KYD1911,1,0,accept
+13.02.2026,white clouds,KYD1911,1,0,accept
+13.02.2026,wooden fence,KYD1911,1,0,accept
+13.02.2026,sky,KYD1911,3,0,accept
+13.02.2026,canvas,KYD1911,1,0,accept
+13.02.2026,oil painting,KYD1911,1,0,accept
+13.02.2026,houses,KYD1911,1,0,accept
+13.02.2026,thatched roofs,KYD1911,1,0,accept
+13.02.2026,pond,KYD1911,1,0,accept
+13.02.2026,rural village scene,KYD1911,1,0,accept
+13.02.2026,signs of age and wear,KYD1911,1,0,accept
+13.02.2026,body of water,KYD1911,3,0,accept
+13.02.2026,paint damage,KYD1911,1,0,accept
+13.02.2026,small lake,KYD1911,1,0,accept
+13.02.2026,visible cracks,KYD1911,1,0,accept
+13.02.2026,white walls,KYD1911,1,0,accept
+13.02.2026,dirt path,KYD1911,1,0,accept
+13.02.2026,vegetation,KYD1911,1,0,accept
+13.02.2026,small instrument,KYD1912,0,0,unknown
+13.02.2026,dark trousers,KYD1912,1,0,accept
+13.02.2026,walking stick,KYD1912,0,0,unknown
+13.02.2026,signs of age,KYD1912,1,0,accept
+13.02.2026,musicians,KYD1912,1,0,accept
+13.02.2026,red sash,KYD1912,0,0,unknown
+13.02.2026,outdoor setting,KYD1912,2,0,accept
+13.02.2026,painting,KYD1912,2,0,accept
+13.02.2026,large string instrument,KYD1912,2,0,accept
+13.02.2026,white shirts,KYD1912,1,0,accept
+13.02.2026,five men,KYD1912,2,0,accept
+13.02.2026,traditional folk attire,KYD1912,2,0,accept
+13.02.2026,hats,KYD1912,1,0,accept
+13.02.2026,wear,KYD1912,1,0,accept
+13.02.2026,wear,KYD1913,0,1,reject
+13.02.2026,man,KYD1913,1,0,accept
+13.02.2026,lute,KYD1913,0,1,reject
+13.02.2026,several women,KYD1913,1,0,accept
+13.02.2026,garlands of flowers,KYD1913,2,0,accept
+13.02.2026,ritual,KYD1913,2,0,accept
+13.02.2026,floral headpieces,KYD1913,1,0,accept
+13.02.2026,wooden fence,KYD1913,2,0,accept
+13.02.2026,rusalkas near the river,KYD1913,2,0,accept
+13.02.2026,painting,KYD1913,2,0,accept
+13.02.2026,boat,KYD1913,1,0,accept
+13.02.2026,flowing dresses,KYD1913,1,0,accept
+13.02.2026,signs of age,KYD1913,1,0,accept
+13.02.2026,trees,KYD1913,1,0,accept
+13.02.2026,winter sketch,KYD1914,0,1,reject
+13.02.2026,small hut with thatched roof,KYD1914,1,0,accept
+13.02.2026,two prominent dark leafless trees,KYD1914,0,1,reject
+13.02.2026,textured aged surface,KYD1914,2,0,accept
+13.02.2026,distant treeline,KYD1914,2,0,accept
+13.02.2026,rural landscape,KYD1914,2,0,accept
+13.02.2026,cracks,KYD1915,2,0,accept
+13.02.2026,red neckerchief,KYD1915,0,1,reject
+13.02.2026,white shirt,KYD1915,2,0,accept
+13.02.2026,peeling paint,KYD1915,2,0,accept
+13.02.2026,red and blue headscarf,KYD1915,0,1,reject
+13.02.2026,man,KYD1915,1,0,accept
+13.02.2026,natural setting,KYD1915,2,0,accept
+13.02.2026,woman,KYD1915,2,0,accept
+13.02.2026,encounter,KYD1915,1,0,accept
+13.02.2026,large tree,KYD1915,1,0,accept
+13.02.2026,cracks,KYD1916,1,0,accept
+13.02.2026,depicting a scene,KYD1916,1,0,accept
+13.02.2026,several men,KYD1916,1,0,accept
+13.02.2026,small object,KYD1916,0,1,reject
+13.02.2026,taras bulba with his sons,KYD1916,2,0,accept
+13.02.2026,large man with a beard,KYD1916,2,0,accept
+13.02.2026,significant wear and tear,KYD1916,2,0,accept
+13.02.2026,peeling paint,KYD1916,2,0,accept
+13.02.2026,traditional clothing,KYD1916,2,0,accept
+13.02.2026,cart with flowers,KYD1916,2,0,accept
+13.02.2026,dark suit,KYD1917,2,0,accept
+13.02.2026,self-portrait of panas yarmolenko,KYD1917,2,0,accept
+13.02.2026,painted portrait,KYD1917,2,0,accept
+13.02.2026,cracks,KYD1917,0,1,reject
+13.02.2026,paint splatters,KYD1917,0,1,reject
+13.02.2026,panas yarmolenko,KYD1917,2,0,accept
+13.02.2026,striped tie,KYD1917,1,0,accept
+13.02.2026,white shirt,KYD1917,1,0,accept
+13.02.2026,man with a mustache,KYD1917,2,0,accept
+13.02.2026,white tunic,KYD1920,1,0,accept
+13.02.2026,cracks,KYD1920,1,0,accept
+13.02.2026,icon,KYD1920,1,0,accept
+13.02.2026,green robe,KYD1920,1,0,accept
+13.02.2026,religious icon,KYD1920,1,0,accept
+13.02.2026,golden crown with blue and red jewels,KYD1920,0,1,reject
+13.02.2026,red robe with gold trim,KYD1920,1,0,accept
+13.02.2026,our lady of the way,KYD1920,1,0,accept
+13.02.2026,infant jesus,KYD1920,1,0,accept
+13.02.2026,crown,KYD1920,1,0,accept
+13.02.2026,paint peeling,KYD1920,1,0,accept
+13.02.2026,blue veil,KYD1920,0,1,reject
+13.02.2026,virgin mary,KYD1920,1,0,accept
+13.02.2026,windmill,KYD1921,2,0,accept
+13.02.2026,swans,KYD1921,2,0,accept
+13.02.2026,thatched roofs,KYD1921,2,0,accept
+13.02.2026,evening on ukraine,KYD1921,2,0,accept
+13.02.2026,rural landscape,KYD1921,2,0,accept
+13.02.2026,visible damage,KYD1921,2,0,accept
+13.02.2026,houses,KYD1921,2,0,accept
+13.02.2026,river,KYD1921,2,0,accept
+13.02.2026,trees,KYD1921,1,0,accept
+13.02.2026,hole in the upper right,KYD1922,0,0,unknown
+13.02.2026,body of water,KYD1922,1,0,accept
+13.02.2026,small house,KYD1922,1,0,accept
+13.02.2026,dark stain on the lower left,KYD1922,0,1,reject
+13.02.2026,windmill,KYD1922,1,0,accept
+13.02.2026,landscape with a river,KYD1922,1,0,accept
+13.02.2026,rural landscape,KYD1922,1,0,accept
+13.02.2026,green hillside,KYD1923,1,0,accept
+13.02.2026,rural landscape,KYD1923,1,0,accept
+13.02.2026,red roof,KYD1923,1,0,accept
+13.02.2026,one near the house,KYD1923,1,0,accept
+13.02.2026,winding blue stream,KYD1923,1,0,accept
+13.02.2026,yellow sun,KYD1923,1,0,accept
+13.02.2026,some damage,KYD1923,1,0,accept
+13.02.2026,wood,KYD1923,1,0,accept
+13.02.2026,painting,KYD1923,1,0,accept
+13.02.2026,small house,KYD1923,1,0,accept
+13.02.2026,dirt path,KYD1923,1,0,accept
+13.02.2026,another further down,KYD1923,1,0,accept
+13.02.2026,landscape,KYD1923,1,0,accept
+13.02.2026,large trees,KYD1923,1,0,accept
+13.02.2026,two figures,KYD1923,1,0,accept
+13.02.2026,saint michael,KYD1924,0,0,unknown
+13.02.2026,child,KYD1924,1,0,accept
+13.02.2026,cracking,KYD1924,1,0,accept
+13.02.2026,icon,KYD1924,1,0,accept
+13.02.2026,our lady and saint michael,KYD1924,1,0,accept
+13.02.2026,religious icon,KYD1924,1,0,accept
+13.02.2026,book,KYD1924,1,0,accept
+13.02.2026,red and gold robe,KYD1924,1,0,accept
+13.02.2026,woman,KYD1924,1,0,accept
+13.02.2026,peeling paint,KYD1924,1,0,accept
+13.02.2026,bearded man,KYD1924,1,0,accept
+13.02.2026,red mitre,KYD1924,1,0,accept
+13.02.2026,red robe,KYD1924,1,0,accept
+13.02.2026,red crown,KYD1924,0,1,reject
+13.02.2026,saint,KYD1924,1,0,accept
+13.02.2026,rural gathering,KYD1925,2,0,accept
+13.02.2026,signs of age,KYD1925,1,0,accept
+13.02.2026,two horses,KYD1925,2,0,accept
+13.02.2026,two men,KYD1925,2,0,accept
+13.02.2026,dog,KYD1925,2,0,accept
+13.02.2026,blue and yellow embroidered shirts,KYD1925,2,0,accept
+13.02.2026,table,KYD1925,2,0,accept
+13.02.2026,painted scene,KYD1925,2,0,accept
+13.02.2026,woman,KYD1925,1,0,accept
+13.02.2026,white blouse,KYD1925,1,0,accept
+13.02.2026,taras bulba with his sons,KYD1925,1,0,accept
+13.02.2026,tree,KYD1925,1,0,accept
+13.02.2026,blue headscarf,KYD1925,1,0,accept
+13.02.2026,red and white embroidered shirt,KYD1925,1,0,accept
+13.02.2026,wear,KYD1925,1,0,accept
+13.02.2026,man,KYD1925,1,0,accept
+13.02.2026,wooden bench,KYD1925,1,0,accept
+13.02.2026,wooden roof,KYD1925,1,0,accept
+13.02.2026,pipe,KYD1925,1,0,accept
+13.02.2026,basket,KYD1925,0,1,reject
+13.02.2026,yellow house,KYD1925,1,0,accept
+13.02.2026,wooden well,KYD1926,1,0,accept
+13.02.2026,windmill,KYD1926,2,0,accept
+13.02.2026,near the well,KYD1926,1,0,accept
+13.02.2026,signs of wear and tear,KYD1926,2,0,accept
+13.02.2026,ducks,KYD1926,2,0,accept
+13.02.2026,traditional ukrainian attire,KYD1926,1,0,accept
+13.02.2026,river,KYD1926,2,0,accept
+13.02.2026,houses,KYD1926,2,0,accept
+13.02.2026,couple,KYD1926,2,0,accept
+13.02.2026,painted folk scene,KYD1926,1,0,accept
+13.02.2026,blue and white embroidered dress,KYD2467,3,0,accept
+13.02.2026,woman in blue and white embroidered dress,KYD2467,3,0,accept
+13.02.2026,white shirt,KYD2467,2,0,accept
+13.02.2026,yaryna,KYD2467,3,0,accept
+13.02.2026,man in white shirt and purple skirt,KYD2467,2,0,accept
+13.02.2026,windmill,KYD2467,3,0,accept
+13.02.2026,purple skirt,KYD2467,2,1,accept
+13.02.2026,visible cracks,KYD2467,3,0,accept
+13.02.2026,rural scene,KYD2467,3,0,accept
+13.02.2026,church with green domes,KYD2467,2,0,accept
+13.02.2026,black horse,KYD2467,2,0,accept
+13.02.2026,black hat,KYD2467,2,0,accept
+13.02.2026,man in red coat and black hat,KYD2467,2,0,accept
+13.02.2026,sword,KYD2467,2,0,accept
+13.02.2026,red coat,KYD2467,2,0,accept
+13.02.2026,rope,KYD2467,2,0,accept
+13.02.2026,holes in the wood,KYD2467,2,0,accept
+13.02.2026,houses with thatched roofs,KYD2467,2,0,accept
+13.02.2026,rural scene,KYD2468,2,0,accept
+13.02.2026,small wooden bucket,KYD2468,2,0,accept
+13.02.2026,man,KYD2468,2,0,accept
+13.02.2026,red tie,KYD2468,2,0,accept
+13.02.2026,red jacket,KYD2468,2,0,accept
+13.02.2026,blue coat,KYD2468,3,0,accept
+13.02.2026,blue and red embroidered dress,KYD2468,3,0,accept
+13.02.2026,woman,KYD2468,3,0,accept
+13.02.2026,white outfit,KYD2468,3,0,accept
+13.02.2026,yaryna,KYD2468,3,0,accept
+13.02.2026,red neckerchief,KYD2468,3,0,accept
+13.02.2026,young boy,KYD2468,3,0,accept
+13.02.2026,white shirt,KYD2468,3,0,accept
+13.02.2026,small object,KYD2468,3,0,accept
+13.02.2026,man with a mustache,KYD2469,3,0,accept
+13.02.2026,cracks,KYD2469,3,0,accept
+13.02.2026,damaged,KYD2469,3,0,accept
+13.02.2026,dark suit,KYD2469,3,0,accept
+13.02.2026,carved wooden frame,KYD2469,2,1,accept
+13.02.2026,portrait,KYD2469,3,0,accept
+13.02.2026,age,KYD2469,3,0,accept
+13.02.2026,dark tie,KYD2469,2,0,accept
+13.02.2026,carved inscription,KYD2469,2,0,accept
+13.02.2026,kalenichenko semen,KYD2469,2,0,accept
+13.02.2026,light-colored shirt,KYD2469,2,0,accept
+13.02.2026,damage,KYD2469,2,0,accept
+13.02.2026,peeling paint,KYD2469,2,0,accept
+13.02.2026,portrait of kalenichenko semen,KYD2469,0,1,reject
+13.02.2026,thatched roofs,KYD2504,3,0,accept
+13.02.2026,houses,KYD2504,3,0,accept
+13.02.2026,group of people,KYD2504,3,0,accept
+13.02.2026,black horse,KYD2504,3,0,accept
+13.02.2026,man,KYD2504,3,0,accept
+13.02.2026,painted wooden panel,KYD2504,3,0,accept
+13.02.2026,blue coat,KYD2504,3,0,accept
+13.02.2026,rural scene,KYD2504,3,0,accept
+13.02.2026,windmill,KYD2504,3,0,accept
+13.02.2026,trees,KYD2504,3,0,accept
+13.02.2026,visible signs of age and wear,KYD2504,3,0,accept
+13.02.2026,marching,KYD2504,3,0,accept
+13.02.2026,kozak parting for a military campaign,KYD2504,3,0,accept
+13.02.2026,dirt path,KYD2504,3,0,accept
+13.02.2026,woman,KYD2504,3,0,accept
+13.02.2026,patterned hat,KYD2504,3,0,accept
+13.02.2026,people on horseback,KYD2504,0,1,reject
+13.02.2026,kozak,KYD2504,2,0,accept
+13.02.2026,patterned dress,KYD2504,3,0,accept
+13.02.2026,traditional clothing,KYD2504,3,0,accept
+13.02.2026,woman,KYD2505,2,0,accept
+13.02.2026,dark dress,KYD2505,2,0,accept
+13.02.2026,portrait painting,KYD2505,3,0,accept
+13.02.2026,portrait of an older couple,KYD2505,3,0,accept
+13.02.2026,signs of age and wear,KYD2505,3,0,accept
+13.02.2026,white headscarf,KYD2505,3,0,accept
+13.02.2026,man,KYD2505,3,0,accept
+13.02.2026,beard,KYD2505,3,0,accept
+13.02.2026,an older couple,KYD2505,3,0,accept
+13.02.2026,couple,KYD2505,3,0,accept
+13.02.2026,boots,KYD2505,3,0,accept
+13.02.2026,dark coat,KYD2505,3,0,accept
+13.02.2026,wooden staff,KYD2800,1,0,accept
+13.02.2026,red robe,KYD2800,1,0,accept
+13.02.2026,good shepherd,KYD2800,2,0,accept
+13.02.2026,peeling paint,KYD2800,1,0,accept
+13.02.2026,small carved wooden lamb,KYD2800,0,1,reject
+13.02.2026,visible signs of age,KYD2800,1,0,accept
+13.02.2026,cracks,KYD2800,1,0,accept
+13.02.2026,dark cloak,KYD2800,1,0,accept
+13.02.2026,icon,KYD2800,1,0,accept
+13.02.2026,wooden icon,KYD2800,1,0,accept
+13.02.2026,man with long dark hair and a beard,KYD2800,1,0,accept
+22.03.2026,Lamp of God,KYD2800,1,0,accept
+13.02.2026,blessed virgin,KYD2801,1,0,accept
+13.02.2026,blessed virgin with a baby,KYD2801,1,0,accept
+13.02.2026,infant jesus,KYD2801,1,0,accept
+13.02.2026,visible cracks,KYD2801,1,0,accept
+13.02.2026,religious painting,KYD2801,1,0,accept
+13.02.2026,cracked texture,KYD2801,1,0,accept
+13.02.2026,icon,KYD2801,1,0,accept
+13.02.2026,halo,KYD2801,1,0,accept
+13.02.2026,red robe,KYD2801,1,0,accept
+13.02.2026,virgin mary,KYD2801,1,0,accept
+13.02.2026,baby,KYD2801,1,0,accept
+13.02.2026,religious painting,KYD2802,1,0,accept
+13.02.2026,icon,KYD2802,1,0,accept
+13.02.2026,heart with a cross,KYD2802,0,0,unknown
+13.02.2026,radiant sunburst pattern,KYD2802,0,1,reject
+13.02.2026,red robe,KYD2802,1,0,accept
+13.02.2026,jesus christ,KYD2802,1,0,accept
+13.02.2026,painted icon,KYD2803,1,0,accept
+13.02.2026,blessed virgin with a baby,KYD2803,1,0,accept
+13.02.2026,black border,KYD2803,1,0,accept
+13.02.2026,red robe with gold trim,KYD2803,1,0,accept
+13.02.2026,yellow inner border,KYD2803,1,0,accept
+13.02.2026,golden halo,KYD2803,1,0,accept
+13.02.2026,blue inner garment,KYD2803,1,0,accept
+13.02.2026,icon,KYD2803,1,0,accept
+13.02.2026,cracks,KYD2803,1,0,accept
+13.02.2026,baby,KYD2803,1,0,accept
+13.02.2026,virgin mary,KYD2803,1,0,accept
+13.02.2026,infant jesus,KYD2803,1,0,accept
+13.02.2026,flaking paint,KYD2803,1,0,accept
+13.02.2026,blessed virgin,KYD2803,1,0,accept
+13.02.2026,women,KYD2804,3,0,accept
+13.02.2026,traditional folk attire,KYD2804,3,0,accept
+13.02.2026,house,KYD2804,3,0,accept
+13.02.2026,dark horse,KYD2804,3,0,accept
+13.02.2026,children,KYD2804,3,0,accept
+13.02.2026,"colorful, patterned clothing",KYD2804,3,0,accept
+13.02.2026,men,KYD2804,3,0,accept
+13.02.2026,white horse,KYD2804,3,0,accept
+13.02.2026,wedding,KYD2804,3,0,accept
+13.02.2026,church,KYD2804,2,0,accept
+13.02.2026,red roof,KYD2804,3,0,accept
+13.02.2026,two horses,KYD2804,3,0,accept
+13.02.2026,two-horse cart,KYD2804,3,0,accept
+13.02.2026,damage on the surface,KYD2804,3,0,accept
+13.02.2026,painting,KYD2804,3,0,accept
+13.02.2026,buildings,KYD2804,2,0,accept
+13.02.2026,visible cracks,KYD2804,3,0,accept
+13.02.2026,flowering tree,KYD2805,3,0,accept
+13.02.2026,girl,KYD2805,2,1,accept
+13.02.2026,traditional folk attire,KYD2805,3,0,accept
+13.02.2026,man,KYD2805,3,0,accept
+13.02.2026,small bouquet,KYD2805,3,0,accept
+13.02.2026,two small houses,KYD2805,3,0,accept
+13.02.2026,young man with a girl,KYD2805,3,0,accept
+13.02.2026,small body of water,KYD2805,2,0,accept
+13.02.2026,visible signs of age and wear,KYD2805,2,0,accept
+13.02.2026,tall trees,KYD2805,3,0,accept
+13.02.2026,bouquet of flowers,KYD2805,3,0,accept
+13.02.2026,woman,KYD2805,3,0,accept
+13.02.2026,painting,KYD2805,3,0,accept
+19.03.2026,waves,KYD2815,3,0,accept
+13.02.2026,cossacks on ships,KYD2815,2,0,accept
+13.02.2026,painting,KYD2815,3,0,accept
+13.02.2026,birds,KYD2815,3,0,accept
+13.02.2026,white flag,KYD2815,3,0,accept
+13.02.2026,group of people,KYD2815,3,0,accept
+13.02.2026,wear,KYD2815,0,1,reject
+13.02.2026,one person holding white flag,KYD2815,3,0,accept
+13.02.2026,depiction,KYD2815,0,1,reject
+13.02.2026,signs of age,KYD2815,2,0,accept
+13.02.2026,crowded figures,KYD2815,2,0,accept
+13.02.2026,wooden boats,KYD2815,3,0,accept
+13.02.2026,yellow emblem,KYD2815,3,0,accept
+13.02.2026,portrait,KYD2816,3,0,accept
+13.02.2026,man,KYD2816,3,0,accept
+13.02.2026,taras shevchenko,KYD2816,3,0,accept
+13.02.2026,fur collar,KYD2816,2,0,accept
+13.02.2026,dark coat,KYD2816,3,0,accept
+13.02.2026,"thick, curly black wig",KYD2816,0,1,reject
+13.02.2026,cracks,KYD2816,3,0,accept
+13.02.2026,blue oval frame,KYD2816,2,1,accept
+13.02.2026,visible grain,KYD2816,2,1,accept
+13.02.2026,portrait of taras shevchenko,KYD2816,3,0,accept
+13.02.2026,mustache,KYD2816,3,0,accept
+13.02.2026,cream-colored vest,KYD3020,3,0,accept
+13.02.2026,diamonds,KYD3020,0,0,unknown
+13.02.2026,red geometric embroidery,KYD3020,0,1,reject
+13.02.2026,white blouse,KYD3020,3,0,accept
+13.02.2026,colorful patterned headscarf,KYD3020,3,0,accept
+13.02.2026,woman,KYD3020,3,0,accept
+13.02.2026,red and black striped skirt,KYD3020,3,0,accept
+13.02.2026,piece of fabric,KYD3020,3,0,accept
+13.02.2026,white laced-up boots,KYD3020,0,1,reject
+13.02.2026,small trees,KYD3020,0,1,reject
+13.02.2026,hutsulka,KYD3020,3,0,accept
+13.02.2026,green patch of grass,KYD3020,3,0,accept
+13.02.2026,traditional attire,KYD3020,2,0,accept
+13.02.2026,painted portrait,KYD3020,2,0,accept
+13.02.2026,river,KYD495,3,0,accept
+13.02.2026,houses,KYD495,3,0,accept
+13.02.2026,bridge,KYD495,3,0,accept
+13.02.2026,bushes,KYD495,2,0,accept
+13.02.2026,trees,KYD495,3,0,accept
+13.02.2026,signs of age,KYD495,3,0,accept
+13.02.2026,boat,KYD495,3,0,accept
+13.02.2026,swans,KYD495,3,0,accept
+13.02.2026,wear,KYD495,0,1,reject
+13.02.2026,a village,KYD495,3,0,accept
+13.02.2026,village,KYD495,3,0,accept
+13.02.2026,painted landscape,KYD495,3,0,accept
+13.02.2026,birch tree,KYD495,3,0,accept
