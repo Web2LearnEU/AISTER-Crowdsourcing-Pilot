@@ -42,12 +42,77 @@ The folk art paintings can be explored as a public gallery on Europeana: https:/
 The institution providing the collection and metadata is the [Online Museum of the traditional art of Ukraine - KROVETS](https://krovets.ua/en). The aggregator gathering the content is [MUSEU](https://www.museuhub.eu/en/1/home). The platform for accessing the collection is [Europeana](https://www.europeana.eu/en). 
 
 ## Technical Aspects
-…
 
-The CSV file contains the following metadata:
+### Step 1:
+The `krovets_folk_metadata.csv` file contains metadata for the 312 records concerning folk paintings and icons retrieved using the Europeana API such as title, description, creator and image URL. The generated `krovets_folk_tags.csv` contains the NLP generated tags (figures, objects, scenes) for each of the 312 records.
 
+### Step 2:
+The `captions.csv` file contains the captions created for each of the records through machine vision. The `tags.csv` file has all the candidate tags produced by the image caption (figures, objects, scenes, background, attire, text, damage).
 
-…
+### Step 3:
+In step 3 there are **4 separate CSV files** for each of the events. The files contain info about each user annotation on a tag, such as upvotes and downvotes and eventual approval or disapproval of the tag depending on the difference between them.
+
+In order to correctly display the CSV files and the registered records, it is suggested to use Libre or Open Office. The recommended setup for a properly display of the CSV file can be adjusted in the import popup window: 'Character set' to 'Unicode (UTF-8)', the separator options 'Tab', 'Comma' and 'Semicolon' should be selected and the 'Column type' of Column A (Record ID) should be changed from 'Standard' to 'Text'.
+
+### Analytical information about each CSV file:
+`KROVETS_FOLK_METADATA.CSV`
+|Column name|Description|
+|--|--|
+|europeana_id|Item's id on Europeana|
+|Title|Item's title|
+|Description|A description about what is depicted in the record, materials, timespan, place of origin etc.|
+|ImageLink|The item's image URL|
+|Creator|Creator of the depicted artifact (if they're known)|
+|Subject|Ethnographical region of origin & Item's category|
+|Type of Item|Type of the depicted artefact (e.g. painting, clothing)|
+|Medium|Materials used for crafting the item|
+|Providing Institution|All items are provided by the [Online Museum of the traditional art of Ukraine - KROVETS](https://krovets.ua/en)|
+|Aggregator|Items are gathered by [MUSEU](https://www.museuhub.eu/en/1/home)|
+|Rights statement|Rights statement for each record|
+|Creation date|Estimated timespan of the record (e.g. 20th century)|
+|Places|Regions-oblasts where items originate from|
+|Identifier|Record identifier on Europeana in the form of **/{collection_id}/{item_id}**|
+|Is Part Of|All items are part of 1413_KROVETS_Museum|
+|Providing Country|Country providing the record, in this case all items are from Ukraine|
+|Collection Name|Same as Is Part Of|
+|First time published on Europeana|Timestamp of when the item was first published on Europeana|
+|Last time updated from providing institution|Timestamp of when the item was last updated on Europeana by its provider|
+
+`KROVETS_FOLK_TAGS.CSV`
+|Column name|Description|
+|--|--|
+|europeana_id|Item's id on Europeana|
+|Figures|Persons that can be visibly seen in each painting|
+|Objects|Items such as materials that are depicted|
+|Scenes|Actions, context or anything in the background that is clearly depicted|
+
+`CAPTIONS.CSV`
+|Column name|Description|
+|--|--|
+|image_id|Id of the image's item|
+|Caption|Caption generated for each painting through machine vision|
+
+`TAGS.CSV`
+|Column name|Description|
+|--|--|
+|image_id|Id of the image's item|
+|figures|Person(s) visible on the image|
+|objects|Items depicted on the image|
+|scenes|Context of the image, scenery depicted|
+|background|What can be seen in the background|
+|attire|Clothing used by the persons depicted|
+|text|Any text depicted on the painting|
+|damage|Signs of damage on the artefact|
+
+`*_UKRAINIAN-FOLKART-ANNOTATIONS.CSV`
+|Column name|Description|
+|--|--|
+|created|Date of creation for the annotation|
+|value|Tag evaluated|
+|europeana_id|Id of the item possessing the tag|
+|upvotes|Amount of upvotes by users|
+|downvotes|Amount of downvotes by users|
+|recommendation|**'accept'** if upvotes >= downvotes else **'reject'**|
 
 ## License    
 This data repository is released under the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) licence. The Krovets ethnographic collection is published under a [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) licence. All accompanying metadata are released into the public domain using [CC0](https://creativecommons.org/public-domain/cc0/), to be freely copied, modified, distributed and reused. 
