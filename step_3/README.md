@@ -1,30 +1,25 @@
-# Step 3 - Crowdsourcing annotation exports
+# Step 3 - Export crowdsourcing annotations (JSON → CSV)
 
-Step 3 turns **Web Annotation** JSON exports from the Ukrainian folk art crowdsourcing campaign into **tabular CSVs** for analysis.
+Convert **Web Annotation** JSON exports from the Ukrainian folk art crowdsourcing campaign into an analysis-ready **CSV**.
 
-Event exports are **incremental snapshots**: each later event already includes prior votes. In practice, the 4th event export contains all votes from events 1-4.
-
-## Notebooks
-
-- `notebooks/step_3-01_create_annotations_csv.ipynb`: Read a JSON export (`@graph`), normalize fields (`europeana_id`, `value`, votes, `recommendation`), and write one CSV export.
-- `notebooks/step_3-02_event_stats.ipynb`: Read all per-event CSV exports from `outputs/` and compute event-level summary stats.
+Event exports are cumulative snapshots. Later events already include earlier votes, so the latest event export contains the full vote set.
 
 ## Layout
 
 ```text
 step_3/
   data/
-    *_ukrainian-folkart_annotations.json   # Web Annotation exports (input)
+    *_ukrainian-folkart_annotations.json   # event export JSON files (e.g. 1_..., 2_..., 3_...)
   notebooks/
-    step_3-01_create_annotations_csv.ipynb
-    step_3-02_event_stats.ipynb
+    step_3-01_create_annotations_csv.ipynb  # JSON → CSV
   outputs/
-    *_ukrainian-folkart-annotations.csv     # one CSV per export / event
+    *_ukrainian-folkart-annotations.csv     # one CSV per event export (e.g. 1_..., 2_..., 3_...)
 ```
 
 ## Usage
 
-- Run in **Google Colab** or **local Jupyter** with `pandas` installed. Both notebooks include a short setup cell for `BASE_DIR` (and optional Drive mount in Colab).
-- Use `step_3-01_create_annotations_csv.ipynb` to convert a JSON export (`INPUT_JSON`) into CSV.
-- Use `step_3-02_event_stats.ipynb` to summarize all event CSVs in `outputs/`.
+- Open `notebooks/step_3-01_create_annotations_csv.ipynb` in **Google Colab** or **local Jupyter** (requires `pandas`).
+- In the setup cell, set `BASE_DIR` to your local repo path (or mount Drive in Colab).
+- Set `INPUT_JSON` to the export you want to convert (typically the latest event, e.g. `data/4_ukrainian-folkart_annotations.json`).
+- Run all cells to write the CSV into `outputs/` (e.g. `outputs/4_ukrainian-folkart-annotations.csv`).
 
