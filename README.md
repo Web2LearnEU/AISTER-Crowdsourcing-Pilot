@@ -40,8 +40,10 @@ The Krovets ethnographic collection contains 3840 artefacts of Ukrainian traditi
 The pilot focuses on the folk paintings subset of the Krovets collection, which contains 312 folk art paintings depicting scenes from everyday rural life and religious themes. In some cases, they depict historical figures (e.g. Taras Shevchenko). The artefacts were collected as part of a private initiative to preserve Ukrainian cultural heritage. 
 The folk art paintings can be explored as a public gallery on Europeana: https://www.europeana.eu/en/galleries/26106-ukrainian-folk-art 
 
-## Provenance
-The institution providing the collection and metadata is the [Online Museum of the traditional art of Ukraine - KROVETS](https://krovets.ua/en). The aggregator gathering the content is [MUSEU](https://www.museuhub.eu/en/1/home). The platform for accessing the collection is [Europeana](https://www.europeana.eu/en). 
+## Data Infrastructures and Provenance
+The institution providing the ethnographic collection and metadata is the [Online Museum of the traditional art of Ukraine - KROVETS](https://krovets.ua/en). The aggregator gathering the content and metadata is [MUSEU](https://www.museuhub.eu/en/1/home). The platform for accessing the [collection of 3840 artefacts](https://www.europeana.eu/en/search?page=1&query=europeana_collectionName%3A%221413_KROVETS_Museum%22) and the [folk art subcollection gallery of 312 artefacts](https://www.europeana.eu/en/galleries/26106-ukrainian-folk-art) is [Europeana](https://www.europeana.eu/en). The platform for running the crowdsourcing campaign is [CrowdHeritage](https://crowdheritage.eu) maintained by [Datoptron](link:https://datoptron.com/).  
+The pilot is developed by [Web2Learn](https://web2learn.eu), using [Google Colab/Jupyter Notebook](https://colab.research.google.com) for writing executable code, [GitHub](https://github.com/) for version control and code sharing, [Zenodo](https://zenodo.org/) open repository for long-term preservation of the dataset and related digital scholarship, and [Tableau](https://www.tableau.com/products/desktop) for data modelling and visual analytics.
+5 crowdsourcing workshops and events in total are organised to perform human-in-the-loop tasks: 4 are organised by [Web2Learn](https://web2learn.eu), 3 online and 1 onsite at the Library of the University of Latvia, and 1 online workhsop is organised by [Young Folks](https://youngfolks.lv/eng) and the [Institute of Literature, Folklore and Art at the University of Latvia](https://www.lu.lv/en/about-us/structure/institutes/ul-institute-of-literature-folklore-and-art/). 
 
 ## Technical Aspects
 
@@ -55,7 +57,7 @@ The `captions.csv` file contains captions generated for each record using machin
 
 ### Step 3:
 README for step 3: `step_3/README.md`
-In step 3, there are **4 separate CSV files** for each event plus one combined csv file for all events. The files contain info about each user annotation, such as upvotes and downvotes and eventual approval or disapproval of the annotation depending on the difference between them.
+In step 3, there are **6 separate CSV files**, 5 capturing data from an event plus one combined csv file for all events. The files contain info about each user annotation, such as upvotes and downvotes and eventual approval or disapproval of the annotation depending on the difference between them.
 
 In order to correctly display the CSV files and the registered records, it is suggested to use Libre or Open Office. The recommended setup for a properly display of the CSV file can be adjusted in the import popup window: 'Character set' to 'Unicode (UTF-8)', the separator options 'Tab', 'Comma' and 'Semicolon' should be selected and the 'Column type' of Column A (Record ID) should be changed from 'Standard' to 'Text'.
 
@@ -164,7 +166,7 @@ The GitHub repository of Web2Learn follows the [Contributor Covenant](https://ww
 ## Project attribution
 [Web2Learn](https://web2learn.eu/)  
 
-[Mariana Ziku](https://web2learn.eu/mariana-ziku/): Researcher  
+[Mariana Ziku](https://web2learn.eu/mariana-ziku/): Lead Researcher  
 [Andreas Kouzelis](https://web2learn.eu/andreas-kouzelis/): Information Systems Εngineer  
 [Andreas Darsaklis](https://web2learn.eu/andreas-darsaklis/): IT trainee  
 [Dr Katerina Zourou](https://web2learn.eu/katerina-zourou/): Director
