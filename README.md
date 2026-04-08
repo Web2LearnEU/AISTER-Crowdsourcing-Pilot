@@ -18,17 +18,16 @@ The repository is designated as an open-source resource for digital humanities r
 
 ## Repository description
 The pilot consists of 3 technical steps, each documented in its respective folder within this repository *(step_1, step_2, step 3)*. Each step folder includes:
-- 2 subfolders: *notebooks* and *outputs*
-- 2 text files detailing the full technical stack and a structured report
-The *notebooks* folder contains executable code in Jupyter Notebook (.ipynb) format, while the *outputs* folder includes the resulting files generated from running the notebooks (CSV and JSON).
+- 2 text files detailing the full technical stack and a structured report for the step.
+- 2 subfolders: *notebooks* and *outputs* The *notebooks* folder contains executable code in Jupyter Notebook (.ipynb) format, while the *outputs* folder includes the resulting files generated from running the notebooks (CSV and JSON).
 
 ## Workflow overview  
 *Step 1*: Annotation generation from text (NLP-based)  
-- Retrieve metadata (titles, descriptions) from the Europeana API  
-- Generate annotations from the text using NLP (NER) with spaCy
+- Retrieve textual metadata (e.g., titles, descriptions) of artefacts from the Europeana API  
+- Generate annotations (description tags) from the metadata using NLP (NER) with spaCy
   
 *Step 2*: Annotation generation from images (computer vision-based)  
-- Download images from the dataset  
+- Download the artefacts as images
 - Generate image captions using computer vision  
 - Generate annotations from the image captions
   
@@ -164,12 +163,18 @@ This data repository is released under the [Apache 2.0](https://www.apache.org/l
 The GitHub repository of Web2Learn follows the [Contributor Covenant](https://www.contributor-covenant.org/) to be overt in its openness, welcoming all people to engage and contribute, pledging in return to value them. To make our open communities welcoming, diverse, and inclusive, we are encouraging the adoption of a mindful code of conduct to express and share those values. Any unacceptable behaviour, such as trolling, insulting/derogatory comments, or personal or political attacks, will not be tolerated. The Contributor Covenant is released under the Creative Commons Attribution 4.0 International Public License.
 
 ## Project attribution
-[Web2Learn](https://web2learn.eu/)  
-
+[Web2Learn](https://web2learn.eu/):  
 [Mariana Ziku](https://web2learn.eu/mariana-ziku/): Lead Researcher  
 [Andreas Kouzelis](https://web2learn.eu/andreas-kouzelis/): Information Systems Εngineer  
 [Andreas Darsaklis](https://web2learn.eu/andreas-darsaklis/): IT trainee  
-[Dr Katerina Zourou](https://web2learn.eu/katerina-zourou/): Director
+[Stefania Oikonomou](web2learn.eu/stefania-oikonomou/): Research collaborator
+[Katerina Zourou](https://web2learn.eu/katerina-zourou/): Director
+
+Collaborators:
+[Yevgen Dmytruk](https://www.linkedin.com/in/yevgen-dmytruk-12256725a/), Director, [Krovets Online-museum of Traditional Art of Ukraine](https://krovets.ua/en)
+[Eirini Kaldeli](https://datoptron.com/aboutus), Co-Founder & Software Engineer [Datoptron](https://datoptron.com/), and [CrowdHeritage](https://crowdheritage.eu/) 
+[Hugo Manguinhas](https://pro.europeana.eu/person/hugo-manguinhas), Head of Engineering, [Europeana Foundation](https://pro.europeana.eu/about-us/foundation)
+[Sanita Reinsone](https://research.lu.lv/en/persons/sanita-reinsone/), Associate Professor, [Faculty of Humanities](https://research.lu.lv/en/organisations/faculty-of-humanities/), University of Latvia
 
 ## Cite this dataset
 When referring to or using the data repository in research publications and documentation, cite the dataset using its digital object identifier (DOI) minted on Zenodo. Citing the dataset from the HITL crowdsourcing pilot creates a mapping of attribution that supports future efforts to release other datasets. It also reduces the amount of "orphaned data," helping to retain source links.  
