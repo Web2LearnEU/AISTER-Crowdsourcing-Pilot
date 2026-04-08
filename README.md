@@ -177,12 +177,12 @@ Collaborators:
 [Hugo Manguinhas](https://pro.europeana.eu/person/hugo-manguinhas), Head of Engineering, [Europeana Foundation](https://pro.europeana.eu/about-us/foundation)  
 
 Workshop facilitators:  
-[Sanita Reinsone](https://research.lu.lv/en/persons/sanita-reinsone/), Associate Professor, [Faculty of Humanities](https://research.lu.lv/en/organisations/faculty-of-humanities/), University of Latvia  
+[Sanita Reinsone](https://research.lu.lv/en/persons/sanita-reinsone/), Associate Professor, Faculty of Humanities, University of Latvia  
 [Lyudmyla Kruhlenko](https://www.linkedin.com/in/lyudmila-kruhlenko-34905986/), Associate Professor, Pryazovskyi State Technical University  
 [Anna Shilinh](https://wiki.lpnu.ua/wiki/%D0%A8%D1%96%D0%BB%D1%96%D0%BD%D0%B3_%D0%90%D0%BD%D0%BD%D0%B0_%D0%AE%D1%80%D1%96%D1%97%D0%B2%D0%BD%D0%B0), Scientist and Assistant, Lviv Polytechnic National University  
 Olha Hapii, [Stand with Ukraine Foundation](https://www.standwukraine.org/en/homepage/)  
 [Alina Tsurkalenko](https://www.linkedin.com/in/alina-tsurkalenko-a69465243/)  
-[Ilze Ļaksa-Timinska](https://lulfmi.lv/en/members/ilze-laksa-timinska), Researcher, [Institute of Literature, Folklore and Art, University of Latvia](https://research.lu.lv/lv/organisations/institute-of-literature-folklore-and-art-university-of-latvia/)  
+[Ilze Ļaksa-Timinska](https://lulfmi.lv/en/members/ilze-laksa-timinska), Researcher, Institute of Literature, Folklore and Art, University of Latvia  
 [Uldis Zarinš](https://pro.europeana.eu/person/uldis-zarins), Deputy State Secretary, Ministry of Culture, Latvia  
 [Konstantine Gagnidze](https://www.linkedin.com/in/konstantine-gagnidze/), Senior Project Manager, Young Folks LV  
 
