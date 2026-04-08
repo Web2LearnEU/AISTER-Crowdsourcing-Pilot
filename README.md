@@ -163,18 +163,19 @@ This data repository is released under the [Apache 2.0](https://www.apache.org/l
 The GitHub repository of Web2Learn follows the [Contributor Covenant](https://www.contributor-covenant.org/) to be overt in its openness, welcoming all people to engage and contribute, pledging in return to value them. To make our open communities welcoming, diverse, and inclusive, we are encouraging the adoption of a mindful code of conduct to express and share those values. Any unacceptable behaviour, such as trolling, insulting/derogatory comments, or personal or political attacks, will not be tolerated. The Contributor Covenant is released under the Creative Commons Attribution 4.0 International Public License.
 
 ## Project attribution
-[Web2Learn](https://web2learn.eu/):  
+[Web2Learn](https://web2learn.eu/):   
+
 [Mariana Ziku](https://web2learn.eu/mariana-ziku/): Lead Researcher  
 [Andreas Kouzelis](https://web2learn.eu/andreas-kouzelis/): Information Systems Εngineer  
 [Andreas Darsaklis](https://web2learn.eu/andreas-darsaklis/): IT trainee  
-[Stefania Oikonomou](web2learn.eu/stefania-oikonomou/): Research collaborator
+[Stefania Oikonomou](web2learn.eu/stefania-oikonomou/): Research collaborator  
 [Katerina Zourou](https://web2learn.eu/katerina-zourou/): Director
 
 Collaborators:
-[Yevgen Dmytruk](https://www.linkedin.com/in/yevgen-dmytruk-12256725a/), Director, [Krovets Online-museum of Traditional Art of Ukraine](https://krovets.ua/en)
-[Eirini Kaldeli](https://datoptron.com/aboutus), Co-Founder & Software Engineer [Datoptron](https://datoptron.com/), and [CrowdHeritage](https://crowdheritage.eu/) 
-[Hugo Manguinhas](https://pro.europeana.eu/person/hugo-manguinhas), Head of Engineering, [Europeana Foundation](https://pro.europeana.eu/about-us/foundation)
-[Sanita Reinsone](https://research.lu.lv/en/persons/sanita-reinsone/), Associate Professor, [Faculty of Humanities](https://research.lu.lv/en/organisations/faculty-of-humanities/), University of Latvia
+[Yevgen Dmytruk](https://www.linkedin.com/in/yevgen-dmytruk-12256725a/), Director, [Krovets Online-museum of Traditional Art of Ukraine](https://krovets.ua/en)  
+[Eirini Kaldeli](https://datoptron.com/aboutus), Co-Founder & Software Engineer [Datoptron](https://datoptron.com/), and [CrowdHeritage](https://crowdheritage.eu/)  
+[Hugo Manguinhas](https://pro.europeana.eu/person/hugo-manguinhas), Head of Engineering, [Europeana Foundation](https://pro.europeana.eu/about-us/foundation)  
+[Sanita Reinsone](https://research.lu.lv/en/persons/sanita-reinsone/), Associate Professor, [Faculty of Humanities](https://research.lu.lv/en/organisations/faculty-of-humanities/), University of Latvia  
 
 ## Cite this dataset
 When referring to or using the data repository in research publications and documentation, cite the dataset using its digital object identifier (DOI) minted on Zenodo. Citing the dataset from the HITL crowdsourcing pilot creates a mapping of attribution that supports future efforts to release other datasets. It also reduces the amount of "orphaned data," helping to retain source links.  
