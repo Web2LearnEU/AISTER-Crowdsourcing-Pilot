@@ -18,7 +18,7 @@ The repository is designated as an open-source resource for digital humanities r
 
 ## Repository description
 The pilot consists of 3 technical steps, each documented in its respective folder within this repository *(step_1, step_2, step 3)*. Each step folder includes:
-- 2 text files detailing the full technical stack and a structured report for the step.
+- 2 text files detailing the full technical stack and a structured report for each step.
 - 2 subfolders: *notebooks* and *outputs* The *notebooks* folder contains executable code in Jupyter Notebook (.ipynb) format, while the *outputs* folder includes the resulting files generated from running the notebooks (CSV and JSON).
 
 ## Workflow overview  
