@@ -163,7 +163,7 @@ This data repository is released under the [Apache 2.0](https://www.apache.org/l
 The GitHub repository of Web2Learn follows the [Contributor Covenant](https://www.contributor-covenant.org/) to be overt in its openness, welcoming all people to engage and contribute, pledging in return to value them. To make our open communities welcoming, diverse, and inclusive, we are encouraging the adoption of a mindful code of conduct to express and share those values. Any unacceptable behaviour, such as trolling, insulting/derogatory comments, or personal or political attacks, will not be tolerated. The Contributor Covenant is released under the Creative Commons Attribution 4.0 International Public License.
 
 ## Project attribution
-[Web2Learn](https://web2learn.eu/):   
+[Web2Learn](https://web2learn.eu/) team:   
 
 [Mariana Ziku](https://web2learn.eu/mariana-ziku/): Lead Researcher  
 [Andreas Kouzelis](https://web2learn.eu/andreas-kouzelis/): Information Systems Εngineer  
@@ -178,10 +178,13 @@ Collaborators:
 
 Workshop facilitators:  
 [Sanita Reinsone](https://research.lu.lv/en/persons/sanita-reinsone/), Associate Professor, [Faculty of Humanities](https://research.lu.lv/en/organisations/faculty-of-humanities/), University of Latvia  
-[Lyudmyla Kruhlenko](https://www.linkedin.com/in/lyudmila-kruhlenko-34905986/), Associate Professor, Pryazovskyi State Technical University [Anna Shilinh](https://wiki.lpnu.ua/wiki/%D0%A8%D1%96%D0%BB%D1%96%D0%BD%D0%B3_%D0%90%D0%BD%D0%BD%D0%B0_%D0%AE%D1%80%D1%96%D1%97%D0%B2%D0%BD%D0%B0), Scientist and Assistant, Lviv Polytechnic National University  
+[Lyudmyla Kruhlenko](https://www.linkedin.com/in/lyudmila-kruhlenko-34905986/), Associate Professor, Pryazovskyi State Technical University  
+[Anna Shilinh](https://wiki.lpnu.ua/wiki/%D0%A8%D1%96%D0%BB%D1%96%D0%BD%D0%B3_%D0%90%D0%BD%D0%BD%D0%B0_%D0%AE%D1%80%D1%96%D1%97%D0%B2%D0%BD%D0%B0), Scientist and Assistant, Lviv Polytechnic National University  
 Olha Hapii, [Stand with Ukraine Foundation](https://www.standwukraine.org/en/homepage/)  
-[Alina Tsurkalenko], (https://www.linkedin.com/in/alina-tsurkalenko-a69465243/)  
-[Ilze Ļaksa-Timinska](https://lulfmi.lv/en/members/ilze-laksa-timinska), Researcher, [Institute of Literature, Folklore and Art, University of Latvia](https://research.lu.lv/lv/organisations/institute-of-literature-folklore-and-art-university-of-latvia/). 
+[Alina Tsurkalenko](https://www.linkedin.com/in/alina-tsurkalenko-a69465243/)  
+[Ilze Ļaksa-Timinska](https://lulfmi.lv/en/members/ilze-laksa-timinska), Researcher, [Institute of Literature, Folklore and Art, University of Latvia](https://research.lu.lv/lv/organisations/institute-of-literature-folklore-and-art-university-of-latvia/)  
+[Uldis Zarinš](https://pro.europeana.eu/person/uldis-zarins), Deputy State Secretary, Ministry of Culture, Latvia  
+[Konstantine Gagnidze](https://www.linkedin.com/in/konstantine-gagnidze/), Senior Project Manager, Young Folks LV  
 
 ## Cite this dataset
 When referring to or using the data repository in research publications and documentation, cite the dataset using its digital object identifier (DOI) minted on Zenodo. Citing the dataset from the HITL crowdsourcing pilot creates a mapping of attribution that supports future efforts to release other datasets. It also reduces the amount of "orphaned data," helping to retain source links.  
