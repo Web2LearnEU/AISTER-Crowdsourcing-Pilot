@@ -164,11 +164,11 @@ The GitHub repository of Web2Learn follows the [Contributor Covenant](https://ww
 
 ## Project attribution
 [Web2Learn](https://web2learn.eu/) pilot team:   
-[Mariana Ziku](https://web2learn.eu/mariana-ziku/): Lead Researcher  
-[Andreas Kouzelis](https://web2learn.eu/andreas-kouzelis/): Information Systems Εngineer  
-[Andreas Darsaklis](https://web2learn.eu/andreas-darsaklis/): IT trainee  
-[Stefania Oikonomou](web2learn.eu/stefania-oikonomou/): Research collaborator  
-[Katerina Zourou](https://web2learn.eu/katerina-zourou/): Director
+[Mariana Ziku](https://web2learn.eu/mariana-ziku/), Lead Researcher  
+[Andreas Kouzelis](https://web2learn.eu/andreas-kouzelis/), Information Systems Εngineer  
+[Andreas Darsaklis](https://web2learn.eu/andreas-darsaklis/), IT trainee  
+[Stefania Oikonomou](web2learn.eu/stefania-oikonomou/), Research collaborator  
+[Katerina Zourou](https://web2learn.eu/katerina-zourou/), Director
 
 Collaborators:  
 [Yevgen Dmytruk](https://www.linkedin.com/in/yevgen-dmytruk-12256725a/), Director, [Krovets Online-museum of Traditional Art of Ukraine](https://krovets.ua/en)  
