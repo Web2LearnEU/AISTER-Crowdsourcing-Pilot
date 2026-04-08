@@ -171,7 +171,7 @@ The GitHub repository of Web2Learn follows the [Contributor Covenant](https://ww
 [Stefania Oikonomou](web2learn.eu/stefania-oikonomou/): Research collaborator  
 [Katerina Zourou](https://web2learn.eu/katerina-zourou/): Director
 
-Collaborators:
+Collaborators:  
 [Yevgen Dmytruk](https://www.linkedin.com/in/yevgen-dmytruk-12256725a/), Director, [Krovets Online-museum of Traditional Art of Ukraine](https://krovets.ua/en)  
 [Eirini Kaldeli](https://datoptron.com/aboutus), Co-Founder & Software Engineer [Datoptron](https://datoptron.com/), and [CrowdHeritage](https://crowdheritage.eu/)  
 [Hugo Manguinhas](https://pro.europeana.eu/person/hugo-manguinhas), Head of Engineering, [Europeana Foundation](https://pro.europeana.eu/about-us/foundation)  
