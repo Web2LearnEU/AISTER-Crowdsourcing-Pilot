@@ -190,7 +190,7 @@ When referring to or using the data repository in research publications and docu
 Cite the repository as: Ziku, M., Kouzelis, A., Darsaklis, A. & Zourou, K. (2026). The AISTER Human-In-The-Loop Crowdsourcing Pilot [Dataset]. Zenodo. 
 
 ## Acknowledgements
-This README file follows the structure of the *KU Leuven Libraries* Git-based dataset documentation, i.e., https://github.com/KU-Leuven-Libraries/Portraits-Collection-Dataset. See: KU Leuven Libraries, Digitisation Department. (2019). The Portraits Collection Dataset of KU Leuven Libraries, Special Collections (Version 01-beta2) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3460785.  
+This README file adopts the structure of the *KU Leuven Libraries* Git-based dataset documentation, i.e., https://github.com/KU-Leuven-Libraries/Portraits-Collection-Dataset. See: KU Leuven Libraries, Digitisation Department. (2019). The Portraits Collection Dataset of KU Leuven Libraries, Special Collections (Version 01-beta2) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3460785.  
 
 The documentation of the Jupyter Notebooks follows the criteria of quality assessment for Jupyter projects by GLAM institutions, as published in Candela, G., Chambers, S., & Sherratt, T. (2023). An approach to assess the quality of Jupyter projects published by GLAM institutions. *Journal of the Association for Information Science and Technology*, 74(13), 1550–1564. https://doi.org/10.1002/asi.24835
 
