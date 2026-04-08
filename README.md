@@ -3,7 +3,7 @@
 
 # AISTER Human-In-The-Loop Crowdsourcing Pilot
 
-*The repository contains the complete workflow, actionable code in notebooks and output files for:
+The repository contains the complete workflow, actionable code in notebooks and output files for:
 1. Automatically generating annotations (description tags) for artefacts on **Europeana** using AI tools (natural language processing, computer vision) and Europeana APIs, and
 2. Developing a human-in-the-loop crowdsourcing campaign on the **CrowdHeritage** platform to validate the annotations, also enabling participants to contribute additional user-generated annotations.  
 
