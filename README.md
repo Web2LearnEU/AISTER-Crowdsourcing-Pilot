@@ -5,7 +5,7 @@
 
 *The repository contains the complete workflow, actionable code in notebooks and output files for:
 1. Automatically generating annotations (description tags) for artefacts on **Europeana** using AI tools (natural language processing, computer vision) and Europeana APIs, and
-2. Developing a human-in-the-loop crowdsourcing campaign on the **CrowdHeritage** platform to validate the annotations, also enabling participants to contribute additional user-generated annotations.*  
+2. Developing a human-in-the-loop crowdsourcing campaign on the **CrowdHeritage** platform to validate the annotations, also enabling participants to contribute additional user-generated annotations.  
 
 ##  Pilot description
 This case study forms a small-scale exploratory pilot within the field of Digital Humanities / Cultural Heritage Informatics, operationalising and analysing a **human-in-the-loop (HITL) crowdsourcing framework for metadata enrichment in Europeana collections**. 
@@ -38,7 +38,7 @@ The *notebooks* folder contains executable code in Jupyter Notebook (.ipynb) for
 ## Applied heritage collection: The Krovets ethnographic collection  
 The Krovets ethnographic collection contains 3840 artefacts of Ukrainian traditional art and life spanning the 19th and 20th centuries. It is part of the Krovets Online Museum of Traditional Art of Ukraine (https://krovets.ua/en). The collection includes a variety of different artefacts, from everyday objects like utensils and clothing to folk art.  
 The pilot focuses on the folk paintings subset of the Krovets collection, which contains 312 folk art paintings depicting scenes from everyday rural life and religious themes. In some cases, they depict historical figures (e.g. Taras Shevchenko). The artefacts were collected as part of a private initiative to preserve Ukrainian cultural heritage. 
-The folk art paintings can be explored as a public gallery on Europeana: https://www.europeana.eu/en/galleries/26106-ukrainian-folk-art?page=4 
+The folk art paintings can be explored as a public gallery on Europeana: https://www.europeana.eu/en/galleries/26106-ukrainian-folk-art 
 
 ## Provenance
 The institution providing the collection and metadata is the [Online Museum of the traditional art of Ukraine - KROVETS](https://krovets.ua/en). The aggregator gathering the content is [MUSEU](https://www.museuhub.eu/en/1/home). The platform for accessing the collection is [Europeana](https://www.europeana.eu/en). 
