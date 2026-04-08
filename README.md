@@ -46,13 +46,16 @@ The institution providing the collection and metadata is the [Online Museum of t
 ## Technical Aspects
 
 ### Step 1:
+README for step 1: `step_1/README.md`
 The `krovets_folk_metadata.csv` file contains metadata for the 312 records concerning folk paintings and icons retrieved using the Europeana API such as title, description, creator and image URL. The generated `krovets_folk_tags.csv` contains the NLP-generated tags (figures, objects, scenes) for each of the 312 records.
 
 ### Step 2:
+README for step 2: `step_2/README.md`
 The `captions.csv` file contains captions generated for each record using machine vision. The `tags.csv` file contains all candidate tags generated from the image caption (figures, objects, scenes, background, attire, text, damage).
 
 ### Step 3:
-In step 3, there are **5 separate CSV files** for each event. The files contain info about each user annotation, such as upvotes and downvotes and eventual approval or disapproval of the annotation depending on the difference between them.
+README for step 3: `step_3/README.md`
+In step 3, there are **4 separate CSV files** for each event plus one combined csv file for all events. The files contain info about each user annotation, such as upvotes and downvotes and eventual approval or disapproval of the annotation depending on the difference between them.
 
 In order to correctly display the CSV files and the registered records, it is suggested to use Libre or Open Office. The recommended setup for a properly display of the CSV file can be adjusted in the import popup window: 'Character set' to 'Unicode (UTF-8)', the separator options 'Tab', 'Comma' and 'Semicolon' should be selected and the 'Column type' of Column A (Record ID) should be changed from 'Standard' to 'Text'.
 
@@ -79,6 +82,8 @@ In order to correctly display the CSV files and the registered records, it is su
 |Collection Name|Same as Is Part Of|
 |First time published on Europeana|Timestamp of when the item was first published on Europeana|
 |Last time updated from providing institution|Timestamp of when the item was last updated on Europeana by its provider|
+
+Metadata retrieved using the [Europeana API endpoint](https://api.europeana.eu/set/26106.json) for the specific set.
 
 `KROVETS_FOLK_TAGS.CSV`
 |Column name|Description|
@@ -114,7 +119,41 @@ In order to correctly display the CSV files and the registered records, it is su
 |europeana_id|Id of the item possessing the tag|
 |upvotes|Amount of upvotes by users|
 |downvotes|Amount of downvotes by users|
-|recommendation|**'accept'** if upvotes >= downvotes else **'reject'**|
+|recommendation|**'accept'** if upvotes > downvotes else **'reject'** (or **'unknown'** if upvotes=downvotes)|
+|event_number|The event in which the annotation was made (only in the combined csv file)|
+
+The combined CSV holds a total of **18625** tag annotations from all 4 events.
+For each event:
+|CSV number|Tag annotation|
+|--|--|
+|1|4018|
+|2|4018|
+|3|4760|
+|4|5829|
+
+Tags generated in each step (not including human annotation)
+|Step|Tags created|
+|--|--|
+|1|893|
+|2|4581|
+|Total|5474|
+
+`ANNOTATIONS JSON FILES`
+|Header name|Description|
+|--|--|
+|@context|Essential metadata for the json file|
+|@graph|The body of the json file, holding the following info|
+
+`BODY FROM JSON FILES`
+|Header name|Description|
+|--|--|
+|type|'Annotation' in this case|
+|created|Date of creation + hour|
+|creator|Creator of the annotation (if recorded), usually an AI model|
+|confidence|Value in range 0-1 about the confidence with which the tag annotation was made|
+|body|Info about the content of the actual tag in question|
+|target|The item's id on Europeana|
+|review|Info about the amount of downvotes and upvotes the tag received and subsequent recommendation|
 
 ## License    
 This data repository is released under the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) licence. The Krovets ethnographic collection is published under a [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) licence. All accompanying metadata are released into the public domain using [CC0](https://creativecommons.org/public-domain/cc0/), to be freely copied, modified, distributed and reused. 
