@@ -3,7 +3,9 @@
 
 # AISTER Human-In-The-Loop Crowdsourcing Pilot
 
-*The repository contains the complete workflow and files for automatically generating description tags for artefacts on Europeana using AI tools (natural language processing, computer vision), and for running a human-in-the-loop crowdsourcing campaign to validate the tags.* 
+*The repository contains the complete workflow, actionable code in notebooks and output files for:
+1. Automatically generating annotations (description tags) for artefacts on **Europeana** using AI tools (natural language processing, computer vision) and Europeana APIs, and
+2. Developing a human-in-the-loop crowdsourcing campaign on the **CrowdHeritage** platform to validate the annotations, also enabling participants to contribute additional user-generated annotations.*  
 
 ##  Pilot description
 This case study forms a small-scale exploratory pilot within the field of Digital Humanities / Cultural Heritage Informatics, operationalising and analysing a **human-in-the-loop (HITL) crowdsourcing framework for metadata enrichment in Europeana collections**. 
@@ -21,17 +23,17 @@ The pilot consists of 3 technical steps, each documented in its respective folde
 The *notebooks* folder contains executable code in Jupyter Notebook (.ipynb) format, while the *outputs* folder includes the resulting files generated from running the notebooks (CSV and JSON).
 
 ## Workflow overview  
-*Step 1*: Tag generation from text (NLP-based)  
+*Step 1*: Annotation generation from text (NLP-based)  
 - Retrieve metadata (titles, descriptions) from the Europeana API  
-- Generate tags from the text using NLP (NER) with spaCy
+- Generate annotations from the text using NLP (NER) with spaCy
   
-*Step 2*: Tag generation from images (computer vision-based)  
+*Step 2*: Annotation generation from images (computer vision-based)  
 - Download images from the dataset  
 - Generate image captions using computer vision  
-- Generate tags from the image captions
+- Generate annotations from the image captions
   
 *Step 3*: Preparation for crowdsourcing (JSON-LD formatting)  
-- Format all generated tags based on the W3C annotation model for direct ingestion in the crowdsourcing platform  
+- Format all generated annotations based on the W3C annotation model for direct ingestion in the crowdsourcing platform  
 
 ## Applied heritage collection: The Krovets ethnographic collection  
 The Krovets ethnographic collection contains 3840 artefacts of Ukrainian traditional art and life spanning the 19th and 20th centuries. It is part of the Krovets Online Museum of Traditional Art of Ukraine (https://krovets.ua/en). The collection includes a variety of different artefacts, from everyday objects like utensils and clothing to folk art.  
@@ -44,13 +46,13 @@ The institution providing the collection and metadata is the [Online Museum of t
 ## Technical Aspects
 
 ### Step 1:
-The `krovets_folk_metadata.csv` file contains metadata for the 312 records concerning folk paintings and icons retrieved using the Europeana API such as title, description, creator and image URL. The generated `krovets_folk_tags.csv` contains the NLP generated tags (figures, objects, scenes) for each of the 312 records.
+The `krovets_folk_metadata.csv` file contains metadata for the 312 records concerning folk paintings and icons retrieved using the Europeana API such as title, description, creator and image URL. The generated `krovets_folk_tags.csv` contains the NLP-generated tags (figures, objects, scenes) for each of the 312 records.
 
 ### Step 2:
-The `captions.csv` file contains the captions created for each of the records through machine vision. The `tags.csv` file has all the candidate tags produced by the image caption (figures, objects, scenes, background, attire, text, damage).
+The `captions.csv` file contains captions generated for each record using machine vision. The `tags.csv` file contains all candidate tags generated from the image caption (figures, objects, scenes, background, attire, text, damage).
 
 ### Step 3:
-In step 3 there are **4 separate CSV files** for each of the events. The files contain info about each user annotation on a tag, such as upvotes and downvotes and eventual approval or disapproval of the tag depending on the difference between them.
+In step 3, there are **5 separate CSV files** for each event. The files contain info about each user annotation, such as upvotes and downvotes and eventual approval or disapproval of the annotation depending on the difference between them.
 
 In order to correctly display the CSV files and the registered records, it is suggested to use Libre or Open Office. The recommended setup for a properly display of the CSV file can be adjusted in the import popup window: 'Character set' to 'Unicode (UTF-8)', the separator options 'Tab', 'Comma' and 'Semicolon' should be selected and the 'Column type' of Column A (Record ID) should be changed from 'Standard' to 'Text'.
 
@@ -129,7 +131,7 @@ The GitHub repository of Web2Learn follows the [Contributor Covenant](https://ww
 [Dr Katerina Zourou](https://web2learn.eu/katerina-zourou/): Director
 
 ## Cite this dataset
-When referring to or using the data repository in research publications and documentation, consider citing the dataset with its digital object identifier (DOI) minted on Zenodo. Citing the dataset of the HITL crowdsourcing pilot creates a mapping of attribution supporting efforts to release other datasets in the future. It also reduces the amount of "orphaned data," helping to retain source links.  
+When referring to or using the data repository in research publications and documentation, cite the dataset using its digital object identifier (DOI) minted on Zenodo. Citing the dataset from the HITL crowdsourcing pilot creates a mapping of attribution that supports future efforts to release other datasets. It also reduces the amount of "orphaned data," helping to retain source links.  
 Cite the repository as: Ziku, M., Kouzelis, A., Darsaklis, A. & Zourou, K. (2026). The AISTER Human-In-The-Loop Crowdsourcing Pilot [Dataset]. Zenodo. 
 
 ## Acknowledgements
