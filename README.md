@@ -125,7 +125,7 @@ Metadata retrieved using the [Europeana API endpoint](https://api.europeana.eu/s
 
 The combined CSV holds a total of **18625** tag annotations from all 4 events.
 For each event:
-|CSV number|Tag annotation|
+|Crowdsourcing event|Tag annotation|
 |--|--|
 |1|4018|
 |2|4018|
@@ -155,6 +155,46 @@ Tags generated in each step (not including human annotation)
 |body|Info about the content of the actual tag in question|
 |target|The item's id on Europeana|
 |review|Info about the amount of downvotes and upvotes the tag received and subsequent recommendation|
+
+## Data Statistics
+### Annotation Statistics Overview
+
+**Total annotations: 24099**
+
+#### AI-Generated Annotations
+- Text-based (Step 1): 893 tags
+- Image-based (Step 2): 4581 tags
+- **Subtotal AI-generated: 5474 tags**
+
+#### Human Annotations
+- Validations (upvotes/downvotes): 18625 tag annotations across 4 crowdsourcing events
+- User-generated annotations: Not separately quantified
+- **Subtotal human annotations: 18625 tags**
+
+---
+
+### Detailed Breakdown by Step
+
+#### Step 1: Text-Based NLP Annotation
+- **Artefacts processed:** 312 folk art paintings
+- **Metadata extracted:** Title, description, creator information from Europeana API
+- **AI-generated tags:** 893 total
+    - Figures (persons visible)
+    - Objects (depicted items/materials)
+    - Scenes (actions, context, background)
+
+#### Step 2: Image-Based Computer Vision Annotation
+- **Metadata from textual captions:** 312 image captions generated via machine vision
+- **Metadata from image analysis:** 4581 tags generated, categorized as:
+    - Figures, objects, scenes, background, attire, text, damage
+
+#### Step 3: Human-In-The-Loop Crowdsourcing Validation
+- **Event 1:** 4018 annotations
+- **Event 2:** 4018 annotations
+- **Event 3:** 4760 annotations
+- **Event 4:** 5829 annotations
+- **Combined total:** 18625 validated/reviewed annotations
+
 
 ## License    
 This data repository is released under the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) licence. The Krovets ethnographic collection is published under a [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) licence. All accompanying metadata are released into the public domain using [CC0](https://creativecommons.org/public-domain/cc0/), to be freely copied, modified, distributed and reused. 
