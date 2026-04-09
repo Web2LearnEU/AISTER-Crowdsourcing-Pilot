@@ -212,7 +212,7 @@ Olha Hapii, [Stand with Ukraine Foundation](https://www.standwukraine.org/en/hom
 ## Cite this dataset
 When referring to or using the data repository in research publications and documentation, cite the dataset using its digital object identifier (DOI) minted on Zenodo. Citing the dataset from the HITL crowdsourcing pilot creates a mapping of attribution that supports future efforts to release other datasets. It also reduces the amount of "orphaned data," helping to retain source links.  
 Cite the repository as: 
-Ziku, M., Kouzelis, A., Darsaklis, A., Oikonomou, S., & Zourou, K. (2026). Human-in-the-Loop Crowdsourced Annotation Dataset for Ukrainian Folk Art with Reproducible Jupyter Notebooks [Data set]. AISTER. [https://doi.org/10.5281/zenodo.194753](https://doi.org/10.5281/zenodo.19475309)
+Ziku, M., Kouzelis, A., Darsaklis, A., Oikonomou, S., & Zourou, K. (2026). Human-in-the-Loop Crowdsourced Annotation Dataset for Ukrainian Folk Art with Reproducible Jupyter Notebooks [Data set]. AISTER. [https://doi.org/10.5281/zenodo.19475309](https://doi.org/10.5281/zenodo.19475309)
 
 ## Acknowledgements
 This README file adopts the structure of the *KU Leuven Libraries* Git-based dataset documentation, i.e., https://github.com/KU-Leuven-Libraries/Portraits-Collection-Dataset. See: KU Leuven Libraries, Digitisation Department. (2019). The Portraits Collection Dataset of KU Leuven Libraries, Special Collections (Version 01-beta2) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3460785.  
