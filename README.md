@@ -123,22 +123,6 @@ Metadata retrieved using the [Europeana API endpoint](https://api.europeana.eu/s
 |recommendation|**'accept'** if upvotes > downvotes else **'reject'** (or **'unknown'** if upvotes=downvotes)|
 |event_number|The event in which the annotation was made (only in the combined csv file)|
 
-The combined CSV holds a total of **18625** tag annotations from all 4 events.
-For each event:
-|Crowdsourcing event|Tag annotation|
-|--|--|
-|1|4018|
-|2|4018|
-|3|4760|
-|4|5829|
-
-Tags generated in each step (not including human annotation)
-|Step|Tags created|
-|--|--|
-|1|893|
-|2|4581|
-|Total|5474|
-
 `ANNOTATIONS JSON FILES`
 |Header name|Description|
 |--|--|
