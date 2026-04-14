@@ -177,7 +177,8 @@ Metadata retrieved using the [Europeana API endpoint](https://api.europeana.eu/s
 - **Event 2:** 4018 annotations
 - **Event 3:** 4760 annotations
 - **Event 4:** 5829 annotations
-- **Combined total:** 18625 validated/reviewed annotations
+- **Event 5:** 5946 annotations
+- **Combined total:** 24574 validated/reviewed annotations
 
 
 ## License    
