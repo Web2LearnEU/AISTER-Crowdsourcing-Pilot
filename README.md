@@ -153,7 +153,7 @@ Metadata retrieved using the [Europeana API endpoint](https://api.europeana.eu/s
 #### Human Annotations
 - Validations (upvotes/downvotes): 24574 tag annotations across 5 crowdsourcing events
 - User-generated annotations: Not separately quantified
-- **Subtotal human annotations: 245874 tags**
+- **Subtotal human annotations: 24574 tags**
 
 ---
 
