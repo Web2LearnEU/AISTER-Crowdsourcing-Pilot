@@ -140,45 +140,50 @@ Metadata retrieved using the [Europeana API endpoint](https://api.europeana.eu/s
 |target|The item's id on Europeana|
 |review|Info about the amount of downvotes and upvotes the tag received and subsequent recommendation|
 
+
+
 ## Data Statistics
-### Annotation Statistics Overview
 
-**Total annotations: 24099**
+### Step 1 and Step 2 annotation creation
 
-#### AI-Generated Annotations
-- Text-based (Step 1): 893 tags
-- Image-based (Step 2): 4581 tags
-- **Subtotal AI-generated: 5474 tags**
+Step 1 produced text-based annotations and Step 2 produced image-based annotations across **312 artefacts**. After merging and deduplication, the combined set contains **3,927 annotations**.
 
-#### Human Annotations
-- Validations (upvotes/downvotes): 24574 tag annotations across 5 crowdsourcing events
-- User-generated annotations: Not separately quantified
-- **Subtotal human annotations: 24574 tags**
+| Source                                             | Annotations |
+| -------------------------------------------------- | ----------: |
+| Text-based annotations (Step 1)                    |         893 |
+| Image-based annotations (Step 2, raw)              |       4,581 |
+| **Combined annotations after merge/deduplication** |   **3,927** |
 
----
+### Step 3 crowdsourcing
 
-### Detailed Breakdown by Step
+In Step 3, the annotations produced in the previous stages were presented on the crowdsourcing platform for participant validation, while expert participants could also contribute additional human annotations. The final Step 3 snapshot covers **311 artefacts** and contains **5,946 annotations** in total.
 
-#### Step 1: Text-Based NLP Annotation
-- **Artefacts processed:** 312 folk art paintings
-- **Metadata extracted:** Title, description, creator information from Europeana API
-- **AI-generated tags:** 893 total
-    - Figures (persons visible)
-    - Objects (depicted items/materials)
-    - Scenes (actions, context, background)
+| Annotation type       |     Value |
+| --------------------- | --------: |
+| Software annotations  |     3,917 |
+| Human annotations     |     2,029 |
+| **Total annotations** | **5,946** |
 
-#### Step 2: Image-Based Computer Vision Annotation
-- **Metadata from textual captions:** 312 image captions generated via machine vision
-- **Metadata from image analysis:** 4581 tags generated, categorized as:
-    - Figures, objects, scenes, background, attire, text, damage
+*Note: one artefact from Steps 1 and 2 (`KYD1699`) is not present in the final Step 3 snapshot, which is why the software-annotation count is 3,917 rather than 3,927.*
 
-#### Step 3: Human-In-The-Loop Crowdsourcing Validation
-- **Event 1:** 4018 annotations
-- **Event 2:** 4018 annotations
-- **Event 3:** 4760 annotations
-- **Event 4:** 5829 annotations
-- **Event 5:** 5946 annotations
-- **Combined total:** 24574 validated/reviewed annotations
+Participants submitted **51,952 votes** in total, including **48,599 upvotes** and **3,353 downvotes**.
+
+| Voting metric   |      Value |
+| --------------- | ---------: |
+| Upvotes         |     48,599 |
+| Downvotes       |      3,353 |
+| **Total votes** | **51,952** |
+
+The table below shows the number of annotations processed in each event, where processing refers to participant voting.
+
+| Event                           |     Value |
+| ------------------------------- | --------: |
+| Event 1                         |     4,018 |
+| Event 2                         |       742 |
+| Event 3                         |     1,069 |
+| Event 4                         |       117 |
+| **Total processed annotations** | **5,946** |
+
 
 
 ## License    
