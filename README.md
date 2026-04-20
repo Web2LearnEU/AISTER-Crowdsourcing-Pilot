@@ -166,23 +166,16 @@ In Step 3, the annotations produced in the previous stages were presented on the
 
 *Note: one artefact from Steps 1 and 2 (`KYD1699`) is not present in the final Step 3 snapshot, which is why the software-annotation count is 3,917 rather than 3,927.*
 
-Participants submitted **51,952 votes** in total, including **48,599 upvotes** and **3,353 downvotes**.
+Across the **five crowdsourcing events**, participants submitted **51,952 votes** in total, including **48,599 upvotes** and **3,353 downvotes**. The table below shows participant votes per event.
 
-| Voting metric   |      Value |
-| --------------- | ---------: |
-| Upvotes         |     48,599 |
-| Downvotes       |      3,353 |
-| **Total votes** | **51,952** |
-
-The table below shows the number of annotations processed in each event, where processing refers to participant voting.
-
-| Event                           |     Value |
-| ------------------------------- | --------: |
-| Event 1                         |     4,018 |
-| Event 2                         |       742 |
-| Event 3                         |     1,069 |
-| Event 4                         |       117 |
-| **Total processed annotations** | **5,946** |
+| Event     | Upvotes    | Downvotes | Total votes |
+| --------- | ---------: | --------: | ----------: |
+| Event 1   |      5,326 |     1,090 |       6,416 |
+| Event 2   |         12 |         0 |          12 |
+| Event 3   |     10,450 |       634 |      11,084 |
+| Event 4   |     31,733 |     1,628 |      33,361 |
+| Event 5   |      1,078 |         1 |       1,079 |
+| **Total** | **48,599** | **3,353** |  **51,952** |
 
 
 
