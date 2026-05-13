@@ -190,8 +190,14 @@ Across the **five crowdsourcing events**, participants submitted **51,952 votes*
 ### Step 4 ethical assessment
 Step 4 parsed all final annotations (accepted and rejected) for contentious, biased and other types of problematic language, resulting in 1 single finding, the term *slave* in row 3,867, which was manually transformed to *enslaved person* as per recommendation of the DE-BIAS vocabulary. Notably, the term was accepted during the human validation process.
 
+| created    | value               | europeana_id | upvotes | downvotes | recommendation |
+| ---------- | ------------------- | ------------ | ------- | --------- | -------------- |
+| 13.02.2026 | **enslaved person** | KYD1855      | 6       | 3         | accept         |
+
 ### Final dataset
 The [final dataset](https://github.com/Web2LearnEU/AISTER-Crowdsourcing-Pilot/blob/main/AISTER_final_pilot_dataset-debias-assessed-human_in_the_loop_validated-ukrainian_folkart_annotations.csv) of the AISTER pilot produced 5,619 new descriptive annotations completing all 4 workflow steps: AI-generated (steps 1, 2), human-crowdsourced and validated (step 3), and ethically assessed (step 4).
+
+---
 
 ## License    
 This data repository is released under the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) licence. The Krovets ethnographic collection is published under a [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) licence. All accompanying metadata are released into the public domain using [CC0](https://creativecommons.org/public-domain/cc0/), to be freely copied, modified, distributed and reused. 
