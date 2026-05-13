@@ -197,6 +197,13 @@ Step 4 parsed all final annotations (accepted and rejected) for contentious, bia
 ### Final dataset
 The [final dataset](https://github.com/Web2LearnEU/AISTER-Crowdsourcing-Pilot/blob/main/AISTER_final_pilot_dataset-debias-assessed-human_in_the_loop_validated-ukrainian_folkart_annotations.csv) of the AISTER pilot produced **5,619 new descriptive annotations** completing all 4 workflow steps: AI-generated (steps 1, 2), human-crowdsourced and validated (step 3), and ethically assessed (step 4).
 
+Indicative examples:
+
+| created    | value          | europeana_id | upvotes | downvotes | recommendation |
+|------------|----------------|---------------|----------|------------|----------------|
+| 27.03.2026 | white lily     | KYD1242       | 9        | 0          | accept         |
+| 13.02.2026 | rural village  | KSU12         | 21       | 0          | accept         |
+
 <br><br>  
   
 ---
