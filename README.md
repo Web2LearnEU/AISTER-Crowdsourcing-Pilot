@@ -195,9 +195,9 @@ Step 4 parsed all final annotations (accepted and rejected) for contentious, bia
 | 13.02.2026 | **enslaved person** | KYD1855      | 6       | 3         | accept         |
 
 ### Final dataset
-<span style="background-color: yellow;">The [final dataset](https://github.com/Web2LearnEU/AISTER-Crowdsourcing-Pilot/blob/main/AISTER_final_pilot_dataset-debias-assessed-human_in_the_loop_validated-ukrainian_folkart_annotations.csv) of the AISTER pilot produced 5,619 new descriptive annotations completing all 4 workflow steps: AI-generated (steps 1, 2), human-crowdsourced and validated (step 3), and ethically assessed (step 4).</span>
+The [final dataset](https://github.com/Web2LearnEU/AISTER-Crowdsourcing-Pilot/blob/main/AISTER_final_pilot_dataset-debias-assessed-human_in_the_loop_validated-ukrainian_folkart_annotations.csv) of the AISTER pilot produced **5,619 new descriptive annotations** completing all 4 workflow steps: AI-generated (steps 1, 2), human-crowdsourced and validated (step 3), and ethically assessed (step 4).
 
-  
+<br><br>  
   
 ---
 
