@@ -63,11 +63,11 @@ The `captions.csv` file contains captions generated for each record using machin
 
 ### Step 3:
 README for step 3: `step_3/README.md`
-In step 3, there are **6 separate CSV files**, 5 capturing data from an event plus one combined csv file for all events. The files contain info about each user annotation, such as upvotes and downvotes and eventual approval or disapproval of the annotation depending on the difference between them.
+In step 3, there are 6 separate CSV files: 5 capture data from each related workshop, and one combines all workshops' data into a single CSV. The files contain information about each user annotation, such as upvotes, downvotes, additional user-generated tags, and eventual approval or disapproval of the annotation.
 
 ### Step 4:
 README for step 4: `step_4/README.md`
-In step 4, 
+In step 4, the final dataset resulting from the human-in-the-loop validation process from step 3, is queried for problematic terminology.
 
 In order to correctly display the CSV files and the registered records, it is suggested to use Libre or Open Office. The recommended setup for a properly display of the CSV file can be adjusted in the import popup window: 'Character set' to 'Unicode (UTF-8)', the separator options 'Tab', 'Comma' and 'Semicolon' should be selected and (optional) the 'Column type' of Column A (Record ID) should be changed from 'Standard' to 'Text'.
 
@@ -152,8 +152,7 @@ Metadata retrieved using the [Europeana API endpoint](https://api.europeana.eu/s
 |review|Info about the amount of downvotes and upvotes the tag received and subsequent recommendation|
 
 
-
-## Data Statistics
+## Data Statistics and Results
 
 ### Step 1 and Step 2 annotation creation
 
