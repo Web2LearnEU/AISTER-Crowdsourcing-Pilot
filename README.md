@@ -95,7 +95,7 @@ In order to correctly display the CSV files and the registered records, it is su
 |First time published on Europeana|Timestamp of when the item was first published on Europeana|
 |Last time updated from providing institution|Timestamp of when the item was last updated on Europeana by its provider|
 
-Metadata retrieved using the [Europeana API endpoint](https://api.europeana.eu/set/26106.json) for the specific set.
+Metadata retrieved using the [Europeana User Set API endpoint](https://api.europeana.eu/set/26106.json) for the specific set.
 
 `KROVETS_FOLK_TAGS.CSV`
 |Column name|Description|
