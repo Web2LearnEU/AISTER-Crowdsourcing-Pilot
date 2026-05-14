@@ -237,9 +237,11 @@ Olha Hapii, [Stand with Ukraine Foundation](https://www.standwukraine.org/en/hom
 [Uldis Zarinš](https://pro.europeana.eu/person/uldis-zarins), Deputy State Secretary, Ministry of Culture, Latvia  
 [Konstantine Gagnidze](https://www.linkedin.com/in/konstantine-gagnidze/), Senior Project Manager, Young Folks LV  
 
-## Cite this dataset
+## Cite this repository and dataset
 When referring to or using the data repository in research publications and documentation, cite the dataset using its digital object identifier (DOI) on Zenodo. Citing the dataset from the HITL crowdsourcing pilot creates a mapping of attribution that supports future efforts to release other datasets. It also reduces the amount of "orphaned data," helping to retain source links.  
-Cite the repository as: 
+Cite the **open repository** as: 
+Ziku, M., Kouzelis, A., & Darsaklis, A. (2026). AISTER-Crowdsourcing-Pilot [GitHub repository]. GitHub. https://github.com/Web2LearnEU/AISTER-Crowdsourcing-Pilot
+Cite the **open dataset** as:
 Ziku, M., Kouzelis, A., Darsaklis, A., Oikonomou, S., & Zourou, K. (2026). Human-in-the-Loop Crowdsourced Annotation Dataset for Ukrainian Folk Art with Reproducible Jupyter Notebooks [Data set]. AISTER. [https://doi.org/10.5281/zenodo.19475309](https://doi.org/10.5281/zenodo.19475309)
 
 ## Acknowledgements
